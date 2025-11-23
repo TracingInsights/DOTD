@@ -1,8 +1,35 @@
 {
   "year": 2025,
-  "total_races": 21,
-  "last_updated": "2025-11-17T12:22:42.072961+00:00",
+  "total_races": 22,
+  "last_updated": "2025-11-23T06:06:27.626534+00:00",
   "races": [
+    {
+      "race_name": "Las Vegas Grand Prix",
+      "year": 2025,
+      "winner": "Max Verstappen",
+      "voting_results": [
+        {
+          "driver": "Max Verstappen",
+          "percentage": 26.2
+        },
+        {
+          "driver": "Kimi Antonelli",
+          "percentage": 16.4
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 14.5
+        },
+        {
+          "driver": "Charles Leclerc",
+          "percentage": 13.5
+        },
+        {
+          "driver": "Lando Norris",
+          "percentage": 7.5
+        }
+      ]
+    },
     {
       "race_name": "São Paulo Grand Prix",
       "year": 2025,
