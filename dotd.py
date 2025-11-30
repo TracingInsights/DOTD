@@ -14,8 +14,12 @@ def fetch_markdown_from_url(url):
     jina_url = f"https://r.jina.ai/{url}"
 
     try:
+        headers = {
+                        "X-No-Cache": "true"
+        }
+
         print(f"Fetching data from: {jina_url}")
-        response = requests.get(jina_url, timeout=30)
+        response = requests.get(jina_url, timeout=30, headers=headers)
         response.raise_for_status()
 
         print(f"Successfully fetched {len(response.text)} characters")
