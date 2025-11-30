@@ -1,0 +1,27 @@
+{
+  "race_name": "Qatar Grand Prix",
+  "year": 2025,
+  "winner": "Max Verstappen",
+  "voting_results": [
+    {
+      "driver": "Max Verstappen",
+      "percentage": 31.2
+    },
+    {
+      "driver": "Carlos Sainz",
+      "percentage": 30.0
+    },
+    {
+      "driver": "Oscar Piastri",
+      "percentage": 10.2
+    },
+    {
+      "driver": "Kimi Antonelli",
+      "percentage": 6.7
+    },
+    {
+      "driver": "Lando Norris",
+      "percentage": 5.6
+    }
+  ]
+}

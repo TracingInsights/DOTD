@@ -12,8 +12,8 @@
     2025
   ],
   "total_years": 10,
-  "total_races": 211,
-  "last_updated": "2025-11-30T18:05:29.521225+00:00",
+  "total_races": 212,
+  "last_updated": "2025-11-30T18:10:19.279326+00:00",
   "data_by_year": {
     "2016": {
       "total_races": 21,
@@ -817,8 +817,12 @@
       ]
     },
     "2025": {
-      "total_races": 22,
+      "total_races": 23,
       "races": [
+        {
+          "race_name": "Qatar Grand Prix",
+          "winner": "Max Verstappen"
+        },
         {
           "race_name": "Las Vegas Grand Prix",
           "winner": "Max Verstappen"
