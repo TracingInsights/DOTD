@@ -31,10 +31,13 @@ def fetch_dotd_data(year=2025):
     # Fetch markdown content from URL
     url = urls[year]
     jina_url = f"https://r.jina.ai/{url}"
+    headers = {        
+        "X-No-Cache": "true"
+    }
 
     try:
         print(f"Fetching data from: {jina_url}")
-        response = requests.get(jina_url, timeout=30)
+        response = requests.get(jina_url, timeout=30, headers=headers)
         response.raise_for_status()
 
         content = response.text
