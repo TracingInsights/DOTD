@@ -1,8 +1,31 @@
 {
   "year": 2025,
-  "total_races": 23,
-  "last_updated": "2025-12-01T12:24:03.845300+00:00",
+  "total_races": 24,
+  "last_updated": "2025-12-07T15:21:06.506739+00:00",
   "races": [
+    {
+      "race_name": "Abu Dhabi Grand Prix",
+      "year": 2025,
+      "winner": "Max Verstappen",
+      "voting_results": [
+        {
+          "driver": "Max Verstappen",
+          "percentage": 19.0
+        },
+        {
+          "driver": "Lando Norris",
+          "percentage": 16.3
+        },
+        {
+          "driver": "Lewis Hamilon",
+          "percentage": 13.4
+        },
+        {
+          "driver": "Charles Leclerc",
+          "percentage": 12.2
+        }
+      ]
+    },
     {
       "race_name": "Qatar Grand Prix",
       "year": 2025,
