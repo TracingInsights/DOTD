@@ -1,7 +1,7 @@
 {
   "year": 2025,
   "total_races": 24,
-  "last_updated": "2026-01-12T12:27:30.919849+00:00",
+  "last_updated": "2026-01-19T12:27:54.419768+00:00",
   "races": [
     {
       "race_name": "Abu Dhabi Grand Prix",
@@ -17,7 +17,7 @@
           "percentage": 16.3
         },
         {
-          "driver": "Lewis Hamilon",
+          "driver": "Lewis Hamilton",
           "percentage": 13.4
         },
         {
