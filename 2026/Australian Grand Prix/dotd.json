@@ -1,0 +1,27 @@
+{
+    "race_name": "Australian Grand Prix",
+    "year": 2026,
+    "winner": "Max Verstappen",
+    "voting_results": [
+        {
+            "driver": "Max Verstappen",
+            "percentage": 30.0
+        },
+        {
+            "driver": "Charles Leclerc",
+            "percentage": 14.2
+        },
+        {
+            "driver": "Arvid Lindblad",
+            "percentage": 10.5
+        },
+        {
+            "driver": "George Russell",
+            "percentage": 10.2
+        },
+        {
+            "driver": "Lewis Hamilton",
+            "percentage": 9.6
+        }
+    ]
+}
