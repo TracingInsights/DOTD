@@ -1,4 +1,5 @@
 urls = {
+    2026: "https://www.formula1.com/en/latest/article/driver-of-the-day-2026.1LylQrZ0Dp7NqEPtQ2xuRI",
     2025: "https://www.formula1.com/en/latest/article/driver-of-the-day-2025.1vNM15UysUT1r3A2OMaFqH",
     2024: "https://www.formula1.com/en/latest/article/driver-of-the-day-2024.1I7A0iPl3nMaXyPIeFVFLZ",
     2023: "https://www.formula1.com/en/latest/article/driver-of-the-day-2023.5wGE2ke3SFqQwabYVQXLnF",
@@ -13,6 +14,34 @@ urls = {
 
 
 F1_RACES = {
+        2026: {
+        "FORMULA 1 ARAMCO PRE-SEASON TESTING 1 2026": "Pre-Season Testing 1",
+        "FORMULA 1 ARAMCO PRE-SEASON TESTING 2 2026": "Pre-Season Testing 2",
+        "FORMULA 1 QATAR AIRWAYS AUSTRALIAN GRAND PRIX 2026": "Australian Grand Prix",
+        "FORMULA 1 HEINEKEN CHINESE GRAND PRIX 2026": "Chinese Grand Prix",
+        "FORMULA 1 ARAMCO JAPANESE GRAND PRIX 2026": "Japanese Grand Prix",
+        "FORMULA 1 GULF AIR BAHRAIN GRAND PRIX 2026": "Bahrain Grand Prix",
+        "FORMULA 1 STC SAUDI ARABIAN GRAND PRIX 2026": "Saudi Arabian Grand Prix",
+        "FORMULA 1 CRYPTO.COM MIAMI GRAND PRIX 2026": "Miami Grand Prix",
+        "FORMULA 1 LENOVO GRAND PRIX DU CANADA 2026": "Canadian Grand Prix",
+        "FORMULA 1 LOUIS VUITTON GRAND PRIX DE MONACO 2026": "Monaco Grand Prix",
+        "FORMULA 1 MSC CRUISES GRAN PREMIO DE BARCELONA-CATALUNYA 2026": "Barcelona Grand Prix",
+        "FORMULA 1 LENOVO AUSTRIAN GRAND PRIX 2026": "Austrian Grand Prix",
+        "FORMULA 1 PIRELLI BRITISH GRAND PRIX 2026": "British Grand Prix",
+        "FORMULA 1 MOËT & CHANDON BELGIAN GRAND PRIX 2026": "Belgian Grand Prix",
+        "FORMULA 1 AWS HUNGARIAN GRAND PRIX 2026": "Hungarian Grand Prix",
+        "FORMULA 1 HEINEKEN DUTCH GRAND PRIX 2026": "Dutch Grand Prix",
+        "FORMULA 1 PIRELLI GRAN PREMIO D'ITALIA 2026": "Italian Grand Prix",
+        "FORMULA 1 TAG HEUER GRAN PREMIO DE ESPAÑA 2026": "Spanish Grand Prix",
+        "FORMULA 1 QATAR AIRWAYS AZERBAIJAN GRAND PRIX 2026": "Azerbaijan Grand Prix",
+        "FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026": "Singapore Grand Prix",
+        "FORMULA 1 MSC CRUISES UNITED STATES GRAND PRIX 2026": "United States Grand Prix",
+        "FORMULA 1 GRAN PREMIO DE LA CIUDAD DE MÉXICO 2026": "Mexico City Grand Prix",
+        "FORMULA 1 MSC CRUISES GRANDE PRÊMIO DE SÃO PAULO 2026": "São Paulo Grand Prix",
+        "FORMULA 1 HEINEKEN LAS VEGAS GRAND PRIX 2026": "Las Vegas Grand Prix",
+        "FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2026": "Qatar Grand Prix",
+        "FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2026": "Abu Dhabi Grand Prix",
+    },
     2025: {
         "FORMULA 1 LOUIS VUITTON AUSTRALIAN GRAND PRIX 2025": "Australian Grand Prix",
         "FORMULA 1 HEINEKEN CHINESE GRAND PRIX 2025": "Chinese Grand Prix",
