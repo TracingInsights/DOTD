@@ -9,7 +9,7 @@ import requests
 from mapping import F1_RACES, urls
 
 
-def fetch_dotd_data(year=2025):
+def fetch_dotd_data(year=2026):
     """
     Fetch Driver of the Day data for a specific year
 
