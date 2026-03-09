@@ -245,7 +245,7 @@ def main():
     print("=" * 60)
 
     # Fetch data for 2025 (or change the year as needed)
-    fetch_dotd_data(year=2025)
+    fetch_dotd_data(year=2026)
 
     # Compile overall summary using existing data
     compile_overall_summary()
