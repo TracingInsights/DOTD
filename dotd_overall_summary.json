@@ -14,7 +14,7 @@
   ],
   "total_years": 11,
   "total_races": 214,
-  "last_updated": "2026-03-09T13:34:07.044733+00:00",
+  "last_updated": "2026-03-16T12:46:46.258030+00:00",
   "data_by_year": {
     "2016": {
       "total_races": 21,
@@ -920,7 +920,7 @@
     },
     "2026": {
       "total_races": 1,
-      "races": [        
+      "races": [
         {
           "race_name": "Australian Grand Prix",
           "winner": "Max Verstappen"
