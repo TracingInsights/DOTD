@@ -1,0 +1,27 @@
+{
+      "race_name": "Chinese Grand Prix",
+      "year": 2026,
+      "winner": "Kimi Antonelli",
+      "voting_results": [
+        {
+          "driver": "Kimi Antonelli",
+          "percentage": 23.4
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 22.3
+        },
+        {
+          "driver": "Franco Colapinto",
+          "percentage": 11.4
+        },
+        {
+          "driver": "Oliver Bearman",
+          "percentage": 10.2
+        },
+        {
+          "driver": "Max Verstappen",
+          "percentage": 7.1
+        }
+      ]
+    }
