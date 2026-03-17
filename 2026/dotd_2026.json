@@ -1,35 +1,61 @@
 {
   "year": 2026,
-  "total_races": 1,
-  "last_updated": "2026-03-09T13:32:59.294333+00:00",
+  "total_races": 2,
+  "last_updated": "2026-03-17T00:00:00.000000+00:00",
   "races": [
-    
     {
-    "race_name": "Australian Grand Prix",
-    "year": 2026,
-    "winner": "Max Verstappen",
-    "voting_results": [
+      "race_name": "Australian Grand Prix",
+      "year": 2026,
+      "winner": "Max Verstappen",
+      "voting_results": [
         {
-            "driver": "Max Verstappen",
-            "percentage": 30.0
+          "driver": "Max Verstappen",
+          "percentage": 30.0
         },
         {
-            "driver": "Charles Leclerc",
-            "percentage": 14.2
+          "driver": "Charles Leclerc",
+          "percentage": 14.2
         },
         {
-            "driver": "Arvid Lindblad",
-            "percentage": 10.5
+          "driver": "Arvid Lindblad",
+          "percentage": 10.5
         },
         {
-            "driver": "George Russell",
-            "percentage": 10.2
+          "driver": "George Russell",
+          "percentage": 10.2
         },
         {
-            "driver": "Lewis Hamilton",
-            "percentage": 9.6
+          "driver": "Lewis Hamilton",
+          "percentage": 9.6
         }
-    ]
-}
+      ]
+    },
+    {
+      "race_name": "Chinese Grand Prix",
+      "year": 2026,
+      "winner": "Kimi Antonelli",
+      "voting_results": [
+        {
+          "driver": "Kimi Antonelli",
+          "percentage": 23.4
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 22.3
+        },
+        {
+          "driver": "Franco Colapinto",
+          "percentage": 11.4
+        },
+        {
+          "driver": "Oliver Bearman",
+          "percentage": 10.2
+        },
+        {
+          "driver": "Max Verstappen",
+          "percentage": 7.1
+        }
+      ]
+    }
   ]
 }
