@@ -13,8 +13,8 @@
     2026
   ],
   "total_years": 11,
-  "total_races": 214,
-  "last_updated": "2026-03-16T12:46:46.258030+00:00",
+  "total_races": 215,
+  "last_updated": "2026-03-23T12:42:01.201797+00:00",
   "data_by_year": {
     "2016": {
       "total_races": 21,
@@ -919,15 +919,15 @@
       ]
     },
     "2026": {
-      "total_races": 1,
+      "total_races": 2,
       "races": [
-        {
-          "race_name": "Chinese Grand Prix",
-          "winner": "Kimi Antonelli"
-        },
         {
           "race_name": "Australian Grand Prix",
           "winner": "Max Verstappen"
+        },
+        {
+          "race_name": "Chinese Grand Prix",
+          "winner": "Kimi Antonelli"
         }
       ]
     }
