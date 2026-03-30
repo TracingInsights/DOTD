@@ -56,6 +56,34 @@
           "percentage": 7.1
         }
       ]
+    },
+    {
+    "race_name": "Japanese Grand Prix",
+    "year": 2026,
+    "winner": "Oscar Piastri",
+    "voting_results": [
+        {
+            "driver": "Oscar Piastri",
+            "percentage": 27.36
+        },
+        {
+            "driver": "Kimi Antonelli",
+            "percentage": 18.94
+        },
+        {
+            "driver": "Charles Leclerc",
+            "percentage": 12.65
+        },
+        {
+            "driver": "Lewis Hamilton",
+            "percentage": 7.04
+        },
+        {
+            "driver": "Max Verstappen",
+            "percentage": 6.84
+        }
+      ]
     }
+
   ]
 }

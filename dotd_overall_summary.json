@@ -919,7 +919,7 @@
       ]
     },
     "2026": {
-      "total_races": 2,
+      "total_races": 3,
       "races": [
         {
           "race_name": "Australian Grand Prix",
@@ -928,6 +928,10 @@
         {
           "race_name": "Chinese Grand Prix",
           "winner": "Kimi Antonelli"
+        },
+        {
+          "race_name": "Japanese Grand Prix",
+          "winner": "Oscar Piastri"
         }
       ]
     }
