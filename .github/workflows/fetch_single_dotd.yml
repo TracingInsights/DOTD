@@ -1,0 +1,134 @@
+name: Fetch Single DOTD Result
+
+on:
+  workflow_dispatch:
+    inputs:
+      url:
+        description: 'F1 Article URL (e.g., https://www.formula1.com/en/latest/article/...)'
+        required: true
+        type: string
+
+# Prevent concurrent runs of this workflow
+concurrency:
+  group: fetch-single-dotd
+  cancel-in-progress: false
+
+jobs:
+  fetch-dotd:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Validate URL input
+        run: |
+          URL="${{ inputs.url }}"
+          if [[ ! "$URL" =~ ^https?://([www\.]*)?formula1\.com/en/latest/article/.* ]]; then
+            echo "Error: Invalid F1 article URL format"
+            echo "URL must be from formula1.com and match the expected pattern"
+            exit 1
+          fi
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v4
+        with:
+          enable-cache: true
+
+      - name: Set up Python
+        run: uv python install
+
+      - name: Install dependencies
+        run: uv sync
+
+      - name: Fetch DOTD data
+        env:
+          TABSTACK_API_KEY: ${{ secrets.TABSTACK_API_KEY }}
+        run: |
+          uv run python fetch_single_dotd.py "${{ inputs.url }}"
+
+      - name: Check for changes
+        id: git-check
+        run: |
+          git status --porcelain
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+          else
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Sanitize URL for commit message
+        if: steps.git-check.outputs.has_changes == 'true'
+        id: sanitize
+        run: |
+          # Extract just the article slug from the URL for the commit message
+          URL="${{ inputs.url }}"
+          ARTICLE_SLUG=$(echo "$URL" | sed -n 's|.*article/\([^/?]*\).*|\1|p')
+          if [ -z "$ARTICLE_SLUG" ]; then
+            ARTICLE_SLUG="f1-article"
+          fi
+          echo "article_slug=$ARTICLE_SLUG" >> $GITHUB_OUTPUT
+
+      - name: Commit and push changes
+        if: steps.git-check.outputs.has_changes == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add .
+          git commit -m "Add DOTD data from article: ${{ steps.sanitize.outputs.article_slug }}"
+          git push
+
+      - name: Extract race info for release
+        if: steps.git-check.outputs.has_changes == 'true'
+        id: race-info
+        run: |
+          # Find the most recently modified dotd.json file
+          RACE_FILE=$(find . -name "dotd.json" -type f -printf '%T@ %p\n' | sort -n | tail -1 | cut -d' ' -f2-)
+
+          # Extract race name and year from the JSON
+          RACE_NAME=$(jq -r '.race_name' "$RACE_FILE")
+          YEAR=$(jq -r '.year' "$RACE_FILE")
+          WINNER=$(jq -r '.winner' "$RACE_FILE")
+
+          # Create tag name (sanitize for git tag requirements)
+          TAG_NAME="${YEAR}-$(echo "$RACE_NAME" | sed 's/[^a-zA-Z0-9]/-/g' | tr '[:upper:]' '[:lower:]' | sed 's/--*/-/g' | sed 's/^-\|-$//g')"
+
+          echo "race_name=$RACE_NAME" >> $GITHUB_OUTPUT
+          echo "year=$YEAR" >> $GITHUB_OUTPUT
+          echo "winner=$WINNER" >> $GITHUB_OUTPUT
+          echo "tag_name=$TAG_NAME" >> $GITHUB_OUTPUT
+          echo "race_file=$RACE_FILE" >> $GITHUB_OUTPUT
+
+      - name: Create Release
+        if: steps.git-check.outputs.has_changes == 'true'
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ steps.race-info.outputs.tag_name }}
+          name: "${{ steps.race-info.outputs.year }} ${{ steps.race-info.outputs.race_name }}"
+          body: |
+            ## Driver of the Day Results
+
+            **Race:** ${{ steps.race-info.outputs.race_name }}
+            **Year:** ${{ steps.race-info.outputs.year }}
+            **Winner:** ${{ steps.race-info.outputs.winner }}
+
+            Data extracted from F1 article: ${{ steps.sanitize.outputs.article_slug }}
+
+            ### Files Updated
+            - Race data: `${{ steps.race-info.outputs.race_file }}`
+            - Yearly summary: `${{ steps.race-info.outputs.year }}/dotd_${{ steps.race-info.outputs.year }}.json`
+            - Overall summary: `dotd_overall_summary.json`
+          files: |
+            ${{ steps.race-info.outputs.race_file }}
+          draft: false
+          prerelease: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: No changes detected
+        if: steps.git-check.outputs.has_changes == 'false'
+        run: |
+          echo "ℹ️ No changes detected. The data may already be up to date."

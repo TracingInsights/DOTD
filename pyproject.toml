@@ -1,0 +1,17 @@
+[project]
+name = "dotd-fetcher"
+version = "0.1.0"
+description = "F1 Driver of the Day data fetcher"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "requests>=2.33.1",
+    "tabstack>=2.6.0",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.uv]
+dev-dependencies = []

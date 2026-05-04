@@ -3,6 +3,28 @@
 Data updated within 1hr 10 minutes of race end
 https://www.formula1.com/en/latest/article/driver-of-the-day-2025.1vNM15UysUT1r3A2OMaFqH
 
+## Fetching Single Race Data
+
+You can manually fetch Driver of the Day results for a specific race using the GitHub Actions workflow:
+
+1. Go to the **Actions** tab in this repository
+2. Select **"Fetch Single DOTD Result"** workflow
+3. Click **"Run workflow"**
+4. Enter the F1 article URL (e.g., `https://www.formula1.com/en/latest/article/driver-of-the-day-verstappens-battling-miami-drive-gets-your-vote.45ksNzyjWSu135WKHMhMfo`)
+5. Click **"Run workflow"** button
+
+The workflow will:
+- Extract the DOTD data using Tabstack API
+- Save the race data to `YEAR/RACE_NAME/dotd.json`
+- Update the yearly summary file `YEAR/dotd_YEAR.json`
+- Update the overall summary file `dotd_overall_summary.json`
+- Commit and push the changes
+- Create a GitHub release with the race results
+
+### Requirements
+
+- `TABSTACK_API_KEY` must be set as a repository secret
+
 https://f1.fandom.com/wiki/Driver_of_the_Day#2016
 
 2018: https://www.formula1.com/en/latest/article/driver-of-the-day.6dwMp9DDgssMeaAkgYuusQ
