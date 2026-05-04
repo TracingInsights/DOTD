@@ -22,7 +22,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Validate URL input
         run: |
@@ -34,7 +34,7 @@ jobs:
           fi
 
       - name: Install uv
-        uses: astral-sh/setup-uv@v4
+        uses: astral-sh/setup-uv@v7
         with:
           enable-cache: true
 
@@ -104,7 +104,7 @@ jobs:
 
       - name: Create Release
         if: steps.git-check.outputs.has_changes == 'true'
-        uses: softprops/action-gh-release@v2
+        uses: softprops/action-gh-release@v3
         with:
           tag_name: ${{ steps.race-info.outputs.tag_name }}
           name: "${{ steps.race-info.outputs.year }} ${{ steps.race-info.outputs.race_name }}"
