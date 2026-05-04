@@ -1,7 +1,7 @@
 {
   "year": 2026,
   "total_races": 4,
-  "last_updated": "2026-03-17T00:00:00.000000+00:00",
+  "last_updated": "2026-05-04T12:35:58.207256+00:00",
   "races": [
     {
       "race_name": "Australian Grand Prix",
@@ -58,59 +58,58 @@
       ]
     },
     {
-    "race_name": "Japanese Grand Prix",
-    "year": 2026,
-    "winner": "Oscar Piastri",
-    "voting_results": [
+      "race_name": "Japanese Grand Prix",
+      "year": 2026,
+      "winner": "Oscar Piastri",
+      "voting_results": [
         {
-            "driver": "Oscar Piastri",
-            "percentage": 27.36
+          "driver": "Oscar Piastri",
+          "percentage": 27.36
         },
         {
-            "driver": "Kimi Antonelli",
-            "percentage": 18.94
+          "driver": "Kimi Antonelli",
+          "percentage": 18.94
         },
         {
-            "driver": "Charles Leclerc",
-            "percentage": 12.65
+          "driver": "Charles Leclerc",
+          "percentage": 12.65
         },
         {
-            "driver": "Lewis Hamilton",
-            "percentage": 7.04
+          "driver": "Lewis Hamilton",
+          "percentage": 7.04
         },
         {
-            "driver": "Max Verstappen",
-            "percentage": 6.84
+          "driver": "Max Verstappen",
+          "percentage": 6.84
         }
       ]
     },
     {
-  "race_name": "Miami Grand Prix",
-  "year": 2026,
-  "winner": "Max Verstappen",
-  "voting_results": [
-    {
-      "driver": "Max Verstappen",
-      "percentage": 26.3
-    },
-    {
-      "driver": "Kimi Antonelli",
-      "percentage": 18.3
-    },
-    {
-      "driver": "Charles Leclerc",
-      "percentage": 13.2
-    },
-    {
-      "driver": "Franco Colapinto",
-      "percentage": 11.0
-    },
-    {
-      "driver": "Lando Norris",
-      "percentage": 9.2
+      "race_name": "Miami Grand Prix",
+      "year": 2026,
+      "winner": "Max Verstappen",
+      "voting_results": [
+        {
+          "driver": "Max Verstappen",
+          "percentage": 26.3
+        },
+        {
+          "driver": "Kimi Antonelli",
+          "percentage": 18.3
+        },
+        {
+          "driver": "Charles Leclerc",
+          "percentage": 13.2
+        },
+        {
+          "driver": "Franco Colapinto",
+          "percentage": 11
+        },
+        {
+          "driver": "Lando Norris",
+          "percentage": 9.2
+        }
+      ]
     }
-  ]
-}
-
   ]
 }
