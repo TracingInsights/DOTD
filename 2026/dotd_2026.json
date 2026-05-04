@@ -1,6 +1,6 @@
 {
   "year": 2026,
-  "total_races": 2,
+  "total_races": 4,
   "last_updated": "2026-03-17T00:00:00.000000+00:00",
   "races": [
     {
@@ -83,7 +83,34 @@
             "percentage": 6.84
         }
       ]
+    },
+    {
+  "race_name": "Miami Grand Prix",
+  "year": 2026,
+  "winner": "Max Verstappen",
+  "voting_results": [
+    {
+      "driver": "Max Verstappen",
+      "percentage": 26.3
+    },
+    {
+      "driver": "Kimi Antonelli",
+      "percentage": 18.3
+    },
+    {
+      "driver": "Charles Leclerc",
+      "percentage": 13.2
+    },
+    {
+      "driver": "Franco Colapinto",
+      "percentage": 11.0
+    },
+    {
+      "driver": "Lando Norris",
+      "percentage": 9.2
     }
+  ]
+}
 
   ]
 }
