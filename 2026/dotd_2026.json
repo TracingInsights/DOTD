@@ -1,7 +1,7 @@
 {
   "year": 2026,
-  "total_races": 4,
-  "last_updated": "2026-05-04T12:35:58.207256+00:00",
+  "total_races": 5,
+  "last_updated": "2026-05-25T08:52:32.017492+00:00",
   "races": [
     {
       "race_name": "Australian Grand Prix",
@@ -108,6 +108,33 @@
         {
           "driver": "Lando Norris",
           "percentage": 9.2
+        }
+      ]
+    },
+    {
+      "race_name": "Canadian Grand Prix",
+      "year": 2026,
+      "winner": "Lewis Hamilton",
+      "voting_results": [
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 27.7
+        },
+        {
+          "driver": "Kimi Antonelli",
+          "percentage": 17.1
+        },
+        {
+          "driver": "Max Verstappen",
+          "percentage": 15.7
+        },
+        {
+          "driver": "Franco Colapinto",
+          "percentage": 9.7
+        },
+        {
+          "driver": "George Russell",
+          "percentage": 6.2
         }
       ]
     }

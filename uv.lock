@@ -1,5 +1,5 @@
 version = 1
-revision = 2
+revision = 3
 requires-python = ">=3.10"
 
 [[package]]
@@ -159,8 +159,8 @@ dependencies = [
 
 [package.metadata]
 requires-dist = [
-    { name = "requests", specifier = ">=2.33.1" },
-    { name = "tabstack", specifier = ">=2.6.0" },
+    { name = "requests", specifier = ">=2.34.2" },
+    { name = "tabstack", specifier = ">=2.6.1" },
 ]
 
 [package.metadata.requires-dev]
@@ -357,7 +357,7 @@ wheels = [
 
 [[package]]
 name = "requests"
-version = "2.33.1"
+version = "2.34.2"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "certifi" },
@@ -365,9 +365,9 @@ dependencies = [
     { name = "idna" },
     { name = "urllib3" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/5f/a4/98b9c7c6428a668bf7e42ebb7c79d576a1c3c1e3ae2d47e674b468388871/requests-2.33.1.tar.gz", hash = "sha256:18817f8c57c6263968bc123d237e3b8b08ac046f5456bd1e307ee8f4250d3517", size = 134120, upload-time = "2026-03-30T16:09:15.531Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/ac/c3/e2a2b89f2d3e2179abd6d00ebd70bff6273f37fb3e0cc209f48b39d00cbf/requests-2.34.2.tar.gz", hash = "sha256:f288924cae4e29463698d6d60bc6a4da69c89185ad1e0bcc4104f584e960b9ed", size = 142856, upload-time = "2026-05-14T19:25:27.735Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/d7/8e/7540e8a2036f79a125c1d2ebadf69ed7901608859186c856fa0388ef4197/requests-2.33.1-py3-none-any.whl", hash = "sha256:4e6d1ef462f3626a1f0a0a9c42dd93c63bad33f9f1c1937509b8c5c8718ab56a", size = 64947, upload-time = "2026-03-30T16:09:13.83Z" },
+    { url = "https://files.pythonhosted.org/packages/a0/f4/c67b0b3f1b9245e8d266f0f112c500d50e5b4e83cb6f3b71b6528104182a/requests-2.34.2-py3-none-any.whl", hash = "sha256:2a0d60c172f83ac6ab31e4554906c0f3b3588d37b5cb939b1c061f4907e278e0", size = 73075, upload-time = "2026-05-14T19:25:26.443Z" },
 ]
 
 [[package]]
@@ -381,7 +381,7 @@ wheels = [
 
 [[package]]
 name = "tabstack"
-version = "2.6.0"
+version = "2.6.1"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "anyio" },
@@ -391,9 +391,9 @@ dependencies = [
     { name = "sniffio" },
     { name = "typing-extensions" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/7e/40/d2f115c272f4a2310bf0bd719ea2f5ee7704021b8a5adc3bf191e66d3b42/tabstack-2.6.0.tar.gz", hash = "sha256:71688dacc0f7f7b059a2b8c3170caf6b4f261dca2f42fc0c9280ecb4fd9b5dbe", size = 249563, upload-time = "2026-04-24T22:31:53.933Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/a6/ba/8c407b9db5ba0a86c810c3d1615d38a215fe2c660cd2a96638f9ceef596b/tabstack-2.6.1.tar.gz", hash = "sha256:cef80d66d663f75b4ea475395a5f419316897acabead9665ac5fd32d789759af", size = 251429, upload-time = "2026-05-05T16:29:42.619Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/5f/79/3c019afdcd556bce4e0935dfbd33f9292fc31bd7e4f4e96f1c2304f0787e/tabstack-2.6.0-py3-none-any.whl", hash = "sha256:45a208d2d8de8c9197d811b745c2f5365cb81f0b831b00451936dcdb1861b575", size = 103430, upload-time = "2026-04-24T22:31:52.386Z" },
+    { url = "https://files.pythonhosted.org/packages/c4/dc/c19318c8e0a26ea0b99ecc6aaf3ea1b01f0df126e62144f1299b095e906d/tabstack-2.6.1-py3-none-any.whl", hash = "sha256:00fa099929a5e12347633883ca14ba2f98fef42baca428c1e564d3fd3151a362", size = 106914, upload-time = "2026-05-05T16:29:44.139Z" },
 ]
 
 [[package]]

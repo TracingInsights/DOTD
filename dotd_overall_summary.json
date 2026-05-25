@@ -13,8 +13,8 @@
     2026
   ],
   "total_years": 11,
-  "total_races": 217,
-  "last_updated": "2026-05-18T14:52:47.171505+00:00",
+  "total_races": 218,
+  "last_updated": "2026-05-25T08:52:32.018207+00:00",
   "data_by_year": {
     "2016": {
       "total_races": 21,
@@ -919,7 +919,7 @@
       ]
     },
     "2026": {
-      "total_races": 4,
+      "total_races": 5,
       "races": [
         {
           "race_name": "Australian Grand Prix",
@@ -936,6 +936,10 @@
         {
           "race_name": "Miami Grand Prix",
           "winner": "Max Verstappen"
+        },
+        {
+          "race_name": "Canadian Grand Prix",
+          "winner": "Lewis Hamilton"
         }
       ]
     }
