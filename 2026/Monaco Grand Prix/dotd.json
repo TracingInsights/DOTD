@@ -1,0 +1,27 @@
+{
+  "race_name": "Monaco Grand Prix",
+  "year": 2026,
+  "winner": "Kimi Antonelli",
+  "voting_results": [
+    {
+      "driver": "Kimi Antonelli",
+      "percentage": 22.4
+    },
+    {
+      "driver": "Charles Leclerc",
+      "percentage": 14.1
+    },
+    {
+      "driver": "Lewis Hamilton",
+      "percentage": 14.1
+    },
+    {
+      "driver": "Isack Hadjar",
+      "percentage": 11.2
+    },
+    {
+      "driver": "Pierre Gasly",
+      "percentage": 5.3
+    }
+  ]
+}

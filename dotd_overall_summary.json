@@ -13,8 +13,8 @@
     2026
   ],
   "total_years": 11,
-  "total_races": 218,
-  "last_updated": "2026-06-01T17:15:30.787424+00:00",
+  "total_races": 219,
+  "last_updated": "2026-06-07T17:06:15.315644+00:00",
   "data_by_year": {
     "2016": {
       "total_races": 21,
@@ -919,7 +919,7 @@
       ]
     },
     "2026": {
-      "total_races": 5,
+      "total_races": 6,
       "races": [
         {
           "race_name": "Australian Grand Prix",
@@ -940,6 +940,10 @@
         {
           "race_name": "Canadian Grand Prix",
           "winner": "Lewis Hamilton"
+        },
+        {
+          "race_name": "Monaco Grand Prix",
+          "winner": "Kimi Antonelli"
         }
       ]
     }

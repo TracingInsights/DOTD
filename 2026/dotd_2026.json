@@ -1,7 +1,7 @@
 {
   "year": 2026,
-  "total_races": 5,
-  "last_updated": "2026-05-25T08:52:32.017492+00:00",
+  "total_races": 6,
+  "last_updated": "2026-06-07T17:06:15.314996+00:00",
   "races": [
     {
       "race_name": "Australian Grand Prix",
@@ -135,6 +135,33 @@
         {
           "driver": "George Russell",
           "percentage": 6.2
+        }
+      ]
+    },
+    {
+      "race_name": "Monaco Grand Prix",
+      "year": 2026,
+      "winner": "Kimi Antonelli",
+      "voting_results": [
+        {
+          "driver": "Kimi Antonelli",
+          "percentage": 22.4
+        },
+        {
+          "driver": "Charles Leclerc",
+          "percentage": 14.1
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 14.1
+        },
+        {
+          "driver": "Isack Hadjar",
+          "percentage": 11.2
+        },
+        {
+          "driver": "Pierre Gasly",
+          "percentage": 5.3
         }
       ]
     }
