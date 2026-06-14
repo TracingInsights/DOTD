@@ -13,8 +13,8 @@
     2026
   ],
   "total_years": 11,
-  "total_races": 219,
-  "last_updated": "2026-06-08T15:27:57.397189+00:00",
+  "total_races": 220,
+  "last_updated": "2026-06-14T16:06:31.770692+00:00",
   "data_by_year": {
     "2016": {
       "total_races": 21,
@@ -919,7 +919,7 @@
       ]
     },
     "2026": {
-      "total_races": 6,
+      "total_races": 7,
       "races": [
         {
           "race_name": "Australian Grand Prix",
@@ -944,6 +944,10 @@
         {
           "race_name": "Monaco Grand Prix",
           "winner": "Kimi Antonelli"
+        },
+        {
+          "race_name": "Barcelona-Catalunya Grand Prix",
+          "winner": "Lewis Hamilton"
         }
       ]
     }

@@ -1,0 +1,27 @@
+{
+  "race_name": "Barcelona-Catalunya Grand Prix",
+  "year": 2026,
+  "winner": "Lewis Hamilton",
+  "voting_results": [
+    {
+      "driver": "Lewis Hamilton",
+      "percentage": 51.9
+    },
+    {
+      "driver": "Max Verstappen",
+      "percentage": 8.3
+    },
+    {
+      "driver": "Kimi Antonelli",
+      "percentage": 7.5
+    },
+    {
+      "driver": "Charles Leclerc",
+      "percentage": 6.0
+    },
+    {
+      "driver": "Lando Norris",
+      "percentage": 5.5
+    }
+  ]
+}
