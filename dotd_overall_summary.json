@@ -13,8 +13,8 @@
     2026
   ],
   "total_years": 11,
-  "total_races": 220,
-  "last_updated": "2026-06-22T16:27:13.608029+00:00",
+  "total_races": 221,
+  "last_updated": "2026-06-28T16:50:13.628394+00:00",
   "data_by_year": {
     "2016": {
       "total_races": 21,
@@ -919,7 +919,7 @@
       ]
     },
     "2026": {
-      "total_races": 7,
+      "total_races": 8,
       "races": [
         {
           "race_name": "Australian Grand Prix",
@@ -948,6 +948,10 @@
         {
           "race_name": "Barcelona-Catalunya Grand Prix",
           "winner": "Lewis Hamilton"
+        },
+        {
+          "race_name": "Austrian Grand Prix",
+          "winner": "Max Verstappen"
         }
       ]
     }
