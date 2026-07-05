@@ -1,27 +1,27 @@
 {
-    "race_name": "Austrian Grand Prix",
-    "year": 2019,
-    "winner": "Max Verstappen",
-    "voting_results": [
-      {
-        "driver": "Max Verstappen",
-        "percentage": 74.0
-      },
-      {
-        "driver": "Charles Leclerc",
-        "percentage": 11.0
-      },
-      {
+  "race_name": "Austrian Grand Prix",
+  "year": 2019,
+  "winner": "Max Verstappen",
+  "voting_results": [
+    {
+      "driver": "Max Verstappen",
+      "percentage": 74.0
+    },
+    {
+      "driver": "Charles Leclerc",
+      "percentage": 11.0
+    },
+    {
         "driver": "Carlos Sainz",
-        "percentage": 7.0
-      },
-      {
-        "driver": "Lando Norris",
-        "percentage": 4.0
-      },
-      {
-        "driver": "Sebastian Vettel",
-        "percentage": 2.0
-      }
-    ]
-  }
+      "percentage": 7.0
+    },
+    {
+      "driver": "Lando Norris",
+      "percentage": 4.0
+    },
+    {
+      "driver": "Sebastian Vettel",
+      "percentage": 2.0
+    }
+  ]
+}

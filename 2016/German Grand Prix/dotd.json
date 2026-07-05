@@ -1,0 +1,10 @@
+{
+  "race_name": "German Grand Prix",
+  "year": 2016,
+  "winner": "Daniel Ricciardo",
+  "voting_results": [
+    {
+      "driver": "Daniel Ricciardo"
+    }
+  ]
+}

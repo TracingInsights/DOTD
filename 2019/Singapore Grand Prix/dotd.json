@@ -1,27 +1,27 @@
 {
-    "race_name": "Singapore Grand Prix",
-    "year": 2019,
-    "winner": "Sebastian Vettel",
-    "voting_results": [
-      {
-        "driver": "Sebastian Vettel",
-        "percentage": 21.2
-      },
-      {
-        "driver": "Charles Leclerc",
-        "percentage": 14.3
-      },
-      {
-        "driver": "Max Verstappen",
-        "percentage": 11.0
-      },
-      {
-        "driver": "Daniel Ricciardo",
-        "percentage": 8.3
-      },
-      {
-        "driver": "Lando Norris",
-        "percentage": 8.0
-      }
-    ]
-  }
+  "race_name": "Singapore Grand Prix",
+  "year": 2019,
+  "winner": "Sebastian Vettel",
+  "voting_results": [
+    {
+      "driver": "Sebastian Vettel",
+      "percentage": 21.2
+    },
+    {
+      "driver": "Charles Leclerc",
+      "percentage": 14.3
+    },
+    {
+      "driver": "Max Verstappen",
+      "percentage": 11.0
+    },
+    {
+      "driver": "Daniel Ricciardo",
+      "percentage": 8.3
+    },
+    {
+      "driver": "Lando Norris",
+      "percentage": 8.0
+    }
+  ]
+}

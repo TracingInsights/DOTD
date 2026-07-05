@@ -1,15 +1,15 @@
 {
   "year": 2019,
   "total_races": 21,
-  "last_updated": "2025-06-02T08:05:33.173024+00:00",
+  "last_updated": "2026-07-05T05:00:02.678920+00:00",
   "races": [
     {
       "race_name": "Abu Dhabi Grand Prix",
       "year": 2019,
-      "winner": "Nico Hulkenberg",
+      "winner": "Nico Hülkenberg",
       "voting_results": [
         {
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico Hülkenberg",
           "percentage": 26.4
         },
         {
@@ -264,7 +264,7 @@
           "percentage": 9.8
         },
         {
-          "driver": "Kimi Raikkonen",
+          "driver": "Kimi Räikkönen",
           "percentage": 5.3
         },
         {
@@ -291,7 +291,7 @@
           "percentage": 14.1
         },
         {
-          "driver": "Kimi Raikkonen",
+          "driver": "Kimi Räikkönen",
           "percentage": 6.9
         },
         {
@@ -376,7 +376,7 @@
           "percentage": 7.4
         },
         {
-          "driver": "Kimi Raikkonen",
+          "driver": "Kimi Räikkönen",
           "percentage": 7.2
         }
       ]
@@ -480,7 +480,7 @@
           "percentage": 15.4
         },
         {
-          "driver": "Kimi Raikkonen",
+          "driver": "Kimi Räikkönen",
           "percentage": 8.3
         },
         {
@@ -499,7 +499,7 @@
           "percentage": 17.7
         },
         {
-          "driver": "Kimi Raikkonen",
+          "driver": "Kimi Räikkönen",
           "percentage": 15.7
         },
         {
@@ -534,7 +534,7 @@
           "percentage": 8.01
         },
         {
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico Hülkenberg",
           "percentage": 6.8
         },
         {

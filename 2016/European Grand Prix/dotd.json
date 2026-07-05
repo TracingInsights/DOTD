@@ -1,0 +1,10 @@
+{
+  "race_name": "European Grand Prix",
+  "year": 2016,
+  "winner": "Sergio Pérez",
+  "voting_results": [
+    {
+      "driver": "Sergio Pérez"
+    }
+  ]
+}

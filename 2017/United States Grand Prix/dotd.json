@@ -1,0 +1,10 @@
+{
+  "race_name": "United States Grand Prix",
+  "year": 2017,
+  "winner": "Max Verstappen",
+  "voting_results": [
+    {
+      "driver": "Max Verstappen"
+    }
+  ]
+}

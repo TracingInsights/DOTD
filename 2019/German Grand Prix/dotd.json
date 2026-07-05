@@ -1,27 +1,27 @@
 {
-    "race_name": "German Grand Prix",
-    "year": 2019,
-    "winner": "Max Verstappen",
-    "voting_results": [
-      {
-        "driver": "Max Verstappen",
-        "percentage": 20.9
-      },
-      {
-        "driver": "Sebastian Vettel",
-        "percentage": 17.4
-      },
-      {
-        "driver": "Daniil Kvyat",
-        "percentage": 14.1
-      },
-      {
-        "driver": "Kimi Raikkonen",
-        "percentage": 6.9
-      },
-      {
-        "driver": "Alexander Albon",
-        "percentage": 6.8
-      }
-    ]
-  }
+  "race_name": "German Grand Prix",
+  "year": 2019,
+  "winner": "Max Verstappen",
+  "voting_results": [
+    {
+      "driver": "Max Verstappen",
+      "percentage": 20.9
+    },
+    {
+      "driver": "Sebastian Vettel",
+      "percentage": 17.4
+    },
+    {
+      "driver": "Daniil Kvyat",
+      "percentage": 14.1
+    },
+    {
+      "driver": "Kimi Räikkönen",
+      "percentage": 6.9
+    },
+    {
+      "driver": "Alexander Albon",
+      "percentage": 6.8
+    }
+  ]
+}

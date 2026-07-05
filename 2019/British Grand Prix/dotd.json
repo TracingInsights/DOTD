@@ -1,27 +1,27 @@
 {
-    "race_name": "British Grand Prix",
-    "year": 2019,
-    "winner": "Charles Leclerc",
-    "voting_results": [
-      {
-        "driver": "Charles Leclerc",
-        "percentage": 20.6
-      },
-      {
-        "driver": "Max Verstappen",
-        "percentage": 18.8
-      },
-      {
-        "driver": "Lewis Hamilton",
-        "percentage": 10.2
-      },
-      {
+  "race_name": "British Grand Prix",
+  "year": 2019,
+  "winner": "Charles Leclerc",
+  "voting_results": [
+    {
+      "driver": "Charles Leclerc",
+      "percentage": 20.6
+    },
+    {
+      "driver": "Max Verstappen",
+      "percentage": 18.8
+    },
+    {
+      "driver": "Lewis Hamilton",
+      "percentage": 10.2
+    },
+    {
         "driver": "Carlos Sainz",
-        "percentage": 9.5
-      },
-      {
-        "driver": "Sebastian Vettel",
-        "percentage": 8.0
-      }
-    ]
-  }
+      "percentage": 9.5
+    },
+    {
+      "driver": "Sebastian Vettel",
+      "percentage": 8.0
+    }
+  ]
+}

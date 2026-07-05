@@ -1,0 +1,10 @@
+{
+  "race_name": "Singapore Grand Prix",
+  "year": 2016,
+  "winner": "Sebastian Vettel",
+  "voting_results": [
+    {
+      "driver": "Sebastian Vettel"
+    }
+  ]
+}

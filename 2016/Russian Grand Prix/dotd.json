@@ -1,0 +1,10 @@
+{
+  "race_name": "Russian Grand Prix",
+  "year": 2016,
+  "winner": "Kevin Magnussen",
+  "voting_results": [
+    {
+      "driver": "Kevin Magnussen"
+    }
+  ]
+}

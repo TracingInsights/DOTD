@@ -1,0 +1,10 @@
+{
+  "race_name": "British Grand Prix",
+  "year": 2017,
+  "winner": "Daniel Ricciardo",
+  "voting_results": [
+    {
+      "driver": "Daniel Ricciardo"
+    }
+  ]
+}

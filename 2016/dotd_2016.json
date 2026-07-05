@@ -1,133 +1,217 @@
 {
   "year": 2016,
   "total_races": 21,
-  "last_updated": "2025-06-02T08:39:04.224195+00:00",
+  "last_updated": "2026-07-05T05:00:02.669724+00:00",
   "races": [
     {
       "race_name": "Australian Grand Prix",
       "year": 2016,
       "winner": "Romain Grosjean",
-      "voting_results": []
+      "voting_results": [
+        {
+          "driver": "Romain Grosjean"
+        }
+      ]
     },
     {
       "race_name": "Bahrain Grand Prix",
       "year": 2016,
       "winner": "Romain Grosjean",
-      "voting_results": []
+      "voting_results": [
+        {
+          "driver": "Romain Grosjean"
+        }
+      ]
     },
     {
       "race_name": "Chinese Grand Prix",
       "year": 2016,
       "winner": "Daniil Kvyat",
-      "voting_results": []
+      "voting_results": [
+        {
+          "driver": "Daniil Kvyat"
+        }
+      ]
     },
     {
       "race_name": "Russian Grand Prix",
       "year": 2016,
       "winner": "Kevin Magnussen",
-      "voting_results": []
+      "voting_results": [
+        {
+          "driver": "Kevin Magnussen"
+        }
+      ]
     },
     {
       "race_name": "Spanish Grand Prix",
       "year": 2016,
       "winner": "Max Verstappen",
-      "voting_results": []
+      "voting_results": [
+        {
+          "driver": "Max Verstappen"
+        }
+      ]
     },
     {
       "race_name": "Monaco Grand Prix",
       "year": 2016,
-      "winner": "Sergio P\u00e9rez",
-      "voting_results": []
+      "winner": "Sergio Pérez",
+      "voting_results": [
+        {
+          "driver": "Sergio Pérez"
+        }
+      ]
     },
     {
       "race_name": "Canadian Grand Prix",
       "year": 2016,
       "winner": "Max Verstappen",
-      "voting_results": []
+      "voting_results": [
+        {
+          "driver": "Max Verstappen"
+        }
+      ]
     },
     {
       "race_name": "European Grand Prix",
       "year": 2016,
-      "winner": "Sergio P\u00e9rez",
-      "voting_results": []
+      "winner": "Sergio Pérez",
+      "voting_results": [
+        {
+          "driver": "Sergio Pérez"
+        }
+      ]
     },
     {
       "race_name": "Austrian Grand Prix",
       "year": 2016,
       "winner": "Max Verstappen",
-      "voting_results": []
+      "voting_results": [
+        {
+          "driver": "Max Verstappen"
+        }
+      ]
     },
     {
       "race_name": "British Grand Prix",
       "year": 2016,
       "winner": "Max Verstappen",
-      "voting_results": []
+      "voting_results": [
+        {
+          "driver": "Max Verstappen"
+        }
+      ]
     },
     {
       "race_name": "Hungarian Grand Prix",
       "year": 2016,
-      "winner": "Kimi R\u00e4ikk\u00f6nen",
-      "voting_results": []
+      "winner": "Kimi Räikkönen",
+      "voting_results": [
+        {
+          "driver": "Kimi Räikkönen"
+        }
+      ]
     },
     {
       "race_name": "German Grand Prix",
       "year": 2016,
       "winner": "Daniel Ricciardo",
-      "voting_results": []
+      "voting_results": [
+        {
+          "driver": "Daniel Ricciardo"
+        }
+      ]
     },
     {
       "race_name": "Belgian Grand Prix",
       "year": 2016,
       "winner": "Lewis Hamilton",
-      "voting_results": []
+      "voting_results": [
+        {
+          "driver": "Lewis Hamilton"
+        }
+      ]
     },
     {
       "race_name": "Italian Grand Prix",
       "year": 2016,
       "winner": "Nico Rosberg",
-      "voting_results": []
+      "voting_results": [
+        {
+          "driver": "Nico Rosberg"
+        }
+      ]
     },
     {
       "race_name": "Singapore Grand Prix",
       "year": 2016,
       "winner": "Sebastian Vettel",
-      "voting_results": []
+      "voting_results": [
+        {
+          "driver": "Sebastian Vettel"
+        }
+      ]
     },
     {
       "race_name": "Malaysian Grand Prix",
       "year": 2016,
       "winner": "Max Verstappen",
-      "voting_results": []
+      "voting_results": [
+        {
+          "driver": "Max Verstappen"
+        }
+      ]
     },
     {
       "race_name": "Japanese Grand Prix",
       "year": 2016,
       "winner": "Max Verstappen",
-      "voting_results": []
+      "voting_results": [
+        {
+          "driver": "Max Verstappen"
+        }
+      ]
     },
     {
       "race_name": "United States Grand Prix",
       "year": 2016,
       "winner": "Max Verstappen",
-      "voting_results": []
+      "voting_results": [
+        {
+          "driver": "Max Verstappen"
+        }
+      ]
     },
     {
       "race_name": "Mexican Grand Prix",
       "year": 2016,
       "winner": "Sebastian Vettel",
-      "voting_results": []
+      "voting_results": [
+        {
+          "driver": "Sebastian Vettel"
+        }
+      ]
     },
     {
       "race_name": "Brazilian Grand Prix",
       "year": 2016,
       "winner": "Max Verstappen",
-      "voting_results": []
+      "voting_results": [
+        {
+          "driver": "Max Verstappen"
+        }
+      ]
     },
     {
       "race_name": "Abu Dhabi Grand Prix",
       "year": 2016,
       "winner": "Sebastian Vettel",
-      "voting_results": []
+      "voting_results": [
+        {
+          "driver": "Sebastian Vettel"
+        }
+      ]
     }
   ]
 }

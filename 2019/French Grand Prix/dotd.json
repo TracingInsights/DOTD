@@ -1,27 +1,27 @@
 {
-    "race_name": "French Grand Prix",
-    "year": 2019,
-    "winner": "Lando Norris",
-    "voting_results": [
-      {
-        "driver": "Lando Norris",
-        "percentage": 26.4
-      },
-      {
-        "driver": "Lewis Hamilton",
-        "percentage": 15.1
-      },
-      {
-        "driver": "Charles Leclerc",
-        "percentage": 10.2
-      },
-      {
-        "driver": "Sebastian Vettel",
-        "percentage": 7.4
-      },
-      {
-        "driver": "Kimi Raikkonen",
-        "percentage": 7.2
-      }
-    ]
-  }
+  "race_name": "French Grand Prix",
+  "year": 2019,
+  "winner": "Lando Norris",
+  "voting_results": [
+    {
+      "driver": "Lando Norris",
+      "percentage": 26.4
+    },
+    {
+      "driver": "Lewis Hamilton",
+      "percentage": 15.1
+    },
+    {
+      "driver": "Charles Leclerc",
+      "percentage": 10.2
+    },
+    {
+      "driver": "Sebastian Vettel",
+      "percentage": 7.4
+    },
+    {
+      "driver": "Kimi Räikkönen",
+      "percentage": 7.2
+    }
+  ]
+}

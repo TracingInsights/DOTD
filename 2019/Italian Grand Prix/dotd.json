@@ -1,27 +1,27 @@
 {
-    "race_name": "Italian Grand Prix",
-    "year": 2019,
-    "winner": "Charles Leclerc",
-    "voting_results": [
-      {
-        "driver": "Charles Leclerc",
-        "percentage": 34.9
-      },
-      {
-        "driver": "Max Verstappen",
-        "percentage": 15.3
-      },
-      {
-        "driver": "Daniel Ricciardo",
-        "percentage": 11.2
-      },
-      {
-        "driver": "Valtteri Bottas",
-        "percentage": 7.0
-      },
-      {
-        "driver": "Lewis Hamilton",
-        "percentage": 6.1
-      }
-    ]
-  }
+  "race_name": "Italian Grand Prix",
+  "year": 2019,
+  "winner": "Charles Leclerc",
+  "voting_results": [
+    {
+      "driver": "Charles Leclerc",
+      "percentage": 34.9
+    },
+    {
+      "driver": "Max Verstappen",
+      "percentage": 15.3
+    },
+    {
+      "driver": "Daniel Ricciardo",
+      "percentage": 11.2
+    },
+    {
+      "driver": "Valtteri Bottas",
+      "percentage": 7.0
+    },
+    {
+      "driver": "Lewis Hamilton",
+      "percentage": 6.1
+    }
+  ]
+}

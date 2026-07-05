@@ -1,27 +1,27 @@
 {
-    "race_name": "Canadian Grand Prix",
-    "year": 2019,
-    "winner": "Sebastian Vettel",
-    "voting_results": [
-      {
-        "driver": "Sebastian Vettel",
-        "percentage": 24.6
-      },
-      {
-        "driver": "Daniel Ricciardo",
-        "percentage": 18.2
-      },
-      {
-        "driver": "Lewis Hamilton",
-        "percentage": 13.5
-      },
-      {
-        "driver": "Max Verstappen",
-        "percentage": 12.5
-      },
-      {
-        "driver": "Charles Leclerc",
-        "percentage": 8.2
-      }
-    ]
-  }
+  "race_name": "Canadian Grand Prix",
+  "year": 2019,
+  "winner": "Sebastian Vettel",
+  "voting_results": [
+    {
+      "driver": "Sebastian Vettel",
+      "percentage": 24.6
+    },
+    {
+      "driver": "Daniel Ricciardo",
+      "percentage": 18.2
+    },
+    {
+      "driver": "Lewis Hamilton",
+      "percentage": 13.5
+    },
+    {
+      "driver": "Max Verstappen",
+      "percentage": 12.5
+    },
+    {
+      "driver": "Charles Leclerc",
+      "percentage": 8.2
+    }
+  ]
+}

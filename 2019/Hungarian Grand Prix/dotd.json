@@ -1,27 +1,27 @@
 {
-    "race_name": "Hungarian Grand Prix",
-    "year": 2019,
-    "winner": "Max Verstappen",
-    "voting_results": [
-      {
-        "driver": "Max Verstappen",
-        "percentage": 26.2
-      },
-      {
-        "driver": "Lewis Hamilton",
-        "percentage": 24.8
-      },
-      {
+  "race_name": "Hungarian Grand Prix",
+  "year": 2019,
+  "winner": "Max Verstappen",
+  "voting_results": [
+    {
+      "driver": "Max Verstappen",
+      "percentage": 26.2
+    },
+    {
+      "driver": "Lewis Hamilton",
+      "percentage": 24.8
+    },
+    {
         "driver": "Carlos Sainz",
-        "percentage": 9.8
-      },
-      {
-        "driver": "Kimi Raikkonen",
-        "percentage": 5.3
-      },
-      {
-        "driver": "Sebastian Vettel",
-        "percentage": 5.2
-      }
-    ]
-  }
+      "percentage": 9.8
+    },
+    {
+      "driver": "Kimi Räikkönen",
+      "percentage": 5.3
+    },
+    {
+      "driver": "Sebastian Vettel",
+      "percentage": 5.2
+    }
+  ]
+}

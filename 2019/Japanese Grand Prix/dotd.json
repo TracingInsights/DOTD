@@ -1,27 +1,27 @@
 {
-    "race_name": "Japanese Grand Prix",
-    "year": 2019,
-    "winner": "Valtteri Bottas",
-    "voting_results": [
-      {
-        "driver": "Valtteri Bottas",
-        "percentage": 21.0
-      },
-      {
-        "driver": "Charles Leclerc",
-        "percentage": 15.0
-      },
-      {
+  "race_name": "Japanese Grand Prix",
+  "year": 2019,
+  "winner": "Valtteri Bottas",
+  "voting_results": [
+    {
+      "driver": "Valtteri Bottas",
+      "percentage": 21.0
+    },
+    {
+      "driver": "Charles Leclerc",
+      "percentage": 15.0
+    },
+    {
         "driver": "Carlos Sainz",
-        "percentage": 14.0
-      },
-      {
-        "driver": "Sebastian Vettel",
-        "percentage": 10.0
-      },
-      {
-        "driver": "Daniel Ricciardo",
-        "percentage": 8.0
-      }
-    ]
-  }
+      "percentage": 14.0
+    },
+    {
+      "driver": "Sebastian Vettel",
+      "percentage": 10.0
+    },
+    {
+      "driver": "Daniel Ricciardo",
+      "percentage": 8.0
+    }
+  ]
+}

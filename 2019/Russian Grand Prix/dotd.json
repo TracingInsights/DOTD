@@ -1,27 +1,27 @@
 {
-    "race_name": "Russian Grand Prix",
-    "year": 2019,
-    "winner": "Sebastian Vettel",
-    "voting_results": [
-      {
-        "driver": "Sebastian Vettel",
-        "percentage": 22.0
-      },
-      {
-        "driver": "Alexander Albon",
-        "percentage": 15.5
-      },
-      {
-        "driver": "Lewis Hamilton",
-        "percentage": 15.0
-      },
-      {
-        "driver": "Charles Leclerc",
-        "percentage": 11.3
-      },
-      {
+  "race_name": "Russian Grand Prix",
+  "year": 2019,
+  "winner": "Sebastian Vettel",
+  "voting_results": [
+    {
+      "driver": "Sebastian Vettel",
+      "percentage": 22.0
+    },
+    {
+      "driver": "Alexander Albon",
+      "percentage": 15.5
+    },
+    {
+      "driver": "Lewis Hamilton",
+      "percentage": 15.0
+    },
+    {
+      "driver": "Charles Leclerc",
+      "percentage": 11.3
+    },
+    {
         "driver": "Carlos Sainz",
-        "percentage": 9.3
-      }
-    ]
-  }
+      "percentage": 9.3
+    }
+  ]
+}

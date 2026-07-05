@@ -1,0 +1,10 @@
+{
+  "race_name": "Belgian Grand Prix",
+  "year": 2016,
+  "winner": "Lewis Hamilton",
+  "voting_results": [
+    {
+      "driver": "Lewis Hamilton"
+    }
+  ]
+}

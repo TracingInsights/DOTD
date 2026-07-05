@@ -14,7 +14,7 @@
   ],
   "total_years": 11,
   "total_races": 221,
-  "last_updated": "2026-06-29T15:29:31.373919+00:00",
+  "last_updated": "2026-07-05T05:00:02.704089+00:00",
   "data_by_year": {
     "2016": {
       "total_races": 21,
@@ -284,7 +284,7 @@
       "races": [
         {
           "race_name": "Abu Dhabi Grand Prix",
-          "winner": "Nico Hulkenberg"
+          "winner": "Nico Hülkenberg"
         },
         {
           "race_name": "Brazilian Grand Prix",
@@ -389,15 +389,15 @@
         },
         {
           "race_name": "Emilia Romagna Grand Prix",
-          "winner": "Kimi Raikkonen"
+          "winner": "Kimi Räikkönen"
         },
         {
           "race_name": "Portuguese Grand Prix",
-          "winner": "Sergio Perez"
+          "winner": "Sergio Pérez"
         },
         {
           "race_name": "Eifel Grand Prix",
-          "winner": "Nico Hulkenberg"
+          "winner": "Nico Hülkenberg"
         },
         {
           "race_name": "Russian Grand Prix",
@@ -433,7 +433,7 @@
         },
         {
           "race_name": "Styrian Grand Prix",
-          "winner": "Sergio Perez"
+          "winner": "Sergio Pérez"
         },
         {
           "race_name": "Austrian Grand Prix",
@@ -446,7 +446,7 @@
       "races": [
         {
           "race_name": "Abu Dhabi Grand Prix",
-          "winner": "Kimi Raikkonen"
+          "winner": "Kimi Räikkönen"
         },
         {
           "race_name": "Saudi Arabian Grand Prix",
@@ -462,7 +462,7 @@
         },
         {
           "race_name": "Mexico City Grand Prix",
-          "winner": "Sergio Perez"
+          "winner": "Sergio Pérez"
         },
         {
           "race_name": "United States Grand Prix",
@@ -482,7 +482,7 @@
         },
         {
           "race_name": "Dutch Grand Prix",
-          "winner": "Sergio Perez"
+          "winner": "Sergio Pérez"
         },
         {
           "race_name": "Hungarian Grand Prix",
@@ -518,7 +518,7 @@
         },
         {
           "race_name": "Portuguese Grand Prix",
-          "winner": "Sergio Perez"
+          "winner": "Sergio Pérez"
         },
         {
           "race_name": "Emilia Romagna Grand Prix",
@@ -526,7 +526,7 @@
         },
         {
           "race_name": "Bahrain Grand Prix",
-          "winner": "Sergio Perez"
+          "winner": "Sergio Pérez"
         }
       ]
     },
@@ -555,7 +555,7 @@
         },
         {
           "race_name": "Singapore Grand Prix",
-          "winner": "Sergio Perez"
+          "winner": "Sergio Pérez"
         },
         {
           "race_name": "Italian Grand Prix",
@@ -583,7 +583,7 @@
         },
         {
           "race_name": "British Grand Prix",
-          "winner": "Sergio Perez"
+          "winner": "Sergio Pérez"
         },
         {
           "race_name": "Canadian Grand Prix",
@@ -595,7 +595,7 @@
         },
         {
           "race_name": "Monaco Grand Prix",
-          "winner": "Sergio Perez"
+          "winner": "Sergio Pérez"
         },
         {
           "race_name": "Spanish Grand Prix",
@@ -672,7 +672,7 @@
         },
         {
           "race_name": "Hungarian Grand Prix",
-          "winner": "Sergio Perez"
+          "winner": "Sergio Pérez"
         },
         {
           "race_name": "British Grand Prix",
@@ -700,11 +700,11 @@
         },
         {
           "race_name": "Azerbaijan Grand Prix",
-          "winner": "Sergio Perez"
+          "winner": "Sergio Pérez"
         },
         {
           "race_name": "Australian Grand Prix",
-          "winner": "Sergio Perez"
+          "winner": "Sergio Pérez"
         },
         {
           "race_name": "Saudi Arabian Grand Prix",
@@ -870,7 +870,7 @@
         },
         {
           "race_name": "British Grand Prix",
-          "winner": "Nico Hulkenberg"
+          "winner": "Nico Hülkenberg"
         },
         {
           "race_name": "Austrian Grand Prix",

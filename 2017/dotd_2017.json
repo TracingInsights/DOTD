@@ -1,127 +1,207 @@
 {
   "year": 2017,
   "total_races": 20,
-  "last_updated": "2025-06-02T08:39:58.357464+00:00",
+  "last_updated": "2026-07-05T05:00:02.673236+00:00",
   "races": [
     {
       "race_name": "Australian Grand Prix",
       "year": 2017,
       "winner": "Sebastian Vettel",
-      "voting_results": []
+      "voting_results": [
+        {
+          "driver": "Sebastian Vettel"
+        }
+      ]
     },
     {
       "race_name": "Chinese Grand Prix",
       "year": 2017,
       "winner": "Max Verstappen",
-      "voting_results": []
+      "voting_results": [
+        {
+          "driver": "Max Verstappen"
+        }
+      ]
     },
     {
       "race_name": "Bahrain Grand Prix",
       "year": 2017,
       "winner": "Sebastian Vettel",
-      "voting_results": []
+      "voting_results": [
+        {
+          "driver": "Sebastian Vettel"
+        }
+      ]
     },
     {
       "race_name": "Russian Grand Prix",
       "year": 2017,
       "winner": "Valtteri Bottas",
-      "voting_results": []
+      "voting_results": [
+        {
+          "driver": "Valtteri Bottas"
+        }
+      ]
     },
     {
       "race_name": "Spanish Grand Prix",
       "year": 2017,
       "winner": "Sebastian Vettel",
-      "voting_results": []
+      "voting_results": [
+        {
+          "driver": "Sebastian Vettel"
+        }
+      ]
     },
     {
       "race_name": "Monaco Grand Prix",
       "year": 2017,
       "winner": "Sebastian Vettel",
-      "voting_results": []
+      "voting_results": [
+        {
+          "driver": "Sebastian Vettel"
+        }
+      ]
     },
     {
       "race_name": "Canadian Grand Prix",
       "year": 2017,
       "winner": "Sebastian Vettel",
-      "voting_results": []
+      "voting_results": [
+        {
+          "driver": "Sebastian Vettel"
+        }
+      ]
     },
     {
       "race_name": "Azerbaijan Grand Prix",
       "year": 2017,
       "winner": "Lance Stroll",
-      "voting_results": []
+      "voting_results": [
+        {
+          "driver": "Lance Stroll"
+        }
+      ]
     },
     {
       "race_name": "Austrian Grand Prix",
       "year": 2017,
       "winner": "Valtteri Bottas",
-      "voting_results": []
+      "voting_results": [
+        {
+          "driver": "Valtteri Bottas"
+        }
+      ]
     },
     {
       "race_name": "British Grand Prix",
       "year": 2017,
       "winner": "Daniel Ricciardo",
-      "voting_results": []
+      "voting_results": [
+        {
+          "driver": "Daniel Ricciardo"
+        }
+      ]
     },
     {
       "race_name": "Hungarian Grand Prix",
       "year": 2017,
-      "winner": "Kimi R\u00e4ikk\u00f6nen",
-      "voting_results": []
+      "winner": "Kimi Räikkönen",
+      "voting_results": [
+        {
+          "driver": "Kimi Räikkönen"
+        }
+      ]
     },
     {
       "race_name": "Belgian Grand Prix",
       "year": 2017,
       "winner": "Lewis Hamilton",
-      "voting_results": []
+      "voting_results": [
+        {
+          "driver": "Lewis Hamilton"
+        }
+      ]
     },
     {
       "race_name": "Italian Grand Prix",
       "year": 2017,
       "winner": "Daniel Ricciardo",
-      "voting_results": []
+      "voting_results": [
+        {
+          "driver": "Daniel Ricciardo"
+        }
+      ]
     },
     {
       "race_name": "Singapore Grand Prix",
       "year": 2017,
       "winner": "Lewis Hamilton",
-      "voting_results": []
+      "voting_results": [
+        {
+          "driver": "Lewis Hamilton"
+        }
+      ]
     },
     {
       "race_name": "Malaysian Grand Prix",
       "year": 2017,
       "winner": "Sebastian Vettel",
-      "voting_results": []
+      "voting_results": [
+        {
+          "driver": "Sebastian Vettel"
+        }
+      ]
     },
     {
       "race_name": "Japanese Grand Prix",
       "year": 2017,
       "winner": "Max Verstappen",
-      "voting_results": []
+      "voting_results": [
+        {
+          "driver": "Max Verstappen"
+        }
+      ]
     },
     {
       "race_name": "United States Grand Prix",
       "year": 2017,
       "winner": "Max Verstappen",
-      "voting_results": []
+      "voting_results": [
+        {
+          "driver": "Max Verstappen"
+        }
+      ]
     },
     {
       "race_name": "Mexican Grand Prix",
       "year": 2017,
       "winner": "Sebastian Vettel",
-      "voting_results": []
+      "voting_results": [
+        {
+          "driver": "Sebastian Vettel"
+        }
+      ]
     },
     {
       "race_name": "Brazilian Grand Prix",
       "year": 2017,
       "winner": "Lewis Hamilton",
-      "voting_results": []
+      "voting_results": [
+        {
+          "driver": "Lewis Hamilton"
+        }
+      ]
     },
     {
       "race_name": "Abu Dhabi Grand Prix",
       "year": 2017,
       "winner": "Valtteri Bottas",
-      "voting_results": []
+      "voting_results": [
+        {
+          "driver": "Valtteri Bottas"
+        }
+      ]
     }
   ]
 }

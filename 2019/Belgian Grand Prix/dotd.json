@@ -1,27 +1,27 @@
 {
-    "race_name": "Belgian Grand Prix",
-    "year": 2019,
-    "winner": "Lando Norris",
-    "voting_results": [
-      {
-        "driver": "Lando Norris",
-        "percentage": 21.2
-      },
-      {
-        "driver": "Charles Leclerc",
-        "percentage": 21.0
-      },
-      {
-        "driver": "Alexander Albon",
-        "percentage": 19.6
-      },
-      {
-        "driver": "Lewis Hamilton",
-        "percentage": 8.8
-      },
-      {
-        "driver": "Sebastian Vettel",
-        "percentage": 6.6
-      }
-    ]
-  }
+  "race_name": "Belgian Grand Prix",
+  "year": 2019,
+  "winner": "Lando Norris",
+  "voting_results": [
+    {
+      "driver": "Lando Norris",
+      "percentage": 21.2
+    },
+    {
+      "driver": "Charles Leclerc",
+      "percentage": 21.0
+    },
+    {
+      "driver": "Alexander Albon",
+      "percentage": 19.6
+    },
+    {
+      "driver": "Lewis Hamilton",
+      "percentage": 8.8
+    },
+    {
+      "driver": "Sebastian Vettel",
+      "percentage": 6.6
+    }
+  ]
+}
