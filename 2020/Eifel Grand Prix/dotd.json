@@ -1,27 +1,27 @@
 {
-    "race_name": "Eifel Grand Prix",
-    "year": 2020,
-    "winner": "Nico Hulkenberg",
-    "voting_results": [
-      {
-        "driver": "Nico Hulkenberg",
-        "percentage": 34.7
-      },
-      {
-        "driver": "Daniel Ricciardo",
-        "percentage": 17.6
-      },
-      {
-        "driver": "Lewis Hamilton",
-        "percentage": 8.4
-      },
-      {
-        "driver": "Charles Leclerc",
-        "percentage": 7.4
-      },
-      {
-        "driver": "Max Verstappen",
-        "percentage": 5.6
-      }
-    ]
-  }
+  "race_name": "Eifel Grand Prix",
+  "year": 2020,
+  "winner": "Nico Hülkenberg",
+  "voting_results": [
+    {
+      "driver": "Nico Hülkenberg",
+      "percentage": 34.7
+    },
+    {
+      "driver": "Daniel Ricciardo",
+      "percentage": 17.6
+    },
+    {
+      "driver": "Lewis Hamilton",
+      "percentage": 8.4
+    },
+    {
+      "driver": "Charles Leclerc",
+      "percentage": 7.4
+    },
+    {
+      "driver": "Max Verstappen",
+      "percentage": 5.6
+    }
+  ]
+}

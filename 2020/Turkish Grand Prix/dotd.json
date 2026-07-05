@@ -1,27 +1,27 @@
 {
-    "race_name": "Turkish Grand Prix",
-    "year": 2020,
-    "winner": "Sebastian Vettel",
-    "voting_results": [
-      {
-        "driver": "Sebastian Vettel",
-        "percentage": 25.8
-      },
-      {
-        "driver": "Charles Leclerc",
-        "percentage": 20.3
-      },
-      {
-        "driver": "Lewis Hamilton",
-        "percentage": 16.7
-      },
-      {
-        "driver": "Sergio Perez",
-        "percentage": 8.2
-      },
-      {
+  "race_name": "Turkish Grand Prix",
+  "year": 2020,
+  "winner": "Sebastian Vettel",
+  "voting_results": [
+    {
+      "driver": "Sebastian Vettel",
+      "percentage": 25.8
+    },
+    {
+      "driver": "Charles Leclerc",
+      "percentage": 20.3
+    },
+    {
+      "driver": "Lewis Hamilton",
+      "percentage": 16.7
+    },
+    {
+      "driver": "Sergio Pérez",
+      "percentage": 8.2
+    },
+    {
         "driver": "Carlos Sainz",
-        "percentage": 6.1
-      }
-    ]
-  }
+      "percentage": 6.1
+    }
+  ]
+}

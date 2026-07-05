@@ -1,27 +1,27 @@
 {
-    "race_name": "British Grand Prix",
-    "year": 2020,
-    "winner": "Lewis Hamilton",
-    "voting_results": [
-      {
+  "race_name": "British Grand Prix",
+  "year": 2020,
+  "winner": "Lewis Hamilton",
+  "voting_results": [
+    {
         "driver": "Lewis Hamilton",
         "percentage": null
-      },
-      {
+    },
+    {
         "driver": "Max Verstappen",
         "percentage": null
-      },
-      {
+    },
+    {
         "driver": "Lando Norris",
         "percentage": null
-      },
-      {
+    },
+    {
         "driver": "Carlos Sainz",
         "percentage": null
-      },
-      {
+    },
+    {
         "driver": "Alex Albon",
         "percentage": null
-      }
-    ]
-  }
+    }
+  ]
+}

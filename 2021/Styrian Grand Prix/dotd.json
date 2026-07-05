@@ -1,27 +1,27 @@
 {
-    "race_name": "Styrian Grand Prix",
-    "year": 2021,
-    "winner": "Charles Leclerc",
-    "voting_results": [
-      {
-        "driver": "Charles Leclerc",
-        "percentage": 28.4
-      },
-      {
-        "driver": "George Russell",
-        "percentage": 13.1
-      },
-      {
-        "driver": "Max Verstappen",
-        "percentage": 12.4
-      },
-      {
-        "driver": "Sergio Perez",
-        "percentage": 7.8
-      },
-      {
+  "race_name": "Styrian Grand Prix",
+  "year": 2021,
+  "winner": "Charles Leclerc",
+  "voting_results": [
+    {
+      "driver": "Charles Leclerc",
+      "percentage": 28.4
+    },
+    {
+      "driver": "George Russell",
+      "percentage": 13.1
+    },
+    {
+      "driver": "Max Verstappen",
+      "percentage": 12.4
+    },
+    {
+      "driver": "Sergio Pérez",
+      "percentage": 7.8
+    },
+    {
         "driver": "Carlos Sainz",
-        "percentage": 7.2
-      }
-    ]
-  }
+      "percentage": 7.2
+    }
+  ]
+}

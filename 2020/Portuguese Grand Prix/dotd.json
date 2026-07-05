@@ -1,27 +1,27 @@
 {
-    "race_name": "Portuguese Grand Prix",
-    "year": 2020,
-    "winner": "Sergio Perez",
-    "voting_results": [
-      {
-        "driver": "Sergio Perez",
-        "percentage": 18.2
-      },
-      {
-        "driver": "Charles Leclerc",
-        "percentage": 13.6
-      },
-      {
-        "driver": "Pierre Gasly",
-        "percentage": 11.5
-      },
-      {
-        "driver": "Kimi Raikkonen",
-        "percentage": 10.3
-      },
-      {
-        "driver": "Lewis Hamilton",
-        "percentage": 9.8
-      }
-    ]
-  }
+  "race_name": "Portuguese Grand Prix",
+  "year": 2020,
+  "winner": "Sergio Pérez",
+  "voting_results": [
+    {
+      "driver": "Sergio Pérez",
+      "percentage": 18.2
+    },
+    {
+      "driver": "Charles Leclerc",
+      "percentage": 13.6
+    },
+    {
+      "driver": "Pierre Gasly",
+      "percentage": 11.5
+    },
+    {
+      "driver": "Kimi Räikkönen",
+      "percentage": 10.3
+    },
+    {
+      "driver": "Lewis Hamilton",
+      "percentage": 9.8
+    }
+  ]
+}

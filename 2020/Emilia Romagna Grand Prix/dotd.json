@@ -1,27 +1,27 @@
 {
-    "race_name": "Emilia Romagna Grand Prix",
-    "year": 2020,
-    "winner": "Kimi Raikkonen",
-    "voting_results": [
-      {
-        "driver": "Kimi Raikkonen",
-        "percentage": 18.6
-      },
-      {
-        "driver": "Max Verstappen",
-        "percentage": 13.9
-      },
-      {
-        "driver": "Lewis Hamilton",
-        "percentage": 10.6
-      },
-      {
-        "driver": "Daniel Ricciardo",
-        "percentage": 10.5
-      },
-      {
-        "driver": "Daniil Kvyat",
-        "percentage": 7.3
-      }
-    ]
-  }
+  "race_name": "Emilia Romagna Grand Prix",
+  "year": 2020,
+  "winner": "Kimi Räikkönen",
+  "voting_results": [
+    {
+      "driver": "Kimi Räikkönen",
+      "percentage": 18.6
+    },
+    {
+      "driver": "Max Verstappen",
+      "percentage": 13.9
+    },
+    {
+      "driver": "Lewis Hamilton",
+      "percentage": 10.6
+    },
+    {
+      "driver": "Daniel Ricciardo",
+      "percentage": 10.5
+    },
+    {
+      "driver": "Daniil Kvyat",
+      "percentage": 7.3
+    }
+  ]
+}

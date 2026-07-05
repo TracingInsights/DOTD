@@ -1,27 +1,27 @@
 {
-    "race_name": "Bahrain Grand Prix",
-    "year": 2020,
-    "winner": "Romain Grosjean",
-    "voting_results": [
-      {
-        "driver": "Romain Grosjean",
-        "percentage": 36.8
-      },
-      {
-        "driver": "Sergio Perez",
-        "percentage": 12.3
-      },
-      {
+  "race_name": "Bahrain Grand Prix",
+  "year": 2020,
+  "winner": "Romain Grosjean",
+  "voting_results": [
+    {
+      "driver": "Romain Grosjean",
+      "percentage": 36.8
+    },
+    {
+      "driver": "Sergio Pérez",
+      "percentage": 12.3
+    },
+    {
         "driver": "Carlos Sainz",
-        "percentage": 11.6
-      },
-      {
-        "driver": "Lando Norris",
-        "percentage": 6.9
-      },
-      {
-        "driver": "Max Verstappen",
-        "percentage": 6.0
-      }
-    ]
-  }
+      "percentage": 11.6
+    },
+    {
+      "driver": "Lando Norris",
+      "percentage": 6.9
+    },
+    {
+      "driver": "Max Verstappen",
+      "percentage": 6.0
+    }
+  ]
+}

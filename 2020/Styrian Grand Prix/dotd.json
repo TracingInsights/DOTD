@@ -1,27 +1,27 @@
 {
-    "race_name": "Styrian Grand Prix",
-    "year": 2020,
-    "winner": "Sergio Perez",
-    "voting_results": [
-      {
-        "driver": "Sergio Perez",
-        "percentage": 34.7
-      },
-      {
-        "driver": "Lewis Hamilton",
-        "percentage": 10.9
-      },
-      {
-        "driver": "Max Verstappen",
-        "percentage": 10.7
-      },
-      {
-        "driver": "Daniel Ricciardo",
-        "percentage": 6.6
-      },
-      {
-        "driver": "Lando Norris",
-        "percentage": 5.6
-      }
-    ]
-  }
+  "race_name": "Styrian Grand Prix",
+  "year": 2020,
+  "winner": "Sergio Pérez",
+  "voting_results": [
+    {
+      "driver": "Sergio Pérez",
+      "percentage": 34.7
+    },
+    {
+      "driver": "Lewis Hamilton",
+      "percentage": 10.9
+    },
+    {
+      "driver": "Max Verstappen",
+      "percentage": 10.7
+    },
+    {
+      "driver": "Daniel Ricciardo",
+      "percentage": 6.6
+    },
+    {
+      "driver": "Lando Norris",
+      "percentage": 5.6
+    }
+  ]
+}

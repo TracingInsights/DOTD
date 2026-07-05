@@ -1,27 +1,27 @@
 {
-    "race_name": "Spanish Grand Prix",
-    "year": 2020,
-    "winner": "Sebastian Vettel",
-    "voting_results": [
-      {
-        "driver": "Sebastian Vettel",
-        "percentage": 29.7
-      },
-      {
-        "driver": "Max Verstappen",
-        "percentage": 15.2
-      },
-      {
-        "driver": "Lewis Hamilton",
-        "percentage": 12.3
-      },
-      {
+  "race_name": "Spanish Grand Prix",
+  "year": 2020,
+  "winner": "Sebastian Vettel",
+  "voting_results": [
+    {
+      "driver": "Sebastian Vettel",
+      "percentage": 29.7
+    },
+    {
+      "driver": "Max Verstappen",
+      "percentage": 15.2
+    },
+    {
+      "driver": "Lewis Hamilton",
+      "percentage": 12.3
+    },
+    {
         "driver": "Carlos Sainz",
-        "percentage": 6.2
-      },
-      {
-        "driver": "Sergio Perez",
-        "percentage": 5.0
-      }
-    ]
-  }
+      "percentage": 6.2
+    },
+    {
+      "driver": "Sergio Pérez",
+      "percentage": 5.0
+    }
+  ]
+}

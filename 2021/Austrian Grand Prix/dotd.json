@@ -1,27 +1,27 @@
 {
-    "race_name": "Austrian Grand Prix",
-    "year": 2021,
-    "winner": "Lando Norris",
-    "voting_results": [
-      {
-        "driver": "Lando Norris",
-        "percentage": 31.6
-      },
-      {
-        "driver": "Kimi Raikkonen",
-        "percentage": 15.7
-      },
-      {
-        "driver": "Max Verstappen",
-        "percentage": 9.2
-      },
-      {
-        "driver": "Daniel Ricciardo",
-        "percentage": 8.5
-      },
-      {
-        "driver": "George Russell",
-        "percentage": 7.7
-      }
-    ]
-  }
+  "race_name": "Austrian Grand Prix",
+  "year": 2021,
+  "winner": "Lando Norris",
+  "voting_results": [
+    {
+      "driver": "Lando Norris",
+      "percentage": 31.6
+    },
+    {
+      "driver": "Kimi Räikkönen",
+      "percentage": 15.7
+    },
+    {
+      "driver": "Max Verstappen",
+      "percentage": 9.2
+    },
+    {
+      "driver": "Daniel Ricciardo",
+      "percentage": 8.5
+    },
+    {
+      "driver": "George Russell",
+      "percentage": 7.7
+    }
+  ]
+}

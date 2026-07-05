@@ -1,27 +1,27 @@
 {
-    "race_name": "Russian Grand Prix",
-    "year": 2021,
-    "winner": "Lando Norris",
-    "voting_results": [
-      {
-        "driver": "Lando Norris",
-        "percentage": 33.9
-      },
-      {
-        "driver": "Max Verstappen",
-        "percentage": 13.9
-      },
-      {
-        "driver": "Lewis Hamilton",
-        "percentage": 9.9
-      },
-      {
-        "driver": "Sergio Perez",
-        "percentage": 6.5
-      },
-      {
+  "race_name": "Russian Grand Prix",
+  "year": 2021,
+  "winner": "Lando Norris",
+  "voting_results": [
+    {
+      "driver": "Lando Norris",
+      "percentage": 33.9
+    },
+    {
+      "driver": "Max Verstappen",
+      "percentage": 13.9
+    },
+    {
+      "driver": "Lewis Hamilton",
+      "percentage": 9.9
+    },
+    {
+      "driver": "Sergio Pérez",
+      "percentage": 6.5
+    },
+    {
         "driver": "Carlos Sainz",
-        "percentage": 5.9
-      }
-    ]
-  }
+      "percentage": 5.9
+    }
+  ]
+}

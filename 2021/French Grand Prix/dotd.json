@@ -1,27 +1,27 @@
 {
-    "race_name": "French Grand Prix",
-    "year": 2021,
-    "winner": "Max Verstappen",
-    "voting_results": [
-      {
-        "driver": "Max Verstappen",
-        "percentage": 22.9
-      },
-      {
-        "driver": "Daniel Ricciardo",
-        "percentage": 19.0
-      },
-      {
-        "driver": "Lando Norris",
-        "percentage": 14.0
-      },
-      {
-        "driver": "Lewis Hamilton",
-        "percentage": 8.4
-      },
-      {
-        "driver": "Sergio Perez",
-        "percentage": 6.9
-      }
-    ]
-  }
+  "race_name": "French Grand Prix",
+  "year": 2021,
+  "winner": "Max Verstappen",
+  "voting_results": [
+    {
+      "driver": "Max Verstappen",
+      "percentage": 22.9
+    },
+    {
+      "driver": "Daniel Ricciardo",
+      "percentage": 19.0
+    },
+    {
+      "driver": "Lando Norris",
+      "percentage": 14.0
+    },
+    {
+      "driver": "Lewis Hamilton",
+      "percentage": 8.4
+    },
+    {
+      "driver": "Sergio Pérez",
+      "percentage": 6.9
+    }
+  ]
+}

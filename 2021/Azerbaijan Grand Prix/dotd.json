@@ -1,27 +1,27 @@
 {
-    "race_name": "Azerbaijan Grand Prix",
-    "year": 2021,
-    "winner": "Sebastian Vettel",
-    "voting_results": [
-      {
-        "driver": "Sebastian Vettel",
-        "percentage": 41.9
-      },
-      {
-        "driver": "Sergio Perez",
-        "percentage": 18.1
-      },
-      {
-        "driver": "Max Verstappen",
-        "percentage": 9.1
-      },
-      {
-        "driver": "Lewis Hamilton",
-        "percentage": 4.9
-      },
-      {
-        "driver": "Pierre Gasly",
-        "percentage": 3.5
-      }
-    ]
+  "race_name": "Azerbaijan Grand Prix",
+  "year": 2021,
+  "winner": "Sebastian Vettel",
+  "voting_results": [
+    {
+      "driver": "Sebastian Vettel",
+      "percentage": 41.9
+    },
+    {
+      "driver": "Sergio Pérez",
+      "percentage": 18.1
+    },
+    {
+      "driver": "Max Verstappen",
+      "percentage": 9.1
+    },
+    {
+      "driver": "Lewis Hamilton",
+      "percentage": 4.9
+    },
+    {
+      "driver": "Pierre Gasly",
+      "percentage": 3.5
+    }
+  ]
 }

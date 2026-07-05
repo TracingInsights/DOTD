@@ -1,27 +1,27 @@
 {
-    "race_name": "Mexico City Grand Prix",
-    "year": 2021,
-    "winner": "Sergio Perez",
-    "voting_results": [
-      {
-        "driver": "Sergio Perez",
-        "percentage": 36.9
-      },
-      {
-        "driver": "Max Verstappen",
-        "percentage": 13.5
-      },
-      {
-        "driver": "Pierre Gasly",
-        "percentage": 7.4
-      },
-      {
-        "driver": "Lewis Hamilton",
-        "percentage": 6.5
-      },
-      {
-        "driver": "Lando Norris",
-        "percentage": 5.9
-      }
-    ]
-  }
+  "race_name": "Mexico City Grand Prix",
+  "year": 2021,
+  "winner": "Sergio Pérez",
+  "voting_results": [
+    {
+      "driver": "Sergio Pérez",
+      "percentage": 36.9
+    },
+    {
+      "driver": "Max Verstappen",
+      "percentage": 13.5
+    },
+    {
+      "driver": "Pierre Gasly",
+      "percentage": 7.4
+    },
+    {
+      "driver": "Lewis Hamilton",
+      "percentage": 6.5
+    },
+    {
+      "driver": "Lando Norris",
+      "percentage": 5.9
+    }
+  ]
+}

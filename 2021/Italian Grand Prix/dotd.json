@@ -1,27 +1,27 @@
 {
-    "race_name": "Italian Grand Prix",
-    "year": 2021,
-    "winner": "Daniel Ricciardo",
-    "voting_results": [
-      {
-        "driver": "Daniel Ricciardo",
-        "percentage": 34.5
-      },
-      {
-        "driver": "Valtteri Bottas",
-        "percentage": 28.6
-      },
-      {
-        "driver": "Lando Norris",
-        "percentage": 8.5
-      },
-      {
-        "driver": "Sergio Perez",
-        "percentage": 5.1
-      },
-      {
-        "driver": "Max Verstappen",
-        "percentage": 4.6
-      }
-    ]
-  }
+  "race_name": "Italian Grand Prix",
+  "year": 2021,
+  "winner": "Daniel Ricciardo",
+  "voting_results": [
+    {
+      "driver": "Daniel Ricciardo",
+      "percentage": 34.5
+    },
+    {
+      "driver": "Valtteri Bottas",
+      "percentage": 28.6
+    },
+    {
+      "driver": "Lando Norris",
+      "percentage": 8.5
+    },
+    {
+      "driver": "Sergio Pérez",
+      "percentage": 5.1
+    },
+    {
+      "driver": "Max Verstappen",
+      "percentage": 4.6
+    }
+  ]
+}

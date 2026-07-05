@@ -1,27 +1,27 @@
 {
-    "race_name": "Russian Grand Prix",
-    "year": 2020,
-    "winner": "Max Verstappen",
-    "voting_results": [
-      {
-        "driver": "Max Verstappen",
-        "percentage": 13.7
-      },
-      {
-        "driver": "Charles Leclerc",
-        "percentage": 11.3
-      },
-      {
-        "driver": "Lewis Hamilton",
-        "percentage": 10.5
-      },
-      {
-        "driver": "Valtteri Bottas",
-        "percentage": 10.0
-      },
-      {
-        "driver": "Daniel Ricciardo",
-        "percentage": 9.0
-      }
-    ]
-  }
+  "race_name": "Russian Grand Prix",
+  "year": 2020,
+  "winner": "Max Verstappen",
+  "voting_results": [
+    {
+      "driver": "Max Verstappen",
+      "percentage": 13.7
+    },
+    {
+      "driver": "Charles Leclerc",
+      "percentage": 11.3
+    },
+    {
+      "driver": "Lewis Hamilton",
+      "percentage": 10.5
+    },
+    {
+      "driver": "Valtteri Bottas",
+      "percentage": 10.0
+    },
+    {
+      "driver": "Daniel Ricciardo",
+      "percentage": 9.0
+    }
+  ]
+}

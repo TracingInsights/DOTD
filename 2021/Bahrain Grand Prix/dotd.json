@@ -1,27 +1,27 @@
 {
-    "race_name": "Bahrain Grand Prix",
-    "year": 2021,
-    "winner": "Sergio Perez",
-    "voting_results": [
-      {
-        "driver": "Sergio Perez",
-        "percentage": 27.7
-      },
-      {
-        "driver": "Max Verstappen",
-        "percentage": 16.8
-      },
-      {
-        "driver": "Lando Norris",
-        "percentage": 13.0
-      },
-      {
-        "driver": "Lewis Hamilton",
-        "percentage": 7.5
-      },
-      {
-        "driver": "Yuki Tsunoda",
-        "percentage": 7.0
-      }
-    ]
-  }
+  "race_name": "Bahrain Grand Prix",
+  "year": 2021,
+  "winner": "Sergio Pérez",
+  "voting_results": [
+    {
+      "driver": "Sergio Pérez",
+      "percentage": 27.7
+    },
+    {
+      "driver": "Max Verstappen",
+      "percentage": 16.8
+    },
+    {
+      "driver": "Lando Norris",
+      "percentage": 13.0
+    },
+    {
+      "driver": "Lewis Hamilton",
+      "percentage": 7.5
+    },
+    {
+      "driver": "Yuki Tsunoda",
+      "percentage": 7.0
+    }
+  ]
+}

@@ -1,19 +1,19 @@
 {
   "year": 2021,
   "total_races": 21,
-  "last_updated": "2025-06-02T08:34:42.432010+00:00",
+  "last_updated": "2026-07-05T05:00:02.685012+00:00",
   "races": [
     {
       "race_name": "Abu Dhabi Grand Prix",
       "year": 2021,
-      "winner": "Kimi Raikkonen",
+      "winner": "Kimi Räikkönen",
       "voting_results": [
         {
-          "driver": "Kimi Raikkonen",
+          "driver": "Kimi Räikkönen",
           "percentage": 42.8
         },
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio Pérez",
           "percentage": 21.5
         },
         {
@@ -52,7 +52,7 @@
           "percentage": 6.6
         },
         {
-          "driver": "Kimi Raikkonen",
+          "driver": "Kimi Räikkönen",
           "percentage": 4.1
         }
       ]
@@ -67,7 +67,7 @@
           "percentage": 28.6
         },
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio Pérez",
           "percentage": 16.6
         },
         {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "race_name": "S\u00e3o Paulo Grand Prix",
+      "race_name": "São Paulo Grand Prix",
       "year": 2021,
       "winner": "Lewis Hamilton",
       "voting_results": [
@@ -114,10 +114,10 @@
     {
       "race_name": "Mexico City Grand Prix",
       "year": 2021,
-      "winner": "Sergio Perez",
+      "winner": "Sergio Pérez",
       "voting_results": [
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio Pérez",
           "percentage": 36.9
         },
         {
@@ -156,7 +156,7 @@
           "percentage": 8.7
         },
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio Pérez",
           "percentage": 8.2
         },
         {
@@ -175,7 +175,7 @@
           "percentage": 25.7
         },
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio Pérez",
           "percentage": 14.8
         },
         {
@@ -210,7 +210,7 @@
           "percentage": 9.9
         },
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio Pérez",
           "percentage": 6.5
         },
         {
@@ -237,7 +237,7 @@
           "percentage": 8.5
         },
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio Pérez",
           "percentage": 5.1
         },
         {
@@ -249,10 +249,10 @@
     {
       "race_name": "Dutch Grand Prix",
       "year": 2021,
-      "winner": "Sergio Perez",
+      "winner": "Sergio Pérez",
       "voting_results": [
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio Pérez",
           "percentage": 27.7
         },
         {
@@ -322,7 +322,7 @@
           "percentage": 6.7
         },
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio Pérez",
           "percentage": 6.0
         }
       ]
@@ -337,7 +337,7 @@
           "percentage": 31.6
         },
         {
-          "driver": "Kimi Raikkonen",
+          "driver": "Kimi Räikkönen",
           "percentage": 15.7
         },
         {
@@ -372,7 +372,7 @@
           "percentage": 12.4
         },
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio Pérez",
           "percentage": 7.8
         },
         {
@@ -403,7 +403,7 @@
           "percentage": 8.4
         },
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio Pérez",
           "percentage": 6.9
         }
       ]
@@ -418,7 +418,7 @@
           "percentage": 41.9
         },
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio Pérez",
           "percentage": 18.1
         },
         {
@@ -445,7 +445,7 @@
           "percentage": 23.6
         },
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio Pérez",
           "percentage": 17.3
         },
         {
@@ -492,10 +492,10 @@
     {
       "race_name": "Portuguese Grand Prix",
       "year": 2021,
-      "winner": "Sergio Perez",
+      "winner": "Sergio Pérez",
       "voting_results": [
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio Pérez",
           "percentage": 15.4
         },
         {
@@ -546,10 +546,10 @@
     {
       "race_name": "Bahrain Grand Prix",
       "year": 2021,
-      "winner": "Sergio Perez",
+      "winner": "Sergio Pérez",
       "voting_results": [
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio Pérez",
           "percentage": 27.7
         },
         {

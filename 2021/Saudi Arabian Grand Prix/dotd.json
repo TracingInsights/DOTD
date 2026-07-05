@@ -1,27 +1,27 @@
 {
-    "race_name": "Saudi Arabian Grand Prix",
-    "year": 2021,
-    "winner": "Max Verstappen",
-    "voting_results": [
-      {
-        "driver": "Max Verstappen",
-        "percentage": 26.7
-      },
-      {
-        "driver": "Lewis Hamilton",
-        "percentage": 24.6
-      },
-      {
-        "driver": "Esteban Ocon",
-        "percentage": 12.9
-      },
-      {
-        "driver": "Daniel Ricciardo",
-        "percentage": 6.6
-      },
-      {
-        "driver": "Kimi Raikkonen",
-        "percentage": 4.1
-      }
-    ]
-  }
+  "race_name": "Saudi Arabian Grand Prix",
+  "year": 2021,
+  "winner": "Max Verstappen",
+  "voting_results": [
+    {
+      "driver": "Max Verstappen",
+      "percentage": 26.7
+    },
+    {
+      "driver": "Lewis Hamilton",
+      "percentage": 24.6
+    },
+    {
+      "driver": "Esteban Ocon",
+      "percentage": 12.9
+    },
+    {
+      "driver": "Daniel Ricciardo",
+      "percentage": 6.6
+    },
+    {
+      "driver": "Kimi Räikkönen",
+      "percentage": 4.1
+    }
+  ]
+}

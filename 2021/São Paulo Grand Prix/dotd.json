@@ -1,27 +1,27 @@
 {
-    "race_name": "São Paulo Grand Prix",
-    "year": 2021,
-    "winner": "Lewis Hamilton",
-    "voting_results": [
-      {
-        "driver": "Lewis Hamilton",
-        "percentage": 36.8
-      },
-      {
-        "driver": "Max Verstappen",
-        "percentage": 21.6
-      },
-      {
-        "driver": "Lando Norris",
-        "percentage": 6.4
-      },
-      {
-        "driver": "Nikita Mazepin",
-        "percentage": 5.3
-      },
-      {
-        "driver": "Pierre Gasly",
-        "percentage": 3.4
-      }
-    ]
-  }
+  "race_name": "São Paulo Grand Prix",
+  "year": 2021,
+  "winner": "Lewis Hamilton",
+  "voting_results": [
+    {
+      "driver": "Lewis Hamilton",
+      "percentage": 36.8
+    },
+    {
+      "driver": "Max Verstappen",
+      "percentage": 21.6
+    },
+    {
+      "driver": "Lando Norris",
+      "percentage": 6.4
+    },
+    {
+      "driver": "Nikita Mazepin",
+      "percentage": 5.3
+    },
+    {
+      "driver": "Pierre Gasly",
+      "percentage": 3.4
+    }
+  ]
+}

@@ -1,27 +1,27 @@
 {
-    "race_name": "Italian Grand Prix",
-    "year": 2020,
-    "winner": "Pierre Gasly",
-    "voting_results": [
-      {
-        "driver": "Pierre Gasly",
-        "percentage": 28.0
-      },
-      {
+  "race_name": "Italian Grand Prix",
+  "year": 2020,
+  "winner": "Pierre Gasly",
+  "voting_results": [
+    {
+      "driver": "Pierre Gasly",
+      "percentage": 28.0
+    },
+    {
         "driver": "Carlos Sainz",
-        "percentage": 24.5
-      },
-      {
-        "driver": "Lewis Hamilton",
-        "percentage": 12.8
-      },
-      {
-        "driver": "Kimi Raikkonen",
-        "percentage": 5.5
-      },
-      {
-        "driver": "Lando Norris",
-        "percentage": 5.3
-      }
-    ]
-  }
+      "percentage": 24.5
+    },
+    {
+      "driver": "Lewis Hamilton",
+      "percentage": 12.8
+    },
+    {
+      "driver": "Kimi Räikkönen",
+      "percentage": 5.5
+    },
+    {
+      "driver": "Lando Norris",
+      "percentage": 5.3
+    }
+  ]
+}

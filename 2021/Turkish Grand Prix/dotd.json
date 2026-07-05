@@ -1,27 +1,27 @@
 {
-    "race_name": "Turkish Grand Prix",
-    "year": 2021,
+  "race_name": "Turkish Grand Prix",
+  "year": 2021,
     "winner": "Carlos Sainz",
-    "voting_results": [
-      {
+  "voting_results": [
+    {
         "driver": "Carlos Sainz",
-        "percentage": 25.7
-      },
-      {
-        "driver": "Sergio Perez",
-        "percentage": 14.8
-      },
-      {
-        "driver": "Charles Leclerc",
-        "percentage": 10.6
-      },
-      {
-        "driver": "Valtteri Bottas",
-        "percentage": 10.5
-      },
-      {
-        "driver": "Lewis Hamilton",
-        "percentage": 10.3
-      }
-    ]
-  }
+      "percentage": 25.7
+    },
+    {
+      "driver": "Sergio Pérez",
+      "percentage": 14.8
+    },
+    {
+      "driver": "Charles Leclerc",
+      "percentage": 10.6
+    },
+    {
+      "driver": "Valtteri Bottas",
+      "percentage": 10.5
+    },
+    {
+      "driver": "Lewis Hamilton",
+      "percentage": 10.3
+    }
+  ]
+}

@@ -1,27 +1,27 @@
 {
-    "race_name": "Monaco Grand Prix",
-    "year": 2021,
-    "winner": "Sebastian Vettel",
-    "voting_results": [
-      {
-        "driver": "Sebastian Vettel",
-        "percentage": 23.6
-      },
-      {
-        "driver": "Sergio Perez",
-        "percentage": 17.3
-      },
-      {
-        "driver": "Lando Norris",
-        "percentage": 14.0
-      },
-      {
+  "race_name": "Monaco Grand Prix",
+  "year": 2021,
+  "winner": "Sebastian Vettel",
+  "voting_results": [
+    {
+      "driver": "Sebastian Vettel",
+      "percentage": 23.6
+    },
+    {
+      "driver": "Sergio Pérez",
+      "percentage": 17.3
+    },
+    {
+      "driver": "Lando Norris",
+      "percentage": 14.0
+    },
+    {
         "driver": "Carlos Sainz",
-        "percentage": 12.1
-      },
-      {
-        "driver": "Max Verstappen",
-        "percentage": 9.0
-      }
-    ]
-  }
+      "percentage": 12.1
+    },
+    {
+      "driver": "Max Verstappen",
+      "percentage": 9.0
+    }
+  ]
+}

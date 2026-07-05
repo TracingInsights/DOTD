@@ -1,27 +1,27 @@
 {
-    "race_name": "Hungarian Grand Prix",
-    "year": 2021,
-    "winner": "Fernando Alonso",
-    "voting_results": [
-      {
-        "driver": "Fernando Alonso",
-        "percentage": 28.2
-      },
-      {
-        "driver": "Esteban Ocon",
-        "percentage": 17.8
-      },
-      {
-        "driver": "Lewis Hamilton",
-        "percentage": 12.6
-      },
-      {
-        "driver": "Sebastian Vettel",
-        "percentage": 9.7
-      },
-      {
-        "driver": "Carlos Sainz",
-        "percentage": 5.0
-      }
-    ]
-  }
+  "race_name": "Hungarian Grand Prix",
+  "year": 2021,
+  "winner": "Fernando Alonso",
+  "voting_results": [
+    {
+      "driver": "Fernando Alonso",
+      "percentage": 28.2
+    },
+    {
+      "driver": "Esteban Ocon",
+      "percentage": 17.8
+    },
+    {
+      "driver": "Lewis Hamilton",
+      "percentage": 12.6
+    },
+    {
+      "driver": "Sebastian Vettel",
+      "percentage": 9.7
+    },
+    {
+      "driver": "Carlos Sainz Jr.",
+      "percentage": 5.0
+    }
+  ]
+}

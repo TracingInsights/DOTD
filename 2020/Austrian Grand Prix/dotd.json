@@ -1,27 +1,27 @@
 {
-    "race_name": "Austrian Grand Prix",
-    "year": 2020,
+  "race_name": "Austrian Grand Prix",
+  "year": 2020,
     "winner": "Alex Albon",
-    "voting_results": [
-      {
+  "voting_results": [
+    {
         "driver": "Alex Albon",
-        "percentage": 15.0
-      },
-      {
-        "driver": "Lando Norris",
-        "percentage": 13.9
-      },
-      {
-        "driver": "Valtteri Bottas",
-        "percentage": 12.7
-      },
-      {
-        "driver": "Sergio Perez",
-        "percentage": 12.2
-      },
-      {
-        "driver": "Charles Leclerc",
-        "percentage": 11.6
-      }
-    ]
-  }
+      "percentage": 15.0
+    },
+    {
+      "driver": "Lando Norris",
+      "percentage": 13.9
+    },
+    {
+      "driver": "Valtteri Bottas",
+      "percentage": 12.7
+    },
+    {
+      "driver": "Sergio Pérez",
+      "percentage": 12.2
+    },
+    {
+      "driver": "Charles Leclerc",
+      "percentage": 11.6
+    }
+  ]
+}

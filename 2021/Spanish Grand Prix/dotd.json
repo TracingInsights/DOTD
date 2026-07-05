@@ -1,27 +1,27 @@
 {
-    "race_name": "Spanish Grand Prix",
-    "year": 2021,
-    "winner": "Lewis Hamilton",
-    "voting_results": [
-      {
-        "driver": "Lewis Hamilton",
-        "percentage": 22.6
-      },
-      {
-        "driver": "Max Verstappen",
-        "percentage": 19.7
-      },
-      {
-        "driver": "Charles Leclerc",
-        "percentage": 12.3
-      },
-      {
-        "driver": "Nikita Mazepin",
-        "percentage": 7.3
-      },
-      {
-        "driver": "Daniel Ricciardo",
-        "percentage": 6.5
-      }
-    ]
-  }
+  "race_name": "Spanish Grand Prix",
+  "year": 2021,
+  "winner": "Lewis Hamilton",
+  "voting_results": [
+    {
+      "driver": "Lewis Hamilton",
+      "percentage": 22.6
+    },
+    {
+      "driver": "Max Verstappen",
+      "percentage": 19.7
+    },
+    {
+      "driver": "Charles Leclerc",
+      "percentage": 12.3
+    },
+    {
+      "driver": "Nikita Mazepin",
+      "percentage": 7.3
+    },
+    {
+      "driver": "Daniel Ricciardo",
+      "percentage": 6.5
+    }
+  ]
+}

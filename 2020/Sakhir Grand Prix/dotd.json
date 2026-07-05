@@ -1,27 +1,27 @@
 {
-    "race_name": "Sakhir Grand Prix",
-    "year": 2020,
-    "winner": "George Russell",
-    "voting_results": [
-      {
-        "driver": "George Russell",
-        "percentage": 48.8
-      },
-      {
-        "driver": "Sergio Perez",
-        "percentage": 23.5
-      },
-      {
-        "driver": "Pietro Fittipaldi",
-        "percentage": 5.8
-      },
-      {
-        "driver": "Esteban Ocon",
-        "percentage": 3.4
-      },
-      {
-        "driver": "Max Verstappen",
-        "percentage": 2.3
-      }
-    ]
-  }
+  "race_name": "Sakhir Grand Prix",
+  "year": 2020,
+  "winner": "George Russell",
+  "voting_results": [
+    {
+      "driver": "George Russell",
+      "percentage": 48.8
+    },
+    {
+      "driver": "Sergio Pérez",
+      "percentage": 23.5
+    },
+    {
+      "driver": "Pietro Fittipaldi",
+      "percentage": 5.8
+    },
+    {
+      "driver": "Esteban Ocon",
+      "percentage": 3.4
+    },
+    {
+      "driver": "Max Verstappen",
+      "percentage": 2.3
+    }
+  ]
+}

@@ -1,27 +1,27 @@
 {
-    "race_name": "Qatar Grand Prix",
-    "year": 2021,
-    "winner": "Fernando Alonso",
-    "voting_results": [
-      {
-        "driver": "Fernando Alonso",
-        "percentage": 28.6
-      },
-      {
-        "driver": "Sergio Perez",
-        "percentage": 16.6
-      },
-      {
-        "driver": "Lewis Hamilton",
-        "percentage": 13.7
-      },
-      {
-        "driver": "Max Verstappen",
-        "percentage": 13.5
-      },
-      {
-        "driver": "Lando Norris",
-        "percentage": 5.6
-      }
-    ]
-  }
+  "race_name": "Qatar Grand Prix",
+  "year": 2021,
+  "winner": "Fernando Alonso",
+  "voting_results": [
+    {
+      "driver": "Fernando Alonso",
+      "percentage": 28.6
+    },
+    {
+      "driver": "Sergio Pérez",
+      "percentage": 16.6
+    },
+    {
+      "driver": "Lewis Hamilton",
+      "percentage": 13.7
+    },
+    {
+      "driver": "Max Verstappen",
+      "percentage": 13.5
+    },
+    {
+      "driver": "Lando Norris",
+      "percentage": 5.6
+    }
+  ]
+}

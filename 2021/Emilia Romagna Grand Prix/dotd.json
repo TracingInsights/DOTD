@@ -1,27 +1,27 @@
 {
-    "race_name": "Emilia Romagna Grand Prix",
-    "year": 2021,
-    "winner": "Lando Norris",
-    "voting_results": [
-      {
-        "driver": "Lando Norris",
-        "percentage": 32.3
-      },
-      {
-        "driver": "Max Verstappen",
-        "percentage": 15.5
-      },
-      {
-        "driver": "Lewis Hamilton",
-        "percentage": 13.9
-      },
-      {
-        "driver": "Charles Leclerc",
-        "percentage": 7.2
-      },
-      {
+  "race_name": "Emilia Romagna Grand Prix",
+  "year": 2021,
+  "winner": "Lando Norris",
+  "voting_results": [
+    {
+      "driver": "Lando Norris",
+      "percentage": 32.3
+    },
+    {
+      "driver": "Max Verstappen",
+      "percentage": 15.5
+    },
+    {
+      "driver": "Lewis Hamilton",
+      "percentage": 13.9
+    },
+    {
+      "driver": "Charles Leclerc",
+      "percentage": 7.2
+    },
+    {
         "driver": "Carlos Sainz",
-        "percentage": 4.9
-      }
-    ]
-  }
+      "percentage": 4.9
+    }
+  ]
+}

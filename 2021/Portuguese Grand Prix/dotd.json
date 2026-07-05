@@ -1,27 +1,27 @@
 {
-    "race_name": "Portuguese Grand Prix",
-    "year": 2021,
-    "winner": "Sergio Perez",
-    "voting_results": [
-      {
-        "driver": "Sergio Perez",
-        "percentage": 15.4
-      },
-      {
-        "driver": "Lewis Hamilton",
-        "percentage": 12.2
-      },
-      {
-        "driver": "Max Verstappen",
-        "percentage": 10.6
-      },
-      {
-        "driver": "Daniel Ricciardo",
-        "percentage": 10.3
-      },
-      {
-        "driver": "Fernando Alonso",
-        "percentage": 10.0
-      }
-    ]
-  }
+  "race_name": "Portuguese Grand Prix",
+  "year": 2021,
+  "winner": "Sergio Pérez",
+  "voting_results": [
+    {
+      "driver": "Sergio Pérez",
+      "percentage": 15.4
+    },
+    {
+      "driver": "Lewis Hamilton",
+      "percentage": 12.2
+    },
+    {
+      "driver": "Max Verstappen",
+      "percentage": 10.6
+    },
+    {
+      "driver": "Daniel Ricciardo",
+      "percentage": 10.3
+    },
+    {
+      "driver": "Fernando Alonso",
+      "percentage": 10.0
+    }
+  ]
+}

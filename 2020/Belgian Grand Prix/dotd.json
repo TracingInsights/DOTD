@@ -1,27 +1,27 @@
 {
-    "race_name": "Belgian Grand Prix",
-    "year": 2020,
-    "winner": "Pierre Gasly",
-    "voting_results": [
-      {
-        "driver": "Pierre Gasly",
-        "percentage": 18.9
-      },
-      {
-        "driver": "Daniel Ricciardo",
-        "percentage": 18.7
-      },
-      {
-        "driver": "Lewis Hamilton",
-        "percentage": 9.5
-      },
-      {
-        "driver": "Max Verstappen",
-        "percentage": 7.6
-      },
-      {
-        "driver": "Lando Norris",
-        "percentage": 7.3
-      }
-    ]
-  }
+  "race_name": "Belgian Grand Prix",
+  "year": 2020,
+  "winner": "Pierre Gasly",
+  "voting_results": [
+    {
+      "driver": "Pierre Gasly",
+      "percentage": 18.9
+    },
+    {
+      "driver": "Daniel Ricciardo",
+      "percentage": 18.7
+    },
+    {
+      "driver": "Lewis Hamilton",
+      "percentage": 9.5
+    },
+    {
+      "driver": "Max Verstappen",
+      "percentage": 7.6
+    },
+    {
+      "driver": "Lando Norris",
+      "percentage": 7.3
+    }
+  ]
+}

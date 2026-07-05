@@ -1,27 +1,27 @@
 {
-    "race_name": "Abu Dhabi Grand Prix",
-    "year": 2020,
-    "winner": "Max Verstappen",
-    "voting_results": [
-      {
-        "driver": "Max Verstappen",
-        "percentage": 21.2
-      },
-      {
-        "driver": "Sebastian Vettel",
-        "percentage": 13.8
-      },
-      {
-        "driver": "Daniel Ricciardo",
-        "percentage": 11.3
-      },
-      {
-        "driver": "Lando Norris",
-        "percentage": 7.0
-      },
-      {
-        "driver": "Sergio Perez",
-        "percentage": 6.1
-      }
-    ]
-  },
+  "race_name": "Abu Dhabi Grand Prix",
+  "year": 2020,
+  "winner": "Max Verstappen",
+  "voting_results": [
+    {
+      "driver": "Max Verstappen",
+      "percentage": 21.2
+    },
+    {
+      "driver": "Sebastian Vettel",
+      "percentage": 13.8
+    },
+    {
+      "driver": "Daniel Ricciardo",
+      "percentage": 11.3
+    },
+    {
+      "driver": "Lando Norris",
+      "percentage": 7.0
+    },
+    {
+      "driver": "Sergio Pérez",
+      "percentage": 6.1
+    }
+  ]
+}

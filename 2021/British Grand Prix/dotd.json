@@ -1,27 +1,27 @@
 {
-    "race_name": "British Grand Prix",
-    "year": 2021,
-    "winner": "Charles Leclerc",
-    "voting_results": [
-      {
-        "driver": "Charles Leclerc",
-        "percentage": 34.5
-      },
-      {
-        "driver": "Lewis Hamilton",
-        "percentage": 13.4
-      },
-      {
-        "driver": "Max Verstappen",
-        "percentage": 12.9
-      },
-      {
-        "driver": "Lando Norris",
-        "percentage": 6.7
-      },
-      {
-        "driver": "Sergio Perez",
-        "percentage": 6.0
-      }
-    ]
-  }
+  "race_name": "British Grand Prix",
+  "year": 2021,
+  "winner": "Charles Leclerc",
+  "voting_results": [
+    {
+      "driver": "Charles Leclerc",
+      "percentage": 34.5
+    },
+    {
+      "driver": "Lewis Hamilton",
+      "percentage": 13.4
+    },
+    {
+      "driver": "Max Verstappen",
+      "percentage": 12.9
+    },
+    {
+      "driver": "Lando Norris",
+      "percentage": 6.7
+    },
+    {
+      "driver": "Sergio Pérez",
+      "percentage": 6.0
+    }
+  ]
+}
