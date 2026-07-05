@@ -1,7 +1,7 @@
 {
   "year": 2023,
   "total_races": 22,
-  "last_updated": "2025-06-02T07:43:25.116640+00:00",
+  "last_updated": "2026-07-05T05:00:02.693743+00:00",
   "races": [
     {
       "race_name": "Abu Dhabi Grand Prix",
@@ -17,7 +17,7 @@
           "percentage": 14.3
         },
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio Pérez",
           "percentage": 11.3
         },
         {
@@ -40,7 +40,7 @@
           "percentage": 21.6
         },
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio Pérez",
           "percentage": 19.1
         },
         {
@@ -71,7 +71,7 @@
           "percentage": 24.7
         },
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio Pérez",
           "percentage": 15.8
         },
         {
@@ -102,7 +102,7 @@
           "percentage": 12.2
         },
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio Pérez",
           "percentage": 8.3
         },
         {
@@ -129,7 +129,7 @@
           "percentage": 14.4
         },
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio Pérez",
           "percentage": 7.5
         },
         {
@@ -229,7 +229,7 @@
           "percentage": 31.5
         },
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio Pérez",
           "percentage": 14.8
         },
         {
@@ -295,7 +295,7 @@
           "percentage": 8.0
         },
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio Pérez",
           "percentage": 7.3
         }
       ]
@@ -303,10 +303,10 @@
     {
       "race_name": "Hungarian Grand Prix",
       "year": 2023,
-      "winner": "Sergio Perez",
+      "winner": "Sergio Pérez",
       "voting_results": [
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio Pérez",
           "percentage": 20.7
         },
         {
@@ -345,7 +345,7 @@
           "percentage": 10.8
         },
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio Pérez",
           "percentage": 8.1
         },
         {
@@ -368,7 +368,7 @@
           "percentage": 22.4
         },
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio Pérez",
           "percentage": 21.8
         },
         {
@@ -418,7 +418,7 @@
           "percentage": 24.7
         },
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio Pérez",
           "percentage": 19.2
         },
         {
@@ -472,7 +472,7 @@
           "percentage": 27.1
         },
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio Pérez",
           "percentage": 12.5
         },
         {
@@ -492,10 +492,10 @@
     {
       "race_name": "Azerbaijan Grand Prix",
       "year": 2023,
-      "winner": "Sergio Perez",
+      "winner": "Sergio Pérez",
       "voting_results": [
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio Pérez",
           "percentage": 29.1
         },
         {
@@ -519,10 +519,10 @@
     {
       "race_name": "Australian Grand Prix",
       "year": 2023,
-      "winner": "Sergio Perez",
+      "winner": "Sergio Pérez",
       "voting_results": [
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio Pérez",
           "percentage": 21.3
         },
         {
@@ -553,7 +553,7 @@
           "percentage": 26.3
         },
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio Pérez",
           "percentage": 19.8
         },
         {
@@ -563,6 +563,10 @@
         {
           "driver": "Charles Leclerc",
           "percentage": 7.2
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 6.7
         }
       ]
     },

@@ -1,10 +1,10 @@
 {
   "race_name": "Australian Grand Prix",
   "year": 2023,
-  "winner": "Sergio Perez",
+  "winner": "Sergio Pérez",
   "voting_results": [
     {
-      "driver": "Sergio Perez",
+      "driver": "Sergio Pérez",
       "percentage": 21.3
     },
     {

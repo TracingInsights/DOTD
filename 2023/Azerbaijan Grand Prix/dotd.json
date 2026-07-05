@@ -1,10 +1,10 @@
 {
   "race_name": "Azerbaijan Grand Prix",
   "year": 2023,
-  "winner": "Sergio Perez",
+  "winner": "Sergio Pérez",
   "voting_results": [
     {
-      "driver": "Sergio Perez",
+      "driver": "Sergio Pérez",
       "percentage": 29.1
     },
     {

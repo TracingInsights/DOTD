@@ -1,10 +1,10 @@
 {
   "race_name": "Hungarian Grand Prix",
   "year": 2023,
-  "winner": "Sergio Perez",
+  "winner": "Sergio Pérez",
   "voting_results": [
     {
-      "driver": "Sergio Perez",
+      "driver": "Sergio Pérez",
       "percentage": 20.7
     },
     {

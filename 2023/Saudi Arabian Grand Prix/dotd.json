@@ -8,7 +8,7 @@
       "percentage": 26.3
     },
     {
-      "driver": "Sergio Perez",
+      "driver": "Sergio Pérez",
       "percentage": 19.8
     },
     {
@@ -18,6 +18,10 @@
     {
       "driver": "Charles Leclerc",
       "percentage": 7.2
+    },
+    {
+      "driver": "Lewis Hamilton",
+      "percentage": 6.7
     }
   ]
 }

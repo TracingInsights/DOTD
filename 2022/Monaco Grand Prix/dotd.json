@@ -1,10 +1,10 @@
 {
   "race_name": "Monaco Grand Prix",
   "year": 2022,
-  "winner": "Sergio Perez",
+  "winner": "Sergio Pérez",
   "voting_results": [
     {
-      "driver": "Sergio Perez",
+      "driver": "Sergio Pérez",
       "percentage": 27.6
     },
     {

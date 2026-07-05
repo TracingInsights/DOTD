@@ -1,7 +1,7 @@
 {
   "year": 2022,
   "total_races": 22,
-  "last_updated": "2025-06-02T07:43:25.666568+00:00",
+  "last_updated": "2026-07-05T05:00:02.689546+00:00",
   "races": [
     {
       "race_name": "Abu Dhabi Grand Prix",
@@ -13,7 +13,7 @@
           "percentage": 56.6
         },
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio Pérez",
           "percentage": 9.1
         },
         {
@@ -67,7 +67,7 @@
           "percentage": 24.4
         },
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio Pérez",
           "percentage": 16.7
         },
         {
@@ -141,10 +141,10 @@
     {
       "race_name": "Singapore Grand Prix",
       "year": 2022,
-      "winner": "Sergio Perez",
+      "winner": "Sergio Pérez",
       "voting_results": [
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio Pérez",
           "percentage": 22.6
         },
         {
@@ -295,7 +295,7 @@
           "percentage": 6.4
         },
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio Pérez",
           "percentage": 5.4
         }
       ]
@@ -330,15 +330,23 @@
     {
       "race_name": "British Grand Prix",
       "year": 2022,
-      "winner": "Sergio Perez",
+      "winner": "Sergio Pérez",
       "voting_results": [
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio Pérez",
           "percentage": 20.7
         },
         {
           "driver": "Lewis Hamilton",
           "percentage": 20.0
+        },
+        {
+          "driver": "Carlos Sainz",
+          "percentage": 11.1
+        },
+        {
+          "driver": "Charles Leclerc",
+          "percentage": 9.0
         },
         {
           "driver": "Mick Schumacher",
@@ -391,7 +399,7 @@
           "percentage": 13.1
         },
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio Pérez",
           "percentage": 10.0
         },
         {
@@ -403,10 +411,10 @@
     {
       "race_name": "Monaco Grand Prix",
       "year": 2022,
-      "winner": "Sergio Perez",
+      "winner": "Sergio Pérez",
       "voting_results": [
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio Pérez",
           "percentage": 27.6
         },
         {
@@ -437,7 +445,7 @@
           "percentage": 22.8
         },
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio Pérez",
           "percentage": 16.3
         },
         {
@@ -476,7 +484,7 @@
           "percentage": 8.6
         },
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio Pérez",
           "percentage": 7.6
         }
       ]
@@ -491,7 +499,7 @@
           "percentage": 14.7
         },
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio Pérez",
           "percentage": 11.5
         },
         {
@@ -518,7 +526,7 @@
           "percentage": 19.7
         },
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio Pérez",
           "percentage": 14.8
         },
         {
@@ -553,7 +561,7 @@
           "percentage": 10.1
         },
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio Pérez",
           "percentage": 9.5
         },
         {
