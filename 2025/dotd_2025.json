@@ -1,7 +1,7 @@
 {
   "year": 2025,
   "total_races": 24,
-  "last_updated": "2026-03-09T13:32:59.294333+00:00",
+  "last_updated": "2026-07-05T05:00:02.701158+00:00",
   "races": [
     {
       "race_name": "Abu Dhabi Grand Prix",
@@ -23,6 +23,10 @@
         {
           "driver": "Charles Leclerc",
           "percentage": 12.2
+        },
+        {
+          "driver": "Yuki Tsunoda",
+          "percentage": 11.3
         }
       ]
     },
@@ -326,10 +330,10 @@
     {
       "race_name": "British Grand Prix",
       "year": 2025,
-      "winner": "Nico Hulkenberg",
+      "winner": "Nico Hülkenberg",
       "voting_results": [
         {
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico Hülkenberg",
           "percentage": 49.0
         },
         {
@@ -399,7 +403,7 @@
           "percentage": 9.3
         },
         {
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico Hülkenberg",
           "percentage": 6.7
         }
       ]
@@ -418,7 +422,7 @@
           "percentage": 14.5
         },
         {
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico Hülkenberg",
           "percentage": 10.6
         },
         {

@@ -1,7 +1,7 @@
 {
   "year": 2024,
   "total_races": 24,
-  "last_updated": "2025-06-02T07:43:24.546374+00:00",
+  "last_updated": "2026-07-05T05:00:02.697765+00:00",
   "races": [
     {
       "race_name": "Abu Dhabi Grand Prix",
@@ -210,7 +210,7 @@
           "percentage": 12.3
         },
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio Pérez",
           "percentage": 9.3
         },
         {
@@ -345,7 +345,7 @@
           "percentage": 13.4
         },
         {
-          "driver": "Nico Hulkenberg",
+          "driver": "Nico Hülkenberg",
           "percentage": 6.6
         },
         {
@@ -561,7 +561,7 @@
           "percentage": 14.6
         },
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio Pérez",
           "percentage": 8.3
         },
         {
@@ -615,7 +615,7 @@
           "percentage": 6.7
         },
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio Pérez",
           "percentage": 5.9
         },
         {
@@ -638,7 +638,7 @@
           "percentage": 13.3
         },
         {
-          "driver": "Sergio Perez",
+          "driver": "Sergio Pérez",
           "percentage": 11.4
         },
         {
