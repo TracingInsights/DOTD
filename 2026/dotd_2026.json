@@ -1,7 +1,7 @@
 {
   "year": 2026,
   "total_races": 8,
-  "last_updated": "2026-06-28T16:50:13.627582+00:00",
+  "last_updated": "2026-07-05T05:00:02.703781+00:00",
   "races": [
     {
       "race_name": "Australian Grand Prix",
@@ -103,7 +103,7 @@
         },
         {
           "driver": "Franco Colapinto",
-          "percentage": 11
+          "percentage": 11.0
         },
         {
           "driver": "Lando Norris",
@@ -211,7 +211,7 @@
         },
         {
           "driver": "Kimi Antonelli",
-          "percentage": 10
+          "percentage": 10.0
         },
         {
           "driver": "Oscar Piastri",
