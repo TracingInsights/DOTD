@@ -1,7 +1,7 @@
 {
   "year": 2026,
-  "total_races": 9,
-  "last_updated": "2026-07-05T16:47:49.251764+00:00",
+  "total_races": 10,
+  "last_updated": "2026-07-20T06:25:19.615082+00:00",
   "races": [
     {
       "race_name": "Australian Grand Prix",
@@ -243,6 +243,33 @@
         {
           "driver": "George Russell",
           "percentage": 4.5
+        }
+      ]
+    },
+    {
+      "race_name": "Belgian Grand Prix",
+      "year": 2026,
+      "winner": "Charles Leclerc",
+      "voting_results": [
+        {
+          "driver": "Charles Leclerc",
+          "percentage": 17.7
+        },
+        {
+          "driver": "Kimi Antonelli",
+          "percentage": 13.8
+        },
+        {
+          "driver": "Isack Hadjar",
+          "percentage": 13.4
+        },
+        {
+          "driver": "Max Verstappen",
+          "percentage": 12.8
+        },
+        {
+          "driver": "Lando Norris",
+          "percentage": 11.6
         }
       ]
     }

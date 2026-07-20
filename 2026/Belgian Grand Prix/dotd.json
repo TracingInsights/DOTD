@@ -1,0 +1,27 @@
+{
+  "race_name": "Belgian Grand Prix",
+  "voting_results": [
+    {
+      "driver": "Charles Leclerc",
+      "percentage": 17.7
+    },
+    {
+      "driver": "Kimi Antonelli",
+      "percentage": 13.8
+    },
+    {
+      "driver": "Isack Hadjar",
+      "percentage": 13.4
+    },
+    {
+      "driver": "Max Verstappen",
+      "percentage": 12.8
+    },
+    {
+      "driver": "Lando Norris",
+      "percentage": 11.6
+    }
+  ],
+  "winner": "Charles Leclerc",
+  "year": 2026
+}

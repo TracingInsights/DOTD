@@ -13,8 +13,8 @@
     2026
   ],
   "total_years": 11,
-  "total_races": 222,
-  "last_updated": "2026-07-13T14:04:06.371381+00:00",
+  "total_races": 223,
+  "last_updated": "2026-07-20T06:25:19.615879+00:00",
   "data_by_year": {
     "2016": {
       "total_races": 21,
@@ -919,7 +919,7 @@
       ]
     },
     "2026": {
-      "total_races": 9,
+      "total_races": 10,
       "races": [
         {
           "race_name": "Australian Grand Prix",
@@ -955,6 +955,10 @@
         },
         {
           "race_name": "British Grand Prix",
+          "winner": "Charles Leclerc"
+        },
+        {
+          "race_name": "Belgian Grand Prix",
           "winner": "Charles Leclerc"
         }
       ]
