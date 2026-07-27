@@ -1,0 +1,27 @@
+{
+  "race_name": "Hungarian Grand Prix",
+  "voting_results": [
+    {
+      "driver": "Max Verstappen",
+      "percentage": 18.9
+    },
+    {
+      "driver": "Lando Norris",
+      "percentage": 17.1
+    },
+    {
+      "driver": "Kimi Antonelli",
+      "percentage": 11.2
+    },
+    {
+      "driver": "George Russell",
+      "percentage": 11
+    },
+    {
+      "driver": "Oscar Piastri",
+      "percentage": 8.9
+    }
+  ],
+  "winner": "Max Verstappen",
+  "year": 2026
+}
