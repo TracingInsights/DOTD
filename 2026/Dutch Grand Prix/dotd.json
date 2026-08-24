@@ -1,0 +1,27 @@
+{
+  "race_name": "Dutch Grand Prix",
+  "voting_results": [
+    {
+      "driver": "Lando Norris",
+      "percentage": 18.5
+    },
+    {
+      "driver": "Fernando Alonso",
+      "percentage": 17.7
+    },
+    {
+      "driver": "Lewis Hamilton",
+      "percentage": 13.1
+    },
+    {
+      "driver": "Kimi Antonelli",
+      "percentage": 9.8
+    },
+    {
+      "driver": "Yuki Tsunoda",
+      "percentage": 7.5
+    }
+  ],
+  "winner": "Lando Norris",
+  "year": 2026
+}

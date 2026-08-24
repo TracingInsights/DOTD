@@ -13,8 +13,8 @@
     2026
   ],
   "total_years": 11,
-  "total_races": 224,
-  "last_updated": "2026-08-17T12:21:23.071452+00:00",
+  "total_races": 225,
+  "last_updated": "2026-08-24T07:05:11.594892+00:00",
   "data_by_year": {
     "2016": {
       "total_races": 21,
@@ -919,7 +919,7 @@
       ]
     },
     "2026": {
-      "total_races": 11,
+      "total_races": 12,
       "races": [
         {
           "race_name": "Australian Grand Prix",
@@ -964,6 +964,10 @@
         {
           "race_name": "Hungarian Grand Prix",
           "winner": "Max Verstappen"
+        },
+        {
+          "race_name": "Dutch Grand Prix",
+          "winner": "Lando Norris"
         }
       ]
     }
