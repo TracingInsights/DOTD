@@ -1,0 +1,27 @@
+{
+  "race_name": "Italian Grand Prix",
+  "voting_results": [
+    {
+      "driver": "Kimi Antonelli",
+      "percentage": 39.9
+    },
+    {
+      "driver": "Max Verstappen",
+      "percentage": 16
+    },
+    {
+      "driver": "George Russell",
+      "percentage": 7.9
+    },
+    {
+      "driver": "Pierre Gasly",
+      "percentage": 6.2
+    },
+    {
+      "driver": "Oscar Piastri",
+      "percentage": 6
+    }
+  ],
+  "winner": "Kimi Antonelli",
+  "year": 2026
+}

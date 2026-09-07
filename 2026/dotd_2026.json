@@ -1,7 +1,7 @@
 {
   "year": 2026,
-  "total_races": 12,
-  "last_updated": "2026-08-24T07:05:11.594141+00:00",
+  "total_races": 13,
+  "last_updated": "2026-09-07T06:48:58.884106+00:00",
   "races": [
     {
       "race_name": "Australian Grand Prix",
@@ -324,6 +324,33 @@
         {
           "driver": "Yuki Tsunoda",
           "percentage": 7.5
+        }
+      ]
+    },
+    {
+      "race_name": "Italian Grand Prix",
+      "year": 2026,
+      "winner": "Kimi Antonelli",
+      "voting_results": [
+        {
+          "driver": "Kimi Antonelli",
+          "percentage": 39.9
+        },
+        {
+          "driver": "Max Verstappen",
+          "percentage": 16
+        },
+        {
+          "driver": "George Russell",
+          "percentage": 7.9
+        },
+        {
+          "driver": "Pierre Gasly",
+          "percentage": 6.2
+        },
+        {
+          "driver": "Oscar Piastri",
+          "percentage": 6
         }
       ]
     }

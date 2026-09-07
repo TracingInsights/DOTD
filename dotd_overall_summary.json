@@ -13,8 +13,8 @@
     2026
   ],
   "total_years": 11,
-  "total_races": 225,
-  "last_updated": "2026-08-31T18:25:07.191192+00:00",
+  "total_races": 226,
+  "last_updated": "2026-09-07T06:48:58.884972+00:00",
   "data_by_year": {
     "2016": {
       "total_races": 21,
@@ -919,7 +919,7 @@
       ]
     },
     "2026": {
-      "total_races": 12,
+      "total_races": 13,
       "races": [
         {
           "race_name": "Australian Grand Prix",
@@ -968,6 +968,10 @@
         {
           "race_name": "Dutch Grand Prix",
           "winner": "Lando Norris"
+        },
+        {
+          "race_name": "Italian Grand Prix",
+          "winner": "Kimi Antonelli"
         }
       ]
     }
