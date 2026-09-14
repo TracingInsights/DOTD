@@ -1,0 +1,27 @@
+{
+  "race_name": "Spanish Grand Prix",
+  "voting_results": [
+    {
+      "driver": "Max Verstappen",
+      "percentage": 23.5
+    },
+    {
+      "driver": "Charles Leclerc",
+      "percentage": 18.3
+    },
+    {
+      "driver": "Lando Norris",
+      "percentage": 16.2
+    },
+    {
+      "driver": "Kimi Antonelli",
+      "percentage": 9.7
+    },
+    {
+      "driver": "Franco Colapinto",
+      "percentage": 7.3
+    }
+  ],
+  "winner": "Max Verstappen",
+  "year": 2026
+}

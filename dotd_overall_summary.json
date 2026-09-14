@@ -13,8 +13,8 @@
     2026
   ],
   "total_years": 11,
-  "total_races": 226,
-  "last_updated": "2026-09-07T16:50:40.637793+00:00",
+  "total_races": 227,
+  "last_updated": "2026-09-14T05:06:10.309632+00:00",
   "data_by_year": {
     "2016": {
       "total_races": 21,
@@ -919,7 +919,7 @@
       ]
     },
     "2026": {
-      "total_races": 13,
+      "total_races": 14,
       "races": [
         {
           "race_name": "Australian Grand Prix",
@@ -972,6 +972,10 @@
         {
           "race_name": "Italian Grand Prix",
           "winner": "Kimi Antonelli"
+        },
+        {
+          "race_name": "Spanish Grand Prix",
+          "winner": "Max Verstappen"
         }
       ]
     }
