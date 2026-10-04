@@ -1,0 +1,27 @@
+{
+  "race_name": "Bahrain Grand Prix in Malaysia",
+  "voting_results": [
+    {
+      "driver": "Max Verstappen",
+      "percentage": 25.9
+    },
+    {
+      "driver": "Lewis Hamilton",
+      "percentage": 25.3
+    },
+    {
+      "driver": "Fernando Alonso",
+      "percentage": 11.2
+    },
+    {
+      "driver": "Kimi Antonelli",
+      "percentage": 6.1
+    },
+    {
+      "driver": "Charles Leclerc",
+      "percentage": 5.1
+    }
+  ],
+  "winner": "Max Verstappen",
+  "year": 2026
+}

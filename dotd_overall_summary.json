@@ -13,8 +13,8 @@
     2026
   ],
   "total_years": 11,
-  "total_races": 228,
-  "last_updated": "2026-09-28T18:56:11.695253+00:00",
+  "total_races": 229,
+  "last_updated": "2026-10-04T12:17:46.140664+00:00",
   "data_by_year": {
     "2016": {
       "total_races": 21,
@@ -919,7 +919,7 @@
       ]
     },
     "2026": {
-      "total_races": 15,
+      "total_races": 16,
       "races": [
         {
           "race_name": "Australian Grand Prix",
@@ -979,6 +979,10 @@
         },
         {
           "race_name": "Azerbaijan Grand Prix",
+          "winner": "Max Verstappen"
+        },
+        {
+          "race_name": "Bahrain Grand Prix in Malaysia",
           "winner": "Max Verstappen"
         }
       ]

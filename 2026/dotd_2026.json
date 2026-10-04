@@ -1,7 +1,7 @@
 {
   "year": 2026,
-  "total_races": 15,
-  "last_updated": "2026-09-27T03:36:50.724353+00:00",
+  "total_races": 16,
+  "last_updated": "2026-10-04T12:17:46.139662+00:00",
   "races": [
     {
       "race_name": "Australian Grand Prix",
@@ -405,6 +405,33 @@
         {
           "driver": "Oscar Piastri",
           "percentage": 5.5
+        }
+      ]
+    },
+    {
+      "race_name": "Bahrain Grand Prix in Malaysia",
+      "year": 2026,
+      "winner": "Max Verstappen",
+      "voting_results": [
+        {
+          "driver": "Max Verstappen",
+          "percentage": 25.9
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 25.3
+        },
+        {
+          "driver": "Fernando Alonso",
+          "percentage": 11.2
+        },
+        {
+          "driver": "Kimi Antonelli",
+          "percentage": 6.1
+        },
+        {
+          "driver": "Charles Leclerc",
+          "percentage": 5.1
         }
       ]
     }
