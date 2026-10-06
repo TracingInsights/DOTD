@@ -5,23 +5,23 @@
   "voting_results": [
     {
       "driver": "Gabriel Bortoleto",
-      "percentage": 18.8
+      "percentage": 18.81
     },
     {
       "driver": "Fernando Alonso",
-      "percentage": 18.3
+      "percentage": 18.34
     },
     {
       "driver": "Charles Leclerc",
-      "percentage": 15.2
+      "percentage": 15.15
     },
     {
       "driver": "Lando Norris",
-      "percentage": 9.8
+      "percentage": 9.84
     },
     {
       "driver": "Oscar Piastri",
-      "percentage": 7.7
+      "percentage": 7.71
     }
   ]
 }

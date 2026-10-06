@@ -5,23 +5,23 @@
   "voting_results": [
     {
       "driver": "Oliver Bearman",
-      "percentage": 48.3
+      "percentage": 48.28
     },
     {
       "driver": "Lewis Hamilton",
-      "percentage": 7.3
+      "percentage": 7.27
     },
     {
       "driver": "Kevin Magnussen",
-      "percentage": 6.7
+      "percentage": 6.71
     },
     {
-      "driver": "Sergio Pérez",
-      "percentage": 5.9
+      "driver": "Sergio Perez",
+      "percentage": 5.91
     },
     {
       "driver": "Lando Norris",
-      "percentage": 5.2
+      "percentage": 5.16
     }
   ]
 }

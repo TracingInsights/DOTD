@@ -5,7 +5,7 @@
   "voting_results": [
     {
       "driver": "Charles Leclerc",
-      "percentage": 23.8
+      "percentage": 23.79
     },
     {
       "driver": "Yuki Tsunoda",
@@ -13,15 +13,15 @@
     },
     {
       "driver": "Carlos Sainz",
-      "percentage": 14.6
+      "percentage": 14.63
     },
     {
-      "driver": "Sergio Pérez",
-      "percentage": 8.3
+      "driver": "Sergio Perez",
+      "percentage": 8.32
     },
     {
       "driver": "Lando Norris",
-      "percentage": 8.0
+      "percentage": 8.07
     }
   ]
 }

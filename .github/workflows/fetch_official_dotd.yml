@@ -1,0 +1,94 @@
+name: Fetch Official DOTD Data
+
+# Treats the official formula1.com awards results source
+# (api.formula1.com/v1/fom-results-extension/driver-of-the-day, the JSON API
+# behind /en/results/{year}/awards/driver-of-the-day) as the source of truth.
+# Seasons with no official data (2016-2018) are skipped automatically.
+
+on:
+  schedule:
+    # Run every Monday at 12:00 UTC (after typical Sunday races)
+    - cron: '0 12 * * 1'
+  workflow_dispatch:
+    inputs:
+      year:
+        description: 'Season year (empty = all years from 2016 through current)'
+        required: false
+        type: string
+
+# Never cancel an in-flight run; queue the next one instead
+concurrency:
+  group: fetch-official-dotd
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-official-dotd:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v7
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v7
+        with:
+          enable-cache: true
+
+      - name: Set up Python
+        run: uv python install
+
+      - name: Install dependencies
+        run: uv sync
+
+      - name: Resolve fetch arguments
+        id: args
+        run: |
+          YEAR="${{ inputs.year }}"
+          if [ -n "$YEAR" ]; then
+            if ! [[ "$YEAR" =~ ^[0-9]{4}$ ]]; then
+              echo "Error: 'year' input must be a 4-digit year, got '$YEAR'."
+              exit 1
+            fi
+            echo "cli_args=--year $YEAR" >> $GITHUB_OUTPUT
+            echo "label=$YEAR" >> $GITHUB_OUTPUT
+            echo "commit_msg=Update official Driver of the Day data for $YEAR [automated]" >> $GITHUB_OUTPUT
+          else
+            echo "cli_args=--all-years" >> $GITHUB_OUTPUT
+            echo "label=all years" >> $GITHUB_OUTPUT
+            echo "commit_msg=Update official Driver of the Day data [automated]" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Fetch official DOTD data
+        env:
+          F1_APIGEE_APIKEY: ${{ secrets.F1_APIGEE_APIKEY }}
+        run: |
+          uv run python fetch_official_dotd.py ${{ steps.args.outputs.cli_args }}
+
+      - name: Check for changes
+        id: git-check
+        run: |
+          git status --porcelain
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+          else
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit and push changes
+        if: steps.git-check.outputs.has_changes == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          # Only stage the data trees (and record folder deletions);
+          # never `git add .` — plans/README changes stay out of data commits.
+          git add -A 20*/ dotd_overall_summary.json
+          git commit -m "${{ steps.args.outputs.commit_msg }}"
+          git push
+
+      - name: No changes detected
+        if: steps.git-check.outputs.has_changes == 'false'
+        run: |
+          echo "ℹ️ No changes detected for ${{ steps.args.outputs.label }}. Data is already up to date."

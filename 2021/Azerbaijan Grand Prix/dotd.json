@@ -5,23 +5,23 @@
   "voting_results": [
     {
       "driver": "Sebastian Vettel",
-      "percentage": 41.9
+      "percentage": 41.94
     },
     {
-      "driver": "Sergio Pérez",
-      "percentage": 18.1
+      "driver": "Sergio Perez",
+      "percentage": 18.09
     },
     {
       "driver": "Max Verstappen",
-      "percentage": 9.1
+      "percentage": 9.11
     },
     {
       "driver": "Lewis Hamilton",
-      "percentage": 4.9
+      "percentage": 4.87
     },
     {
       "driver": "Pierre Gasly",
-      "percentage": 3.5
+      "percentage": 3.46
     }
   ]
 }

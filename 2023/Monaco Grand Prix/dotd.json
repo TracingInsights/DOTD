@@ -5,23 +5,23 @@
   "voting_results": [
     {
       "driver": "Esteban Ocon",
-      "percentage": 23.5
+      "percentage": 23.46
     },
     {
       "driver": "Fernando Alonso",
-      "percentage": 22.6
+      "percentage": 22.55
     },
     {
       "driver": "Max Verstappen",
-      "percentage": 16.5
+      "percentage": 16.48
     },
     {
       "driver": "Lewis Hamilton",
-      "percentage": 7.5
+      "percentage": 7.51
     },
     {
       "driver": "Charles Leclerc",
-      "percentage": 6.2
+      "percentage": 6.24
     }
   ]
 }

@@ -1,15 +1,15 @@
 {
   "race_name": "Singapore Grand Prix",
   "year": 2022,
-  "winner": "Sergio Pérez",
+  "winner": "Sergio Perez",
   "voting_results": [
     {
-      "driver": "Sergio Pérez",
-      "percentage": 22.6
+      "driver": "Sergio Perez",
+      "percentage": 22.63
     },
     {
       "driver": "Daniel Ricciardo",
-      "percentage": 16.8
+      "percentage": 16.79
     },
     {
       "driver": "Charles Leclerc",
@@ -17,7 +17,7 @@
     },
     {
       "driver": "Lando Norris",
-      "percentage": 9.4
+      "percentage": 9.38
     },
     {
       "driver": "Sebastian Vettel",

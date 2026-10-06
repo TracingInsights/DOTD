@@ -5,11 +5,11 @@
   "voting_results": [
     {
       "driver": "Max Verstappen",
-      "percentage": 18.0
+      "percentage": 17.97
     },
     {
       "driver": "Mick Schumacher",
-      "percentage": 14.5
+      "percentage": 14.49
     },
     {
       "driver": "George Russell",
@@ -17,11 +17,11 @@
     },
     {
       "driver": "Charles Leclerc",
-      "percentage": 8.6
+      "percentage": 8.56
     },
     {
-      "driver": "Sergio Pérez",
-      "percentage": 7.6
+      "driver": "Sergio Perez",
+      "percentage": 7.62
     }
   ]
 }

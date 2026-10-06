@@ -5,7 +5,7 @@
   "voting_results": [
     {
       "driver": "Sebastian Vettel",
-      "percentage": 21.2
+      "percentage": 21.95
     },
     {
       "driver": "Charles Leclerc",
@@ -13,7 +13,7 @@
     },
     {
       "driver": "Max Verstappen",
-      "percentage": 11.0
+      "percentage": 10.95
     },
     {
       "driver": "Daniel Ricciardo",
@@ -21,7 +21,7 @@
     },
     {
       "driver": "Lando Norris",
-      "percentage": 8.0
+      "percentage": 7.95
     }
   ]
 }

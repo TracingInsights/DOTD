@@ -5,23 +5,23 @@
   "voting_results": [
     {
       "driver": "Lando Norris",
-      "percentage": 21.2
+      "percentage": 21.24
     },
     {
       "driver": "Charles Leclerc",
-      "percentage": 21.0
+      "percentage": 21.05
     },
     {
       "driver": "Alexander Albon",
-      "percentage": 19.6
+      "percentage": 19.58
     },
     {
       "driver": "Lewis Hamilton",
-      "percentage": 8.8
+      "percentage": 8.76
     },
     {
       "driver": "Sebastian Vettel",
-      "percentage": 6.6
+      "percentage": 6.56
     }
   ]
 }

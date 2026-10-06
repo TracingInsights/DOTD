@@ -5,23 +5,23 @@
   "voting_results": [
     {
       "driver": "Max Verstappen",
-      "percentage": 34.2
+      "percentage": 34.15
     },
     {
       "driver": "Lewis Hamilton",
-      "percentage": 16.4
+      "percentage": 16.38
     },
     {
       "driver": "George Russell",
-      "percentage": 11.0
+      "percentage": 10.98
     },
     {
       "driver": "Sebastian Vettel",
-      "percentage": 8.7
+      "percentage": 8.68
     },
     {
       "driver": "Charles Leclerc",
-      "percentage": 6.6
+      "percentage": 6.62
     }
   ]
 }

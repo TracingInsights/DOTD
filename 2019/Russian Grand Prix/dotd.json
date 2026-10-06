@@ -5,23 +5,23 @@
   "voting_results": [
     {
       "driver": "Sebastian Vettel",
-      "percentage": 22.0
+      "percentage": 21.91
     },
     {
       "driver": "Alexander Albon",
-      "percentage": 15.5
+      "percentage": 15.52
     },
     {
       "driver": "Lewis Hamilton",
-      "percentage": 15.0
+      "percentage": 15.04
     },
     {
       "driver": "Charles Leclerc",
-      "percentage": 11.3
+      "percentage": 11.27
     },
     {
-        "driver": "Carlos Sainz",
-      "percentage": 9.3
+      "driver": "Carlos Sainz",
+      "percentage": 9.31
     }
   ]
 }

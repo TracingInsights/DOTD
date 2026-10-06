@@ -1,7 +1,7 @@
 {
   "year": 2021,
   "total_races": 21,
-  "last_updated": "2026-07-05T05:00:02.685012+00:00",
+  "last_updated": "2026-10-06T14:51:29.662828+00:00",
   "races": [
     {
       "race_name": "Abu Dhabi Grand Prix",
@@ -10,19 +10,19 @@
       "voting_results": [
         {
           "driver": "Kimi Räikkönen",
-          "percentage": 42.8
+          "percentage": 42.82
         },
         {
-          "driver": "Sergio Pérez",
-          "percentage": 21.5
+          "driver": "Sergio Perez",
+          "percentage": 21.45
         },
         {
           "driver": "Lewis Hamilton",
-          "percentage": 10.9
+          "percentage": 10.89
         },
         {
           "driver": "Max Verstappen",
-          "percentage": 7.6
+          "percentage": 7.64
         },
         {
           "driver": "Valtteri Bottas",
@@ -37,23 +37,23 @@
       "voting_results": [
         {
           "driver": "Max Verstappen",
-          "percentage": 26.7
+          "percentage": 26.73
         },
         {
           "driver": "Lewis Hamilton",
-          "percentage": 24.6
+          "percentage": 24.55
         },
         {
           "driver": "Esteban Ocon",
-          "percentage": 12.9
+          "percentage": 12.93
         },
         {
           "driver": "Daniel Ricciardo",
-          "percentage": 6.6
+          "percentage": 6.64
         },
         {
           "driver": "Kimi Räikkönen",
-          "percentage": 4.1
+          "percentage": 4.05
         }
       ]
     },
@@ -64,11 +64,11 @@
       "voting_results": [
         {
           "driver": "Fernando Alonso",
-          "percentage": 28.6
+          "percentage": 28.62
         },
         {
-          "driver": "Sergio Pérez",
-          "percentage": 16.6
+          "driver": "Sergio Perez",
+          "percentage": 16.59
         },
         {
           "driver": "Lewis Hamilton",
@@ -76,11 +76,11 @@
         },
         {
           "driver": "Max Verstappen",
-          "percentage": 13.5
+          "percentage": 13.52
         },
         {
           "driver": "Lando Norris",
-          "percentage": 5.6
+          "percentage": 5.75
         }
       ]
     },
@@ -91,11 +91,11 @@
       "voting_results": [
         {
           "driver": "Lewis Hamilton",
-          "percentage": 36.8
+          "percentage": 36.77
         },
         {
           "driver": "Max Verstappen",
-          "percentage": 21.6
+          "percentage": 21.61
         },
         {
           "driver": "Lando Norris",
@@ -103,38 +103,38 @@
         },
         {
           "driver": "Nikita Mazepin",
-          "percentage": 5.3
+          "percentage": 5.26
         },
         {
           "driver": "Pierre Gasly",
-          "percentage": 3.4
+          "percentage": 3.37
         }
       ]
     },
     {
       "race_name": "Mexico City Grand Prix",
       "year": 2021,
-      "winner": "Sergio Pérez",
+      "winner": "Sergio Perez",
       "voting_results": [
         {
-          "driver": "Sergio Pérez",
-          "percentage": 36.9
+          "driver": "Sergio Perez",
+          "percentage": 36.86
         },
         {
           "driver": "Max Verstappen",
-          "percentage": 13.5
+          "percentage": 13.45
         },
         {
           "driver": "Pierre Gasly",
-          "percentage": 7.4
+          "percentage": 7.35
         },
         {
           "driver": "Lewis Hamilton",
-          "percentage": 6.5
+          "percentage": 6.51
         },
         {
           "driver": "Lando Norris",
-          "percentage": 5.9
+          "percentage": 5.88
         }
       ]
     },
@@ -145,23 +145,23 @@
       "voting_results": [
         {
           "driver": "Max Verstappen",
-          "percentage": 22.7
+          "percentage": 22.65
         },
         {
           "driver": "Lewis Hamilton",
-          "percentage": 17.1
+          "percentage": 17.08
         },
         {
           "driver": "Daniel Ricciardo",
-          "percentage": 8.7
+          "percentage": 8.66
         },
         {
-          "driver": "Sergio Pérez",
-          "percentage": 8.2
+          "driver": "Sergio Perez",
+          "percentage": 8.15
         },
         {
           "driver": "Charles Leclerc",
-          "percentage": 7.2
+          "percentage": 7.18
         }
       ]
     },
@@ -172,23 +172,23 @@
       "voting_results": [
         {
           "driver": "Carlos Sainz",
-          "percentage": 25.7
+          "percentage": 25.74
         },
         {
-          "driver": "Sergio Pérez",
-          "percentage": 14.8
+          "driver": "Sergio Perez",
+          "percentage": 14.81
         },
         {
           "driver": "Charles Leclerc",
-          "percentage": 10.6
+          "percentage": 10.57
         },
         {
           "driver": "Valtteri Bottas",
-          "percentage": 10.5
+          "percentage": 10.54
         },
         {
           "driver": "Lewis Hamilton",
-          "percentage": 10.3
+          "percentage": 10.28
         }
       ]
     },
@@ -199,23 +199,23 @@
       "voting_results": [
         {
           "driver": "Lando Norris",
-          "percentage": 33.9
+          "percentage": 34.12
         },
         {
           "driver": "Max Verstappen",
-          "percentage": 13.9
+          "percentage": 14.26
         },
         {
           "driver": "Lewis Hamilton",
-          "percentage": 9.9
+          "percentage": 9.78
         },
         {
-          "driver": "Sergio Pérez",
-          "percentage": 6.5
+          "driver": "Sergio Perez",
+          "percentage": 6.43
         },
         {
           "driver": "Carlos Sainz",
-          "percentage": 5.9
+          "percentage": 5.87
         }
       ]
     },
@@ -226,38 +226,38 @@
       "voting_results": [
         {
           "driver": "Daniel Ricciardo",
-          "percentage": 34.5
+          "percentage": 34.51
         },
         {
           "driver": "Valtteri Bottas",
-          "percentage": 28.6
+          "percentage": 28.55
         },
         {
           "driver": "Lando Norris",
           "percentage": 8.5
         },
         {
-          "driver": "Sergio Pérez",
-          "percentage": 5.1
+          "driver": "Sergio Perez",
+          "percentage": 5.08
         },
         {
           "driver": "Max Verstappen",
-          "percentage": 4.6
+          "percentage": 4.56
         }
       ]
     },
     {
       "race_name": "Dutch Grand Prix",
       "year": 2021,
-      "winner": "Sergio Pérez",
+      "winner": "Sergio Perez",
       "voting_results": [
         {
-          "driver": "Sergio Pérez",
-          "percentage": 27.7
+          "driver": "Sergio Perez",
+          "percentage": 27.66
         },
         {
           "driver": "Max Verstappen",
-          "percentage": 19.4
+          "percentage": 19.44
         },
         {
           "driver": "Lewis Hamilton",
@@ -265,11 +265,11 @@
         },
         {
           "driver": "Pierre Gasly",
-          "percentage": 8.0
+          "percentage": 7.98
         },
         {
           "driver": "Robert Kubica",
-          "percentage": 7.8
+          "percentage": 7.78
         }
       ]
     },
@@ -280,7 +280,7 @@
       "voting_results": [
         {
           "driver": "Fernando Alonso",
-          "percentage": 28.2
+          "percentage": 28.15
         },
         {
           "driver": "Esteban Ocon",
@@ -292,11 +292,11 @@
         },
         {
           "driver": "Sebastian Vettel",
-          "percentage": 9.7
+          "percentage": 9.74
         },
         {
           "driver": "Carlos Sainz",
-          "percentage": 5.0
+          "percentage": 4.96
         }
       ]
     },
@@ -311,19 +311,19 @@
         },
         {
           "driver": "Lewis Hamilton",
-          "percentage": 13.4
+          "percentage": 13.99
         },
         {
           "driver": "Max Verstappen",
-          "percentage": 12.9
+          "percentage": 12.89
         },
         {
           "driver": "Lando Norris",
-          "percentage": 6.7
+          "percentage": 6.67
         },
         {
-          "driver": "Sergio Pérez",
-          "percentage": 6.0
+          "driver": "Sergio Perez",
+          "percentage": 5.98
         }
       ]
     },
@@ -334,15 +334,15 @@
       "voting_results": [
         {
           "driver": "Lando Norris",
-          "percentage": 31.6
+          "percentage": 31.58
         },
         {
           "driver": "Kimi Räikkönen",
-          "percentage": 15.7
+          "percentage": 15.66
         },
         {
           "driver": "Max Verstappen",
-          "percentage": 9.2
+          "percentage": 9.24
         },
         {
           "driver": "Daniel Ricciardo",
@@ -350,7 +350,7 @@
         },
         {
           "driver": "George Russell",
-          "percentage": 7.7
+          "percentage": 7.68
         }
       ]
     },
@@ -361,7 +361,7 @@
       "voting_results": [
         {
           "driver": "Charles Leclerc",
-          "percentage": 28.4
+          "percentage": 28.35
         },
         {
           "driver": "George Russell",
@@ -369,15 +369,15 @@
         },
         {
           "driver": "Max Verstappen",
-          "percentage": 12.4
+          "percentage": 12.39
         },
         {
-          "driver": "Sergio Pérez",
-          "percentage": 7.8
+          "driver": "Sergio Perez",
+          "percentage": 7.69
         },
         {
           "driver": "Carlos Sainz",
-          "percentage": 7.2
+          "percentage": 7.24
         }
       ]
     },
@@ -388,23 +388,23 @@
       "voting_results": [
         {
           "driver": "Max Verstappen",
-          "percentage": 22.9
+          "percentage": 22.92
         },
         {
           "driver": "Daniel Ricciardo",
-          "percentage": 19.0
+          "percentage": 19.06
         },
         {
           "driver": "Lando Norris",
-          "percentage": 14.0
+          "percentage": 14.02
         },
         {
           "driver": "Lewis Hamilton",
-          "percentage": 8.4
+          "percentage": 8.35
         },
         {
-          "driver": "Sergio Pérez",
-          "percentage": 6.9
+          "driver": "Sergio Perez",
+          "percentage": 6.89
         }
       ]
     },
@@ -415,23 +415,23 @@
       "voting_results": [
         {
           "driver": "Sebastian Vettel",
-          "percentage": 41.9
+          "percentage": 41.94
         },
         {
-          "driver": "Sergio Pérez",
-          "percentage": 18.1
+          "driver": "Sergio Perez",
+          "percentage": 18.09
         },
         {
           "driver": "Max Verstappen",
-          "percentage": 9.1
+          "percentage": 9.11
         },
         {
           "driver": "Lewis Hamilton",
-          "percentage": 4.9
+          "percentage": 4.87
         },
         {
           "driver": "Pierre Gasly",
-          "percentage": 3.5
+          "percentage": 3.46
         }
       ]
     },
@@ -445,20 +445,20 @@
           "percentage": 23.6
         },
         {
-          "driver": "Sergio Pérez",
-          "percentage": 17.3
+          "driver": "Sergio Perez",
+          "percentage": 17.26
         },
         {
           "driver": "Lando Norris",
-          "percentage": 14.0
+          "percentage": 14
         },
         {
           "driver": "Carlos Sainz",
-          "percentage": 12.1
+          "percentage": 12.12
         },
         {
           "driver": "Max Verstappen",
-          "percentage": 9.0
+          "percentage": 9.04
         }
       ]
     },
@@ -469,23 +469,23 @@
       "voting_results": [
         {
           "driver": "Lewis Hamilton",
-          "percentage": 22.6
+          "percentage": 22.64
         },
         {
           "driver": "Max Verstappen",
-          "percentage": 19.7
+          "percentage": 19.72
         },
         {
           "driver": "Charles Leclerc",
-          "percentage": 12.3
+          "percentage": 12.29
         },
         {
           "driver": "Nikita Mazepin",
-          "percentage": 7.3
+          "percentage": 7.27
         },
         {
           "driver": "Daniel Ricciardo",
-          "percentage": 6.5
+          "percentage": 6.51
         }
       ]
     },
@@ -523,19 +523,19 @@
       "voting_results": [
         {
           "driver": "Lando Norris",
-          "percentage": 32.3
+          "percentage": 32.26
         },
         {
           "driver": "Max Verstappen",
-          "percentage": 15.5
+          "percentage": 15.53
         },
         {
           "driver": "Lewis Hamilton",
-          "percentage": 13.9
+          "percentage": 13.94
         },
         {
           "driver": "Charles Leclerc",
-          "percentage": 7.2
+          "percentage": 7.18
         },
         {
           "driver": "Carlos Sainz",
@@ -546,19 +546,19 @@
     {
       "race_name": "Bahrain Grand Prix",
       "year": 2021,
-      "winner": "Sergio Pérez",
+      "winner": "Sergio Perez",
       "voting_results": [
         {
-          "driver": "Sergio Pérez",
+          "driver": "Sergio Perez",
           "percentage": 27.7
         },
         {
           "driver": "Max Verstappen",
-          "percentage": 16.8
+          "percentage": 16.87
         },
         {
           "driver": "Lando Norris",
-          "percentage": 13.0
+          "percentage": 13.08
         },
         {
           "driver": "Lewis Hamilton",
@@ -566,7 +566,7 @@
         },
         {
           "driver": "Yuki Tsunoda",
-          "percentage": 7.0
+          "percentage": 7.09
         }
       ]
     }

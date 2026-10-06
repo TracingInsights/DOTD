@@ -5,23 +5,23 @@
   "voting_results": [
     {
       "driver": "Charles Leclerc",
-      "percentage": 19.7
+      "percentage": 19.72
     },
     {
-      "driver": "Sergio Pérez",
-      "percentage": 14.8
+      "driver": "Sergio Perez",
+      "percentage": 14.78
     },
     {
       "driver": "Daniel Ricciardo",
-      "percentage": 9.4
+      "percentage": 9.36
     },
     {
       "driver": "George Russell",
-      "percentage": 9.3
+      "percentage": 9.32
     },
     {
-      "driver": "Alex Albon",
-      "percentage": 8.2
+      "driver": "Alexander Albon",
+      "percentage": 8.23
     }
   ]
 }

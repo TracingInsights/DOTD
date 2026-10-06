@@ -5,23 +5,23 @@
   "voting_results": [
     {
       "driver": "Max Verstappen",
-      "percentage": 19.9
+      "percentage": 19.82
     },
     {
       "driver": "Lewis Hamilton",
-      "percentage": 16.5
+      "percentage": 16.47
     },
     {
       "driver": "Charles Leclerc",
-      "percentage": 8.4
+      "percentage": 8.44
     },
     {
       "driver": "Daniil Kvyat",
-      "percentage": 8.3
+      "percentage": 8.32
     },
     {
       "driver": "Carlos Sainz",
-      "percentage": 7.4
+      "percentage": 7.43
     }
   ]
 }

@@ -5,23 +5,23 @@
   "voting_results": [
     {
       "driver": "Charles Leclerc",
-      "percentage": 28.3
+      "percentage": 28.28
     },
     {
       "driver": "Kevin Magnussen",
-      "percentage": 22.5
+      "percentage": 22.53
     },
     {
       "driver": "Max Verstappen",
-      "percentage": 9.0
+      "percentage": 9.01
     },
     {
       "driver": "Lewis Hamilton",
-      "percentage": 5.1
+      "percentage": 5.14
     },
     {
-      "driver": "Zhou Guanyu",
-      "percentage": 5.0
+      "driver": "Guanyu Zhou",
+      "percentage": 4.98
     }
   ]
 }

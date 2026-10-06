@@ -8,20 +8,20 @@
       "percentage": 23.6
     },
     {
-      "driver": "Sergio Pérez",
-      "percentage": 17.3
+      "driver": "Sergio Perez",
+      "percentage": 17.26
     },
     {
       "driver": "Lando Norris",
-      "percentage": 14.0
+      "percentage": 14
     },
     {
-        "driver": "Carlos Sainz",
-      "percentage": 12.1
+      "driver": "Carlos Sainz",
+      "percentage": 12.12
     },
     {
       "driver": "Max Verstappen",
-      "percentage": 9.0
+      "percentage": 9.04
     }
   ]
 }

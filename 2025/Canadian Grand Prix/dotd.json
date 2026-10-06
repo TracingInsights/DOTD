@@ -5,23 +5,23 @@
   "voting_results": [
     {
       "driver": "Kimi Antonelli",
-      "percentage": 27.3
+      "percentage": 27.33
     },
     {
       "driver": "George Russell",
-      "percentage": 11.7
+      "percentage": 11.73
     },
     {
       "driver": "Max Verstappen",
-      "percentage": 11.1
+      "percentage": 11.14
     },
     {
       "driver": "Lando Norris",
-      "percentage": 9.3
+      "percentage": 9.31
     },
     {
-      "driver": "Nico Hülkenberg",
-      "percentage": 6.7
+      "driver": "Nico Hulkenberg",
+      "percentage": 6.86
     }
   ]
 }

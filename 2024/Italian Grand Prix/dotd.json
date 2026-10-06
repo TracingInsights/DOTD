@@ -5,23 +5,23 @@
   "voting_results": [
     {
       "driver": "Charles Leclerc",
-      "percentage": 26.4
+      "percentage": 26.38
     },
     {
       "driver": "Oscar Piastri",
-      "percentage": 17.4
+      "percentage": 17.43
     },
     {
       "driver": "Carlos Sainz",
-      "percentage": 11.2
+      "percentage": 11.18
     },
     {
       "driver": "Franco Colapinto",
-      "percentage": 11.1
+      "percentage": 11.14
     },
     {
       "driver": "Lando Norris",
-      "percentage": 8.2
+      "percentage": 8.24
     }
   ]
 }

@@ -5,23 +5,23 @@
   "voting_results": [
     {
       "driver": "Pierre Gasly",
-      "percentage": 28.0
+      "percentage": 28
     },
     {
-        "driver": "Carlos Sainz",
-      "percentage": 24.5
+      "driver": "Carlos Sainz",
+      "percentage": 24.47
     },
     {
       "driver": "Lewis Hamilton",
-      "percentage": 12.8
+      "percentage": 12.77
     },
     {
       "driver": "Kimi Räikkönen",
-      "percentage": 5.5
+      "percentage": 5.47
     },
     {
       "driver": "Lando Norris",
-      "percentage": 5.3
+      "percentage": 5.34
     }
   ]
 }

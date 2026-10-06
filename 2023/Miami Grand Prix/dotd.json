@@ -5,15 +5,15 @@
   "voting_results": [
     {
       "driver": "Max Verstappen",
-      "percentage": 27.1
+      "percentage": 27.12
     },
     {
-      "driver": "Sergio Pérez",
+      "driver": "Sergio Perez",
       "percentage": 12.5
     },
     {
       "driver": "Fernando Alonso",
-      "percentage": 9.8
+      "percentage": 9.82
     },
     {
       "driver": "Lewis Hamilton",
@@ -21,7 +21,7 @@
     },
     {
       "driver": "George Russell",
-      "percentage": 7.9
+      "percentage": 7.87
     }
   ]
 }

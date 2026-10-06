@@ -286,6 +286,10 @@ def process_year(year, url):
             print(f"No race data found for {year}!")
             return []
 
+        # Races are listed oldest-first in the source content; store them
+        # newest-first to match the original F1 pages (like the 2018 data).
+        all_races.reverse()
+
         # Get current UTC time for last_updated
         current_utc_time = datetime.now(timezone.utc).isoformat()
 

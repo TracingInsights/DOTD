@@ -5,23 +5,23 @@
   "voting_results": [
     {
       "driver": "Oscar Piastri",
-      "percentage": 27.9
+      "percentage": 27.88
     },
     {
       "driver": "George Russell",
-      "percentage": 17.3
+      "percentage": 17.25
     },
     {
       "driver": "Lando Norris",
-      "percentage": 16.4
+      "percentage": 16.43
     },
     {
       "driver": "Max Verstappen",
-      "percentage": 11.4
+      "percentage": 11.36
     },
     {
       "driver": "Charles Leclerc",
-      "percentage": 4.6
+      "percentage": 4.58
     }
   ]
 }

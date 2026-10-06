@@ -5,23 +5,23 @@
   "voting_results": [
     {
       "driver": "Lewis Hamilton",
-      "percentage": 36.1
+      "percentage": 36.12
     },
     {
       "driver": "Lando Norris",
-      "percentage": 15.7
+      "percentage": 15.71
     },
     {
       "driver": "Max Verstappen",
-      "percentage": 13.4
+      "percentage": 13.36
     },
     {
-      "driver": "Nico Hülkenberg",
-      "percentage": 6.6
+      "driver": "Nico Hulkenberg",
+      "percentage": 6.59
     },
     {
       "driver": "Oscar Piastri",
-      "percentage": 6.4
+      "percentage": 6.42
     }
   ]
 }

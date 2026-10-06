@@ -5,11 +5,11 @@
   "voting_results": [
     {
       "driver": "Lewis Hamilton",
-      "percentage": 51.9
+      "percentage": 51.86
     },
     {
       "driver": "Max Verstappen",
-      "percentage": 8.3
+      "percentage": 8.25
     },
     {
       "driver": "Kimi Antonelli",
@@ -17,11 +17,11 @@
     },
     {
       "driver": "Charles Leclerc",
-      "percentage": 6.0
+      "percentage": 6.07
     },
     {
       "driver": "Lando Norris",
-      "percentage": 5.5
+      "percentage": 5.55
     }
   ]
 }

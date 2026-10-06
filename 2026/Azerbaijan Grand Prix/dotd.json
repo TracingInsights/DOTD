@@ -1,5 +1,7 @@
 {
   "race_name": "Azerbaijan Grand Prix",
+  "year": 2026,
+  "winner": "Max Verstappen",
   "voting_results": [
     {
       "driver": "Max Verstappen",
@@ -11,17 +13,15 @@
     },
     {
       "driver": "Kimi Antonelli",
-      "percentage": 12.6
+      "percentage": 12.63
     },
     {
       "driver": "George Russell",
-      "percentage": 12.4
+      "percentage": 12.39
     },
     {
       "driver": "Oscar Piastri",
       "percentage": 5.5
     }
-  ],
-  "winner": "Max Verstappen",
-  "year": 2026
+  ]
 }

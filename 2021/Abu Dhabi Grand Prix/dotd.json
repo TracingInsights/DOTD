@@ -5,19 +5,19 @@
   "voting_results": [
     {
       "driver": "Kimi Räikkönen",
-      "percentage": 42.8
+      "percentage": 42.82
     },
     {
-      "driver": "Sergio Pérez",
-      "percentage": 21.5
+      "driver": "Sergio Perez",
+      "percentage": 21.45
     },
     {
       "driver": "Lewis Hamilton",
-      "percentage": 10.9
+      "percentage": 10.89
     },
     {
       "driver": "Max Verstappen",
-      "percentage": 7.6
+      "percentage": 7.64
     },
     {
       "driver": "Valtteri Bottas",

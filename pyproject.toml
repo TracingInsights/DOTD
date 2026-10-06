@@ -18,4 +18,6 @@ packages = ["."]
 only-include = ["*.py"]
 
 [dependency-groups]
-dev = []
+dev = [
+    "pytest>=9.1",
+]

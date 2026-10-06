@@ -21,6 +21,8 @@ except ImportError as e:
     logging.error("Please install tabstack: pip install tabstack")
     sys.exit(1)
 
+from pinned_races import is_pinned, load_pinned_race
+
 
 # Configuration constants
 MAX_RETRIES = 2
@@ -239,8 +241,9 @@ def update_yearly_summary(data: Dict[str, Any]) -> Path:
         summary["races"][race_index] = race_entry
         logging.info(f"Updated existing race in yearly summary: {data['race_name']}")
     else:
-        # Add new race
-        summary["races"].append(race_entry)
+        # Add new race at the front so the list stays newest-first
+        # (matching the original F1 pages order)
+        summary["races"].insert(0, race_entry)
         logging.info(f"Added new race to yearly summary: {data['race_name']}")
     
     # Update metadata
@@ -306,7 +309,9 @@ def update_overall_summary(data: Dict[str, Any]) -> Path:
     if race_index is not None:
         year_data["races"][race_index] = race_entry
     else:
-        year_data["races"].append(race_entry)
+        # Add new race at the front so the list stays newest-first
+        # (matching the original F1 pages order)
+        year_data["races"].insert(0, race_entry)
     
     # Update year metadata
     year_data["total_races"] = len(year_data["races"])
@@ -361,6 +366,18 @@ def main():
     logging.info(f"Successfully extracted data for {data['race_name']} {data['year']}")
     logging.info(f"Winner: {data['winner']}")
     logging.info(f"Voting results: {len(data['voting_results'])} drivers")
+
+    # Never overwrite a pinned race (see pinned_races.py): the repo's
+    # original data is the source of truth for these races.
+    if is_pinned(data["year"], data["race_name"]):
+        original = load_pinned_race(".", data["year"], data["race_name"])
+        original_winner = original["winner"] if original else "<missing>"
+        logging.warning(
+            f"{data['year']} {data['race_name']} is pinned to its original "
+            f"data (winner: {original_winner}); refusing to overwrite it "
+            f"with extracted data (winner: {data['winner']})."
+        )
+        sys.exit(0)
     
     # Save data
     try:

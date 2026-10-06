@@ -5,23 +5,23 @@
   "voting_results": [
     {
       "driver": "Yuki Tsunoda",
-      "percentage": 23.7
+      "percentage": 23.73
     },
     {
       "driver": "Max Verstappen",
-      "percentage": 19.7
+      "percentage": 19.69
     },
     {
       "driver": "Kimi Antonelli",
-      "percentage": 13.6
+      "percentage": 13.58
     },
     {
       "driver": "Oscar Piastri",
-      "percentage": 7.9
+      "percentage": 7.88
     },
     {
       "driver": "Isack Hadjar",
-      "percentage": 7.0
+      "percentage": 7
     }
   ]
 }

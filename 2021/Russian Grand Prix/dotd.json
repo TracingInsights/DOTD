@@ -5,23 +5,23 @@
   "voting_results": [
     {
       "driver": "Lando Norris",
-      "percentage": 33.9
+      "percentage": 34.12
     },
     {
       "driver": "Max Verstappen",
-      "percentage": 13.9
+      "percentage": 14.26
     },
     {
       "driver": "Lewis Hamilton",
-      "percentage": 9.9
+      "percentage": 9.78
     },
     {
-      "driver": "Sergio Pérez",
-      "percentage": 6.5
+      "driver": "Sergio Perez",
+      "percentage": 6.43
     },
     {
-        "driver": "Carlos Sainz",
-      "percentage": 5.9
+      "driver": "Carlos Sainz",
+      "percentage": 5.87
     }
   ]
 }

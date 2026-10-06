@@ -5,15 +5,15 @@
   "voting_results": [
     {
       "driver": "Sebastian Vettel",
-      "percentage": 16.3
+      "percentage": 16.27
     },
     {
       "driver": "Esteban Ocon",
-      "percentage": 14.5
+      "percentage": 14.46
     },
     {
       "driver": "Max Verstappen",
-      "percentage": 13.2
+      "percentage": 13.15
     },
     {
       "driver": "Nicholas Latifi",
@@ -21,7 +21,7 @@
     },
     {
       "driver": "Lewis Hamilton",
-      "percentage": 7.3
+      "percentage": 7.34
     }
   ]
 }

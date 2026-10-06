@@ -9,19 +9,19 @@
     },
     {
       "driver": "Lewis Hamilton",
-      "percentage": 12.1
+      "percentage": 12.07
     },
     {
       "driver": "Oscar Piastri",
-      "percentage": 10.8
+      "percentage": 10.78
     },
     {
-      "driver": "Sergio Pérez",
-      "percentage": 8.1
+      "driver": "Sergio Perez",
+      "percentage": 8.13
     },
     {
       "driver": "Max Verstappen",
-      "percentage": 5.1
+      "percentage": 5.06
     }
   ]
 }

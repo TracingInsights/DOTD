@@ -1,11 +1,13 @@
-name: Update Driver of the Day Data
+name: Update Driver of the Day Data (article fallback)
 
+# NOTE: the scheduled cron has been retired. The official awards pipeline
+# (.github/workflows/fetch_official_dotd.yml) is now the source of truth and
+# owns the weekly update, so this article scraper must not run on a schedule
+# and re-round two-decimal official percentages back to one decimal.
+# It remains available as a manual fallback via workflow_dispatch.
 on:
-  schedule:
-    # Run every Monday at 12:00 UTC
-    - cron: '0 12 * * 1'
   workflow_dispatch:
-    # Allow manual triggering
+    # Manual triggering only — see fetch_official_dotd.yml for the cron job
 
 jobs:
   update-dotd-data:

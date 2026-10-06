@@ -5,23 +5,23 @@
   "voting_results": [
     {
       "driver": "Charles Leclerc",
-      "percentage": 32.4
+      "percentage": 32.42
     },
     {
-      "driver": "Zhou Guanyu",
-      "percentage": 12.4
+      "driver": "Guanyu Zhou",
+      "percentage": 12.35
     },
     {
       "driver": "Oscar Piastri",
-      "percentage": 7.9
+      "percentage": 7.92
     },
     {
       "driver": "Carlos Sainz",
-      "percentage": 6.4
+      "percentage": 6.37
     },
     {
       "driver": "Lando Norris",
-      "percentage": 4.7
+      "percentage": 4.71
     }
   ]
 }

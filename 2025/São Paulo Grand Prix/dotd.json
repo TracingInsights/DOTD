@@ -5,15 +5,15 @@
   "voting_results": [
     {
       "driver": "Max Verstappen",
-      "percentage": 56.7
+      "percentage": 56.69
     },
     {
       "driver": "Kimi Antonelli",
-      "percentage": 10.0
+      "percentage": 9.98
     },
     {
       "driver": "Lando Norris",
-      "percentage": 8.5
+      "percentage": 8.53
     },
     {
       "driver": "Oliver Bearman",
@@ -21,7 +21,7 @@
     },
     {
       "driver": "Oscar Piastri",
-      "percentage": 3.8
+      "percentage": 3.83
     }
   ]
 }

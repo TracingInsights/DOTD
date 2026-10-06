@@ -1,27 +1,27 @@
 {
   "race_name": "Azerbaijan Grand Prix",
   "year": 2023,
-  "winner": "Sergio Pérez",
+  "winner": "Sergio Perez",
   "voting_results": [
     {
-      "driver": "Sergio Pérez",
-      "percentage": 29.1
+      "driver": "Sergio Perez",
+      "percentage": 29.11
     },
     {
       "driver": "Fernando Alonso",
-      "percentage": 14.3
+      "percentage": 14.33
     },
     {
       "driver": "Charles Leclerc",
-      "percentage": 11.4
+      "percentage": 11.41
     },
     {
       "driver": "Lewis Hamilton",
-      "percentage": 9.1
+      "percentage": 9.13
     },
     {
       "driver": "Max Verstappen",
-      "percentage": 6.6
+      "percentage": 6.55
     }
   ]
 }

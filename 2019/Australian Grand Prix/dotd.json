@@ -5,11 +5,11 @@
   "voting_results": [
     {
       "driver": "Valtteri Bottas",
-      "percentage": 28.5
+      "percentage": 28.45
     },
     {
       "driver": "Max Verstappen",
-      "percentage": 22.9
+      "percentage": 22.92
     },
     {
       "driver": "Charles Leclerc",
@@ -17,11 +17,11 @@
     },
     {
       "driver": "Daniil Kvyat",
-      "percentage": 6.0
+      "percentage": 6.02
     },
     {
       "driver": "Kimi Räikkönen",
-      "percentage": 5.2
+      "percentage": 5.24
     }
   ]
 }

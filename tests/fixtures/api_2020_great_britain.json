@@ -1,0 +1,142 @@
+{
+  "text": "Introduced in 2016, the Driver of the Day award is voted for by fans during each Grand Prix and announced at the end of the race. ",
+  "cta": {
+    "name": "Salesforce Driver of the Day",
+    "title": "Find out more",
+    "webUrl": "https://www.salesforce.com/campaign/formula1/",
+    "openInNewTab": false,
+    "contentType": "linkItem",
+    "id": "4z0H0Z7Z8EnIdvs9QHmnvB"
+  },
+  "articleTag": {
+    "tagName": "Driver of the day",
+    "slug": "driver-of-the-day",
+    "tagGroup": "Content - Subject",
+    "tagImage": [
+      {
+        "img": "https://media.formula1.com/image/upload/t_16by9North/f_auto/q_auto/v1740854262/fom-website/2025/Miscellaneous/GettyImages-2202103386.jpg",
+        "url": "https://media.formula1.com/image/upload/t_16by9North/f_auto/q_auto/v1740854262/fom-website/2025/Miscellaneous/GettyImages-2202103386.jpg",
+        "path": "/fom-website/2025/Miscellaneous/GettyImages-2202103386.jpg",
+        "public_id": "fom-website/2025/Miscellaneous/GettyImages-2202103386",
+        "format": "jpg",
+        "alt": "BAHRAIN, BAHRAIN - FEBRUARY 26: Lance Stroll of Canada and Aston Martin F1 Team, Esteban Ocon of",
+        "raw_transformation": "t_16by9North/f_auto/q_auto",
+        "width": 1920,
+        "height": 1280
+      }
+    ],
+    "contentType": "tag",
+    "id": "7d3yTbEiremYU0AmyyiQs6"
+  },
+  "articles": [],
+  "isSponsored": true,
+  "year": "2020",
+  "data": [
+    {
+      "driverShortName": "N. Hulkenberg",
+      "driverFirstName": "Nico",
+      "meetingKey": "1048",
+      "driverKey": "16",
+      "driverReference": "NICHUL01",
+      "meetingIsoCountryName": "United Kingdom",
+      "meetingEndDate": "2020-08-02",
+      "meetingCountryCode": "GBR",
+      "driverLastName": "Hulkenberg",
+      "votePosition": 1,
+      "driverTLA": "HUL",
+      "meetingLocation": "Great Britain",
+      "votePercentage": 17.32,
+      "driverId": 11,
+      "supplementaryResults": [
+        {
+          "driverShortName": "N. Hulkenberg",
+          "driverFirstName": "Nico",
+          "meetingKey": "1048",
+          "driverKey": "16",
+          "driverReference": "NICHUL01",
+          "meetingIsoCountryName": "United Kingdom",
+          "meetingEndDate": "2020-08-02",
+          "meetingCountryCode": "GBR",
+          "driverLastName": "Hulkenberg",
+          "votePosition": 1,
+          "driverTLA": "HUL",
+          "meetingLocation": "Great Britain",
+          "votePercentage": 17.32,
+          "driverId": 11
+        },
+        {
+          "driverShortName": "L. Hamilton",
+          "driverFirstName": "Lewis",
+          "meetingKey": "1048",
+          "driverKey": "4",
+          "teamKey": "543",
+          "driverReference": "LEWHAM01",
+          "meetingIsoCountryName": "United Kingdom",
+          "meetingEndDate": "2020-08-02",
+          "meetingCountryCode": "GBR",
+          "teamName": "Mercedes",
+          "driverLastName": "Hamilton",
+          "votePosition": 2,
+          "driverTLA": "HAM",
+          "meetingLocation": "Great Britain",
+          "votePercentage": 9.96,
+          "driverId": 10
+        },
+        {
+          "driverShortName": "M. Verstappen",
+          "driverFirstName": "Max",
+          "meetingKey": "1048",
+          "driverKey": "902",
+          "teamKey": "536",
+          "driverReference": "MAXVER01",
+          "meetingIsoCountryName": "United Kingdom",
+          "meetingEndDate": "2020-08-02",
+          "meetingCountryCode": "GBR",
+          "teamName": "Red Bull Racing",
+          "driverLastName": "Verstappen",
+          "votePosition": 3,
+          "driverTLA": "VER",
+          "meetingLocation": "Great Britain",
+          "votePercentage": 9.69,
+          "driverId": 31
+        },
+        {
+          "driverShortName": "L. Norris",
+          "driverFirstName": "Lando",
+          "meetingKey": "1048",
+          "driverKey": "981",
+          "teamKey": "529",
+          "driverReference": "LANNOR01",
+          "meetingIsoCountryName": "United Kingdom",
+          "meetingEndDate": "2020-08-02",
+          "meetingCountryCode": "GBR",
+          "teamName": "McLaren",
+          "driverLastName": "Norris",
+          "votePosition": 4,
+          "driverTLA": "NOR",
+          "meetingLocation": "Great Britain",
+          "votePercentage": 8.53,
+          "driverId": 17
+        },
+        {
+          "driverShortName": "C. Sainz",
+          "driverFirstName": "Carlos",
+          "meetingKey": "1048",
+          "driverKey": "907",
+          "teamKey": "529",
+          "driverReference": "CARSAI01",
+          "meetingIsoCountryName": "United Kingdom",
+          "meetingEndDate": "2020-08-02",
+          "meetingCountryCode": "GBR",
+          "teamName": "McLaren",
+          "driverLastName": "Sainz",
+          "votePosition": 5,
+          "driverTLA": "SAI",
+          "meetingLocation": "Great Britain",
+          "votePercentage": 8.33,
+          "driverId": 25
+        }
+      ]
+    }
+  ]
+}

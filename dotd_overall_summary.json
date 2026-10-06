@@ -14,37 +14,61 @@
   ],
   "total_years": 11,
   "total_races": 229,
-  "last_updated": "2026-10-04T12:17:46.140664+00:00",
+  "last_updated": "2026-10-06T14:51:32.905268+00:00",
   "data_by_year": {
     "2016": {
       "total_races": 21,
       "races": [
         {
-          "race_name": "Australian Grand Prix",
-          "winner": "Romain Grosjean"
+          "race_name": "Abu Dhabi Grand Prix",
+          "winner": "Sebastian Vettel"
         },
         {
-          "race_name": "Bahrain Grand Prix",
-          "winner": "Romain Grosjean"
-        },
-        {
-          "race_name": "Chinese Grand Prix",
-          "winner": "Daniil Kvyat"
-        },
-        {
-          "race_name": "Russian Grand Prix",
-          "winner": "Kevin Magnussen"
-        },
-        {
-          "race_name": "Spanish Grand Prix",
+          "race_name": "Brazilian Grand Prix",
           "winner": "Max Verstappen"
         },
         {
-          "race_name": "Monaco Grand Prix",
-          "winner": "Sergio Pérez"
+          "race_name": "Mexican Grand Prix",
+          "winner": "Sebastian Vettel"
         },
         {
-          "race_name": "Canadian Grand Prix",
+          "race_name": "United States Grand Prix",
+          "winner": "Max Verstappen"
+        },
+        {
+          "race_name": "Japanese Grand Prix",
+          "winner": "Max Verstappen"
+        },
+        {
+          "race_name": "Malaysian Grand Prix",
+          "winner": "Max Verstappen"
+        },
+        {
+          "race_name": "Singapore Grand Prix",
+          "winner": "Sebastian Vettel"
+        },
+        {
+          "race_name": "Italian Grand Prix",
+          "winner": "Nico Rosberg"
+        },
+        {
+          "race_name": "Belgian Grand Prix",
+          "winner": "Lewis Hamilton"
+        },
+        {
+          "race_name": "German Grand Prix",
+          "winner": "Daniel Ricciardo"
+        },
+        {
+          "race_name": "Hungarian Grand Prix",
+          "winner": "Kimi Räikkönen"
+        },
+        {
+          "race_name": "British Grand Prix",
+          "winner": "Max Verstappen"
+        },
+        {
+          "race_name": "Austrian Grand Prix",
           "winner": "Max Verstappen"
         },
         {
@@ -52,56 +76,32 @@
           "winner": "Sergio Pérez"
         },
         {
-          "race_name": "Austrian Grand Prix",
+          "race_name": "Canadian Grand Prix",
           "winner": "Max Verstappen"
         },
         {
-          "race_name": "British Grand Prix",
+          "race_name": "Monaco Grand Prix",
+          "winner": "Sergio Pérez"
+        },
+        {
+          "race_name": "Spanish Grand Prix",
           "winner": "Max Verstappen"
         },
         {
-          "race_name": "Hungarian Grand Prix",
-          "winner": "Kimi Räikkönen"
+          "race_name": "Russian Grand Prix",
+          "winner": "Kevin Magnussen"
         },
         {
-          "race_name": "German Grand Prix",
-          "winner": "Daniel Ricciardo"
+          "race_name": "Chinese Grand Prix",
+          "winner": "Daniil Kvyat"
         },
         {
-          "race_name": "Belgian Grand Prix",
-          "winner": "Lewis Hamilton"
+          "race_name": "Bahrain Grand Prix",
+          "winner": "Romain Grosjean"
         },
         {
-          "race_name": "Italian Grand Prix",
-          "winner": "Nico Rosberg"
-        },
-        {
-          "race_name": "Singapore Grand Prix",
-          "winner": "Sebastian Vettel"
-        },
-        {
-          "race_name": "Malaysian Grand Prix",
-          "winner": "Max Verstappen"
-        },
-        {
-          "race_name": "Japanese Grand Prix",
-          "winner": "Max Verstappen"
-        },
-        {
-          "race_name": "United States Grand Prix",
-          "winner": "Max Verstappen"
-        },
-        {
-          "race_name": "Mexican Grand Prix",
-          "winner": "Sebastian Vettel"
-        },
-        {
-          "race_name": "Brazilian Grand Prix",
-          "winner": "Max Verstappen"
-        },
-        {
-          "race_name": "Abu Dhabi Grand Prix",
-          "winner": "Sebastian Vettel"
+          "race_name": "Australian Grand Prix",
+          "winner": "Romain Grosjean"
         }
       ]
     },
@@ -109,51 +109,31 @@
       "total_races": 20,
       "races": [
         {
-          "race_name": "Australian Grand Prix",
+          "race_name": "Abu Dhabi Grand Prix",
+          "winner": "Valtteri Bottas"
+        },
+        {
+          "race_name": "Brazilian Grand Prix",
+          "winner": "Lewis Hamilton"
+        },
+        {
+          "race_name": "Mexican Grand Prix",
           "winner": "Sebastian Vettel"
         },
         {
-          "race_name": "Chinese Grand Prix",
+          "race_name": "United States Grand Prix",
           "winner": "Max Verstappen"
         },
         {
-          "race_name": "Bahrain Grand Prix",
+          "race_name": "Japanese Grand Prix",
+          "winner": "Max Verstappen"
+        },
+        {
+          "race_name": "Malaysian Grand Prix",
           "winner": "Sebastian Vettel"
         },
         {
-          "race_name": "Russian Grand Prix",
-          "winner": "Valtteri Bottas"
-        },
-        {
-          "race_name": "Spanish Grand Prix",
-          "winner": "Sebastian Vettel"
-        },
-        {
-          "race_name": "Monaco Grand Prix",
-          "winner": "Sebastian Vettel"
-        },
-        {
-          "race_name": "Canadian Grand Prix",
-          "winner": "Sebastian Vettel"
-        },
-        {
-          "race_name": "Azerbaijan Grand Prix",
-          "winner": "Lance Stroll"
-        },
-        {
-          "race_name": "Austrian Grand Prix",
-          "winner": "Valtteri Bottas"
-        },
-        {
-          "race_name": "British Grand Prix",
-          "winner": "Daniel Ricciardo"
-        },
-        {
-          "race_name": "Hungarian Grand Prix",
-          "winner": "Kimi Räikkönen"
-        },
-        {
-          "race_name": "Belgian Grand Prix",
+          "race_name": "Singapore Grand Prix",
           "winner": "Lewis Hamilton"
         },
         {
@@ -161,32 +141,52 @@
           "winner": "Daniel Ricciardo"
         },
         {
-          "race_name": "Singapore Grand Prix",
+          "race_name": "Belgian Grand Prix",
           "winner": "Lewis Hamilton"
         },
         {
-          "race_name": "Malaysian Grand Prix",
-          "winner": "Sebastian Vettel"
+          "race_name": "Hungarian Grand Prix",
+          "winner": "Kimi Räikkönen"
         },
         {
-          "race_name": "Japanese Grand Prix",
-          "winner": "Max Verstappen"
+          "race_name": "British Grand Prix",
+          "winner": "Daniel Ricciardo"
         },
         {
-          "race_name": "United States Grand Prix",
-          "winner": "Max Verstappen"
-        },
-        {
-          "race_name": "Mexican Grand Prix",
-          "winner": "Sebastian Vettel"
-        },
-        {
-          "race_name": "Brazilian Grand Prix",
-          "winner": "Lewis Hamilton"
-        },
-        {
-          "race_name": "Abu Dhabi Grand Prix",
+          "race_name": "Austrian Grand Prix",
           "winner": "Valtteri Bottas"
+        },
+        {
+          "race_name": "Azerbaijan Grand Prix",
+          "winner": "Lance Stroll"
+        },
+        {
+          "race_name": "Canadian Grand Prix",
+          "winner": "Sebastian Vettel"
+        },
+        {
+          "race_name": "Monaco Grand Prix",
+          "winner": "Sebastian Vettel"
+        },
+        {
+          "race_name": "Spanish Grand Prix",
+          "winner": "Sebastian Vettel"
+        },
+        {
+          "race_name": "Russian Grand Prix",
+          "winner": "Valtteri Bottas"
+        },
+        {
+          "race_name": "Bahrain Grand Prix",
+          "winner": "Sebastian Vettel"
+        },
+        {
+          "race_name": "Chinese Grand Prix",
+          "winner": "Max Verstappen"
+        },
+        {
+          "race_name": "Australian Grand Prix",
+          "winner": "Sebastian Vettel"
         }
       ]
     },
@@ -284,7 +284,7 @@
       "races": [
         {
           "race_name": "Abu Dhabi Grand Prix",
-          "winner": "Nico Hülkenberg"
+          "winner": "Nico Hulkenberg"
         },
         {
           "race_name": "Brazilian Grand Prix",
@@ -292,7 +292,7 @@
         },
         {
           "race_name": "United States Grand Prix",
-          "winner": "Alex Albon"
+          "winner": "Alexander Albon"
         },
         {
           "race_name": "Mexican Grand Prix",
@@ -393,11 +393,11 @@
         },
         {
           "race_name": "Portuguese Grand Prix",
-          "winner": "Sergio Pérez"
+          "winner": "Sergio Perez"
         },
         {
           "race_name": "Eifel Grand Prix",
-          "winner": "Nico Hülkenberg"
+          "winner": "Nico Hulkenberg"
         },
         {
           "race_name": "Russian Grand Prix",
@@ -433,11 +433,11 @@
         },
         {
           "race_name": "Styrian Grand Prix",
-          "winner": "Sergio Pérez"
+          "winner": "Sergio Perez"
         },
         {
           "race_name": "Austrian Grand Prix",
-          "winner": "Alex Albon"
+          "winner": "Alexander Albon"
         }
       ]
     },
@@ -462,7 +462,7 @@
         },
         {
           "race_name": "Mexico City Grand Prix",
-          "winner": "Sergio Pérez"
+          "winner": "Sergio Perez"
         },
         {
           "race_name": "United States Grand Prix",
@@ -482,7 +482,7 @@
         },
         {
           "race_name": "Dutch Grand Prix",
-          "winner": "Sergio Pérez"
+          "winner": "Sergio Perez"
         },
         {
           "race_name": "Hungarian Grand Prix",
@@ -526,7 +526,7 @@
         },
         {
           "race_name": "Bahrain Grand Prix",
-          "winner": "Sergio Pérez"
+          "winner": "Sergio Perez"
         }
       ]
     },
@@ -555,11 +555,11 @@
         },
         {
           "race_name": "Singapore Grand Prix",
-          "winner": "Sergio Pérez"
+          "winner": "Sergio Perez"
         },
         {
           "race_name": "Italian Grand Prix",
-          "winner": "Nyck de Vries"
+          "winner": "Nyck De Vries"
         },
         {
           "race_name": "Dutch Grand Prix",
@@ -583,7 +583,7 @@
         },
         {
           "race_name": "British Grand Prix",
-          "winner": "Sergio Pérez"
+          "winner": "Sergio Perez"
         },
         {
           "race_name": "Canadian Grand Prix",
@@ -595,7 +595,7 @@
         },
         {
           "race_name": "Monaco Grand Prix",
-          "winner": "Sergio Pérez"
+          "winner": "Sergio Perez"
         },
         {
           "race_name": "Spanish Grand Prix",
@@ -672,7 +672,7 @@
         },
         {
           "race_name": "Hungarian Grand Prix",
-          "winner": "Sergio Pérez"
+          "winner": "Sergio Perez"
         },
         {
           "race_name": "British Grand Prix",
@@ -700,11 +700,11 @@
         },
         {
           "race_name": "Azerbaijan Grand Prix",
-          "winner": "Sergio Pérez"
+          "winner": "Sergio Perez"
         },
         {
           "race_name": "Australian Grand Prix",
-          "winner": "Sergio Pérez"
+          "winner": "Sergio Perez"
         },
         {
           "race_name": "Saudi Arabian Grand Prix",
@@ -725,7 +725,7 @@
         },
         {
           "race_name": "Qatar Grand Prix",
-          "winner": "Zhou Guanyu"
+          "winner": "Guanyu Zhou"
         },
         {
           "race_name": "Las Vegas Grand Prix",
@@ -870,7 +870,7 @@
         },
         {
           "race_name": "British Grand Prix",
-          "winner": "Nico Hülkenberg"
+          "winner": "Nico Hulkenberg"
         },
         {
           "race_name": "Austrian Grand Prix",
@@ -922,59 +922,7 @@
       "total_races": 16,
       "races": [
         {
-          "race_name": "Australian Grand Prix",
-          "winner": "Max Verstappen"
-        },
-        {
-          "race_name": "Chinese Grand Prix",
-          "winner": "Kimi Antonelli"
-        },
-        {
-          "race_name": "Japanese Grand Prix",
-          "winner": "Oscar Piastri"
-        },
-        {
-          "race_name": "Miami Grand Prix",
-          "winner": "Max Verstappen"
-        },
-        {
-          "race_name": "Canadian Grand Prix",
-          "winner": "Lewis Hamilton"
-        },
-        {
-          "race_name": "Monaco Grand Prix",
-          "winner": "Kimi Antonelli"
-        },
-        {
-          "race_name": "Barcelona-Catalunya Grand Prix",
-          "winner": "Lewis Hamilton"
-        },
-        {
-          "race_name": "Austrian Grand Prix",
-          "winner": "Max Verstappen"
-        },
-        {
-          "race_name": "British Grand Prix",
-          "winner": "Charles Leclerc"
-        },
-        {
-          "race_name": "Belgian Grand Prix",
-          "winner": "Charles Leclerc"
-        },
-        {
-          "race_name": "Hungarian Grand Prix",
-          "winner": "Max Verstappen"
-        },
-        {
-          "race_name": "Dutch Grand Prix",
-          "winner": "Lando Norris"
-        },
-        {
-          "race_name": "Italian Grand Prix",
-          "winner": "Kimi Antonelli"
-        },
-        {
-          "race_name": "Spanish Grand Prix",
+          "race_name": "Bahrain Grand Prix",
           "winner": "Max Verstappen"
         },
         {
@@ -982,7 +930,59 @@
           "winner": "Max Verstappen"
         },
         {
-          "race_name": "Bahrain Grand Prix in Malaysia",
+          "race_name": "Spanish Grand Prix",
+          "winner": "Max Verstappen"
+        },
+        {
+          "race_name": "Italian Grand Prix",
+          "winner": "Kimi Antonelli"
+        },
+        {
+          "race_name": "Dutch Grand Prix",
+          "winner": "Lando Norris"
+        },
+        {
+          "race_name": "Hungarian Grand Prix",
+          "winner": "Max Verstappen"
+        },
+        {
+          "race_name": "Belgian Grand Prix",
+          "winner": "Charles Leclerc"
+        },
+        {
+          "race_name": "British Grand Prix",
+          "winner": "Charles Leclerc"
+        },
+        {
+          "race_name": "Austrian Grand Prix",
+          "winner": "Max Verstappen"
+        },
+        {
+          "race_name": "Barcelona-Catalunya Grand Prix",
+          "winner": "Lewis Hamilton"
+        },
+        {
+          "race_name": "Monaco Grand Prix",
+          "winner": "Kimi Antonelli"
+        },
+        {
+          "race_name": "Canadian Grand Prix",
+          "winner": "Lewis Hamilton"
+        },
+        {
+          "race_name": "Miami Grand Prix",
+          "winner": "Max Verstappen"
+        },
+        {
+          "race_name": "Japanese Grand Prix",
+          "winner": "Oscar Piastri"
+        },
+        {
+          "race_name": "Chinese Grand Prix",
+          "winner": "Kimi Antonelli"
+        },
+        {
+          "race_name": "Australian Grand Prix",
           "winner": "Max Verstappen"
         }
       ]

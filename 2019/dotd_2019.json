@@ -1,16 +1,16 @@
 {
   "year": 2019,
   "total_races": 21,
-  "last_updated": "2026-07-05T05:00:02.678920+00:00",
+  "last_updated": "2026-10-06T14:51:28.778537+00:00",
   "races": [
     {
       "race_name": "Abu Dhabi Grand Prix",
       "year": 2019,
-      "winner": "Nico Hülkenberg",
+      "winner": "Nico Hulkenberg",
       "voting_results": [
         {
-          "driver": "Nico Hülkenberg",
-          "percentage": 26.4
+          "driver": "Nico Hulkenberg",
+          "percentage": 26.39
         },
         {
           "driver": "Valtteri Bottas",
@@ -18,15 +18,15 @@
         },
         {
           "driver": "Robert Kubica",
-          "percentage": 14.0
+          "percentage": 14.01
         },
         {
           "driver": "Max Verstappen",
-          "percentage": 9.5
+          "percentage": 9.47
         },
         {
           "driver": "Lewis Hamilton",
-          "percentage": 8.8
+          "percentage": 8.83
         }
       ]
     },
@@ -37,19 +37,19 @@
       "voting_results": [
         {
           "driver": "Max Verstappen",
-          "percentage": 22.2
+          "percentage": 22.24
         },
         {
-          "driver": "Alex Albon",
-          "percentage": 13.8
+          "driver": "Alexander Albon",
+          "percentage": 13.83
         },
         {
           "driver": "Charles Leclerc",
-          "percentage": 12.8
+          "percentage": 12.84
         },
         {
           "driver": "Carlos Sainz",
-          "percentage": 11.7
+          "percentage": 11.69
         },
         {
           "driver": "Pierre Gasly",
@@ -60,27 +60,27 @@
     {
       "race_name": "United States Grand Prix",
       "year": 2019,
-      "winner": "Alex Albon",
+      "winner": "Alexander Albon",
       "voting_results": [
         {
-          "driver": "Alex Albon",
-          "percentage": 17.0
+          "driver": "Alexander Albon",
+          "percentage": 17.06
         },
         {
           "driver": "Lewis Hamilton",
-          "percentage": 16.2
+          "percentage": 16.15
         },
         {
           "driver": "Valtteri Bottas",
-          "percentage": 14.9
+          "percentage": 14.86
         },
         {
           "driver": "Max Verstappen",
-          "percentage": 13.9
+          "percentage": 13.89
         },
         {
           "driver": "Daniel Ricciardo",
-          "percentage": 10.1
+          "percentage": 10.14
         }
       ]
     },
@@ -91,11 +91,11 @@
       "voting_results": [
         {
           "driver": "Max Verstappen",
-          "percentage": 20.2
+          "percentage": 20.19
         },
         {
           "driver": "Lewis Hamilton",
-          "percentage": 17.6
+          "percentage": 17.56
         },
         {
           "driver": "Sebastian Vettel",
@@ -103,11 +103,11 @@
         },
         {
           "driver": "Daniel Ricciardo",
-          "percentage": 9.4
+          "percentage": 9.43
         },
         {
-          "driver": "Alex Albon",
-          "percentage": 8.5
+          "driver": "Alexander Albon",
+          "percentage": 8.46
         }
       ]
     },
@@ -118,23 +118,23 @@
       "voting_results": [
         {
           "driver": "Valtteri Bottas",
-          "percentage": 21.0
+          "percentage": 20.79
         },
         {
           "driver": "Charles Leclerc",
-          "percentage": 15.0
+          "percentage": 14.73
         },
         {
           "driver": "Carlos Sainz",
-          "percentage": 14.0
+          "percentage": 14.32
         },
         {
           "driver": "Sebastian Vettel",
-          "percentage": 10.0
+          "percentage": 10.42
         },
         {
           "driver": "Daniel Ricciardo",
-          "percentage": 8.0
+          "percentage": 8.23
         }
       ]
     },
@@ -145,23 +145,23 @@
       "voting_results": [
         {
           "driver": "Sebastian Vettel",
-          "percentage": 22.0
+          "percentage": 21.91
         },
         {
           "driver": "Alexander Albon",
-          "percentage": 15.5
+          "percentage": 15.52
         },
         {
           "driver": "Lewis Hamilton",
-          "percentage": 15.0
+          "percentage": 15.04
         },
         {
           "driver": "Charles Leclerc",
-          "percentage": 11.3
+          "percentage": 11.27
         },
         {
           "driver": "Carlos Sainz",
-          "percentage": 9.3
+          "percentage": 9.31
         }
       ]
     },
@@ -172,7 +172,7 @@
       "voting_results": [
         {
           "driver": "Sebastian Vettel",
-          "percentage": 21.2
+          "percentage": 21.95
         },
         {
           "driver": "Charles Leclerc",
@@ -180,7 +180,7 @@
         },
         {
           "driver": "Max Verstappen",
-          "percentage": 11.0
+          "percentage": 10.95
         },
         {
           "driver": "Daniel Ricciardo",
@@ -188,7 +188,7 @@
         },
         {
           "driver": "Lando Norris",
-          "percentage": 8.0
+          "percentage": 7.95
         }
       ]
     },
@@ -199,7 +199,7 @@
       "voting_results": [
         {
           "driver": "Charles Leclerc",
-          "percentage": 34.9
+          "percentage": 34.87
         },
         {
           "driver": "Max Verstappen",
@@ -207,15 +207,15 @@
         },
         {
           "driver": "Daniel Ricciardo",
-          "percentage": 11.2
+          "percentage": 11.15
         },
         {
           "driver": "Valtteri Bottas",
-          "percentage": 7.0
+          "percentage": 6.96
         },
         {
           "driver": "Lewis Hamilton",
-          "percentage": 6.1
+          "percentage": 6.11
         }
       ]
     },
@@ -226,23 +226,23 @@
       "voting_results": [
         {
           "driver": "Lando Norris",
-          "percentage": 21.2
+          "percentage": 21.24
         },
         {
           "driver": "Charles Leclerc",
-          "percentage": 21.0
+          "percentage": 21.05
         },
         {
           "driver": "Alexander Albon",
-          "percentage": 19.6
+          "percentage": 19.58
         },
         {
           "driver": "Lewis Hamilton",
-          "percentage": 8.8
+          "percentage": 8.76
         },
         {
           "driver": "Sebastian Vettel",
-          "percentage": 6.6
+          "percentage": 6.56
         }
       ]
     },
@@ -253,23 +253,27 @@
       "voting_results": [
         {
           "driver": "Max Verstappen",
-          "percentage": 26.2
+          "percentage": 26.16
         },
         {
           "driver": "Lewis Hamilton",
-          "percentage": 24.8
+          "percentage": 24.79
         },
         {
           "driver": "Carlos Sainz",
-          "percentage": 9.8
+          "percentage": 9.79
         },
         {
           "driver": "Kimi Räikkönen",
-          "percentage": 5.3
+          "percentage": 5.25
         },
         {
           "driver": "Sebastian Vettel",
-          "percentage": 5.2
+          "percentage": 5.18
+        },
+        {
+          "driver": "Valtteri Bottas",
+          "percentage": 5.18
         }
       ]
     },
@@ -280,11 +284,11 @@
       "voting_results": [
         {
           "driver": "Max Verstappen",
-          "percentage": 20.9
+          "percentage": 20.94
         },
         {
           "driver": "Sebastian Vettel",
-          "percentage": 17.4
+          "percentage": 17.42
         },
         {
           "driver": "Daniil Kvyat",
@@ -292,11 +296,11 @@
         },
         {
           "driver": "Kimi Räikkönen",
-          "percentage": 6.9
+          "percentage": 6.85
         },
         {
           "driver": "Alexander Albon",
-          "percentage": 6.8
+          "percentage": 6.84
         }
       ]
     },
@@ -307,11 +311,11 @@
       "voting_results": [
         {
           "driver": "Charles Leclerc",
-          "percentage": 20.6
+          "percentage": 20.63
         },
         {
           "driver": "Max Verstappen",
-          "percentage": 18.8
+          "percentage": 18.77
         },
         {
           "driver": "Lewis Hamilton",
@@ -319,11 +323,11 @@
         },
         {
           "driver": "Carlos Sainz",
-          "percentage": 9.5
+          "percentage": 9.52
         },
         {
           "driver": "Sebastian Vettel",
-          "percentage": 8.0
+          "percentage": 8
         }
       ]
     },
@@ -361,19 +365,19 @@
       "voting_results": [
         {
           "driver": "Lando Norris",
-          "percentage": 26.4
+          "percentage": 26.37
         },
         {
           "driver": "Lewis Hamilton",
-          "percentage": 15.1
+          "percentage": 15.12
         },
         {
           "driver": "Charles Leclerc",
-          "percentage": 10.2
+          "percentage": 10.19
         },
         {
           "driver": "Sebastian Vettel",
-          "percentage": 7.4
+          "percentage": 7.37
         },
         {
           "driver": "Kimi Räikkönen",
@@ -392,19 +396,19 @@
         },
         {
           "driver": "Daniel Ricciardo",
-          "percentage": 18.2
+          "percentage": 18.18
         },
         {
           "driver": "Lewis Hamilton",
-          "percentage": 13.5
+          "percentage": 13.48
         },
         {
           "driver": "Max Verstappen",
-          "percentage": 12.5
+          "percentage": 12.48
         },
         {
           "driver": "Charles Leclerc",
-          "percentage": 8.2
+          "percentage": 8.23
         }
       ]
     },
@@ -415,7 +419,7 @@
       "voting_results": [
         {
           "driver": "Max Verstappen",
-          "percentage": 23.3
+          "percentage": 23.31
         },
         {
           "driver": "Lewis Hamilton",
@@ -423,15 +427,15 @@
         },
         {
           "driver": "Charles Leclerc",
-          "percentage": 12.4
+          "percentage": 12.41
         },
         {
           "driver": "Sebastian Vettel",
-          "percentage": 8.0
+          "percentage": 8.03
         },
         {
           "driver": "Carlos Sainz",
-          "percentage": 6.7
+          "percentage": 6.67
         }
       ]
     },
@@ -442,23 +446,23 @@
       "voting_results": [
         {
           "driver": "Max Verstappen",
-          "percentage": 19.9
+          "percentage": 19.82
         },
         {
           "driver": "Lewis Hamilton",
-          "percentage": 16.5
+          "percentage": 16.47
         },
         {
           "driver": "Charles Leclerc",
-          "percentage": 8.4
+          "percentage": 8.44
         },
         {
           "driver": "Daniil Kvyat",
-          "percentage": 8.3
+          "percentage": 8.32
         },
         {
           "driver": "Carlos Sainz",
-          "percentage": 7.4
+          "percentage": 7.43
         }
       ]
     },
@@ -469,23 +473,23 @@
       "voting_results": [
         {
           "driver": "Charles Leclerc",
-          "percentage": 17.6
+          "percentage": 17.65
         },
         {
           "driver": "Valtteri Bottas",
-          "percentage": 16.0
+          "percentage": 16
         },
         {
           "driver": "Max Verstappen",
-          "percentage": 15.4
+          "percentage": 15.48
         },
         {
           "driver": "Kimi Räikkönen",
-          "percentage": 8.3
+          "percentage": 8.36
         },
         {
           "driver": "Lewis Hamilton",
-          "percentage": 7.0
+          "percentage": 7.02
         }
       ]
     },
@@ -496,23 +500,23 @@
       "voting_results": [
         {
           "driver": "Alexander Albon",
-          "percentage": 17.7
+          "percentage": 17.74
         },
         {
           "driver": "Kimi Räikkönen",
-          "percentage": 15.7
+          "percentage": 15.66
         },
         {
           "driver": "Lewis Hamilton",
-          "percentage": 15.4
+          "percentage": 15.42
         },
         {
           "driver": "Charles Leclerc",
-          "percentage": 13.4
+          "percentage": 13.43
         },
         {
           "driver": "Sebastian Vettel",
-          "percentage": 7.7
+          "percentage": 7.74
         }
       ]
     },
@@ -534,7 +538,7 @@
           "percentage": 8.01
         },
         {
-          "driver": "Nico Hülkenberg",
+          "driver": "Nico Hulkenberg",
           "percentage": 6.8
         },
         {
@@ -550,11 +554,11 @@
       "voting_results": [
         {
           "driver": "Valtteri Bottas",
-          "percentage": 28.5
+          "percentage": 28.45
         },
         {
           "driver": "Max Verstappen",
-          "percentage": 22.9
+          "percentage": 22.92
         },
         {
           "driver": "Charles Leclerc",
@@ -562,11 +566,11 @@
         },
         {
           "driver": "Daniil Kvyat",
-          "percentage": 6.0
+          "percentage": 6.02
         },
         {
           "driver": "Kimi Räikkönen",
-          "percentage": 5.2
+          "percentage": 5.24
         }
       ]
     }

@@ -1,27 +1,27 @@
 {
   "race_name": "United States Grand Prix",
   "year": 2019,
-  "winner": "Alex Albon",
+  "winner": "Alexander Albon",
   "voting_results": [
     {
-      "driver": "Alex Albon",
-      "percentage": 17.0
+      "driver": "Alexander Albon",
+      "percentage": 17.06
     },
     {
       "driver": "Lewis Hamilton",
-      "percentage": 16.2
+      "percentage": 16.15
     },
     {
       "driver": "Valtteri Bottas",
-      "percentage": 14.9
+      "percentage": 14.86
     },
     {
       "driver": "Max Verstappen",
-      "percentage": 13.9
+      "percentage": 13.89
     },
     {
       "driver": "Daniel Ricciardo",
-      "percentage": 10.1
+      "percentage": 10.14
     }
   ]
 }

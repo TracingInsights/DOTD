@@ -5,7 +5,7 @@
   "voting_results": [
     {
       "driver": "Daniel Ricciardo",
-      "percentage": 20.1
+      "percentage": 20.11
     },
     {
       "driver": "Lando Norris",
@@ -13,7 +13,7 @@
     },
     {
       "driver": "Charles Leclerc",
-      "percentage": 13.6
+      "percentage": 13.63
     },
     {
       "driver": "Franco Colapinto",
@@ -21,7 +21,7 @@
     },
     {
       "driver": "Oscar Piastri",
-      "percentage": 8.0
+      "percentage": 8.05
     }
   ]
 }

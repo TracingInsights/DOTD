@@ -5,7 +5,7 @@
   "voting_results": [
     {
       "driver": "Fernando Alonso",
-      "percentage": 28.2
+      "percentage": 28.15
     },
     {
       "driver": "Esteban Ocon",
@@ -17,11 +17,11 @@
     },
     {
       "driver": "Sebastian Vettel",
-      "percentage": 9.7
+      "percentage": 9.74
     },
     {
       "driver": "Carlos Sainz",
-      "percentage": 5.0
+      "percentage": 4.96
     }
   ]
 }

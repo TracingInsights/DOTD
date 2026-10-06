@@ -1,15 +1,15 @@
 {
   "race_name": "Dutch Grand Prix",
   "year": 2021,
-  "winner": "Sergio Pérez",
+  "winner": "Sergio Perez",
   "voting_results": [
     {
-      "driver": "Sergio Pérez",
-      "percentage": 27.7
+      "driver": "Sergio Perez",
+      "percentage": 27.66
     },
     {
       "driver": "Max Verstappen",
-      "percentage": 19.4
+      "percentage": 19.44
     },
     {
       "driver": "Lewis Hamilton",
@@ -17,11 +17,11 @@
     },
     {
       "driver": "Pierre Gasly",
-      "percentage": 8.0
+      "percentage": 7.98
     },
     {
       "driver": "Robert Kubica",
-      "percentage": 7.8
+      "percentage": 7.78
     }
   ]
 }

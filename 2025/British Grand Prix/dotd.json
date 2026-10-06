@@ -1,27 +1,27 @@
 {
   "race_name": "British Grand Prix",
   "year": 2025,
-  "winner": "Nico Hülkenberg",
+  "winner": "Nico Hulkenberg",
   "voting_results": [
     {
-      "driver": "Nico Hülkenberg",
-      "percentage": 49.0
+      "driver": "Nico Hulkenberg",
+      "percentage": 49.04
     },
     {
       "driver": "Lewis Hamilton",
-      "percentage": 11.5
+      "percentage": 11.53
     },
     {
       "driver": "Lando Norris",
-      "percentage": 8.6
+      "percentage": 8.63
     },
     {
       "driver": "Max Verstappen",
-      "percentage": 5.9
+      "percentage": 5.94
     },
     {
       "driver": "Lance Stroll",
-      "percentage": 5.8
+      "percentage": 5.89
     }
   ]
 }

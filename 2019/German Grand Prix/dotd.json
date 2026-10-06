@@ -5,11 +5,11 @@
   "voting_results": [
     {
       "driver": "Max Verstappen",
-      "percentage": 20.9
+      "percentage": 20.94
     },
     {
       "driver": "Sebastian Vettel",
-      "percentage": 17.4
+      "percentage": 17.42
     },
     {
       "driver": "Daniil Kvyat",
@@ -17,11 +17,11 @@
     },
     {
       "driver": "Kimi Räikkönen",
-      "percentage": 6.9
+      "percentage": 6.85
     },
     {
       "driver": "Alexander Albon",
-      "percentage": 6.8
+      "percentage": 6.84
     }
   ]
 }

@@ -5,23 +5,23 @@
   "voting_results": [
     {
       "driver": "Max Verstappen",
-      "percentage": 26.7
+      "percentage": 26.73
     },
     {
       "driver": "Lewis Hamilton",
-      "percentage": 24.6
+      "percentage": 24.55
     },
     {
       "driver": "Esteban Ocon",
-      "percentage": 12.9
+      "percentage": 12.93
     },
     {
       "driver": "Daniel Ricciardo",
-      "percentage": 6.6
+      "percentage": 6.64
     },
     {
       "driver": "Kimi Räikkönen",
-      "percentage": 4.1
+      "percentage": 4.05
     }
   ]
 }

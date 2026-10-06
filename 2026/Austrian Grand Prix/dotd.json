@@ -5,23 +5,23 @@
   "voting_results": [
     {
       "driver": "Max Verstappen",
-      "percentage": 39.6
+      "percentage": 39.61
     },
     {
       "driver": "George Russell",
-      "percentage": 11.4
+      "percentage": 11.37
     },
     {
       "driver": "Lewis Hamilton",
-      "percentage": 10.3
+      "percentage": 10.32
     },
     {
       "driver": "Kimi Antonelli",
-      "percentage": 10.0
+      "percentage": 10
     },
     {
       "driver": "Oscar Piastri",
-      "percentage": 8.3
+      "percentage": 8.26
     }
   ]
 }

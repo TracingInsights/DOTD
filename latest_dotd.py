@@ -7,6 +7,7 @@ from pathlib import Path
 import requests
 
 from mapping import F1_RACES, urls
+from pinned_races import is_pinned, load_pinned_race
 
 
 def fetch_dotd_data(year=2026):
@@ -49,6 +50,10 @@ def fetch_dotd_data(year=2026):
         if not all_races:
             print(f"No race data found for {year}!")
             return []
+
+        # Races are listed oldest-first in the source content; store them
+        # newest-first to match the original F1 pages (like the 2018 data).
+        all_races.reverse()
 
         # Get current UTC time for last_updated
         current_utc_time = datetime.now(timezone.utc).isoformat()
@@ -149,7 +154,29 @@ def extract_dotd_data(content, year):
             "voting_results": drivers_votes,
         }
 
+        # Pinned races keep the repo's original data (see pinned_races.py);
+        # article-extracted values must not overwrite it.
+        if is_pinned(year, clean_race_name):
+            pinned = load_pinned_race(".", year, clean_race_name)
+            if pinned is not None:
+                print(
+                    f"📌 Pinned {year} {clean_race_name}: keeping original "
+                    f"data (winner {pinned['winner']}); article data ignored."
+                )
+                race_data = pinned
+            else:
+                print(
+                    f"⚠️ Pinned {year} {clean_race_name} has no original "
+                    "dotd.json on disk; skipping to avoid overwriting."
+                )
+                continue
+
         all_races_data.append(race_data)
+
+        # Pinned races already have their original dotd.json on disk —
+        # nothing to write for them.
+        if is_pinned(year, clean_race_name):
+            continue
 
         # Create folder structure and save individual race file
         save_race_data(race_data, year, clean_race_name)

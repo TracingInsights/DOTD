@@ -5,23 +5,23 @@
   "voting_results": [
     {
       "driver": "Kimi Antonelli",
-      "percentage": 20.7
+      "percentage": 20.72
     },
     {
       "driver": "Oscar Piastri",
-      "percentage": 15.6
+      "percentage": 15.59
     },
     {
       "driver": "Oliver Bearman",
-      "percentage": 12.9
+      "percentage": 12.94
     },
     {
       "driver": "Charles Leclerc",
-      "percentage": 8.4
+      "percentage": 8.41
     },
     {
       "driver": "Max Verstappen",
-      "percentage": 6.5
+      "percentage": 6.51
     }
   ]
 }

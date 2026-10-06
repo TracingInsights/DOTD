@@ -1,27 +1,27 @@
 {
   "race_name": "Italian Grand Prix",
   "year": 2022,
-  "winner": "Nyck de Vries",
+  "winner": "Nyck De Vries",
   "voting_results": [
     {
-      "driver": "Nyck de Vries",
-      "percentage": 24.8
+      "driver": "Nyck De Vries",
+      "percentage": 24.82
     },
     {
       "driver": "Carlos Sainz",
-      "percentage": 21.1
+      "percentage": 21.14
     },
     {
       "driver": "Max Verstappen",
-      "percentage": 13.2
+      "percentage": 13.15
     },
     {
       "driver": "Lewis Hamilton",
-      "percentage": 11.1
+      "percentage": 11.14
     },
     {
       "driver": "Charles Leclerc",
-      "percentage": 7.4
+      "percentage": 7.38
     }
   ]
 }

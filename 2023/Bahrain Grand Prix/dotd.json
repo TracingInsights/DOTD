@@ -5,7 +5,7 @@
   "voting_results": [
     {
       "driver": "Fernando Alonso",
-      "percentage": 53.3
+      "percentage": 53.28
     },
     {
       "driver": "Pierre Gasly",
@@ -13,15 +13,15 @@
     },
     {
       "driver": "Max Verstappen",
-      "percentage": 6.3
+      "percentage": 6.33
     },
     {
       "driver": "Lewis Hamilton",
-      "percentage": 5.5
+      "percentage": 5.48
     },
     {
       "driver": "Charles Leclerc",
-      "percentage": 4.4
+      "percentage": 4.37
     }
   ]
 }

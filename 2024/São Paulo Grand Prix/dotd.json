@@ -5,23 +5,23 @@
   "voting_results": [
     {
       "driver": "Max Verstappen",
-      "percentage": 39.6
+      "percentage": 39.59
     },
     {
       "driver": "Esteban Ocon",
-      "percentage": 11.1
+      "percentage": 11.12
     },
     {
       "driver": "Franco Colapinto",
-      "percentage": 6.7
+      "percentage": 6.69
     },
     {
       "driver": "Pierre Gasly",
-      "percentage": 5.5
+      "percentage": 5.46
     },
     {
       "driver": "Lando Norris",
-      "percentage": 5.1
+      "percentage": 5.08
     }
   ]
 }
