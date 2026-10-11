@@ -13,8 +13,8 @@
     2026
   ],
   "total_years": 11,
-  "total_races": 229,
-  "last_updated": "2026-10-06T14:51:32.905268+00:00",
+  "total_races": 230,
+  "last_updated": "2026-10-11T14:16:56.402402+00:00",
   "data_by_year": {
     "2016": {
       "total_races": 21,
@@ -919,8 +919,12 @@
       ]
     },
     "2026": {
-      "total_races": 16,
+      "total_races": 17,
       "races": [
+        {
+          "race_name": "Singapore Grand Prix",
+          "winner": "Max Verstappen"
+        },
         {
           "race_name": "Bahrain Grand Prix",
           "winner": "Max Verstappen"
