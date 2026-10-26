@@ -13,8 +13,8 @@
     2026
   ],
   "total_years": 11,
-  "total_races": 230,
-  "last_updated": "2026-10-19T17:58:25.663096+00:00",
+  "total_races": 231,
+  "last_updated": "2026-10-26T08:26:28.642239+00:00",
   "data_by_year": {
     "2016": {
       "total_races": 21,
@@ -919,8 +919,12 @@
       ]
     },
     "2026": {
-      "total_races": 17,
+      "total_races": 18,
       "races": [
+        {
+          "race_name": "United States Grand Prix",
+          "winner": "Charles Leclerc"
+        },
         {
           "race_name": "Singapore Grand Prix",
           "winner": "Max Verstappen"

@@ -1,8 +1,35 @@
 {
   "year": 2026,
-  "total_races": 17,
-  "last_updated": "2026-10-19T17:58:25.660985+00:00",
+  "total_races": 18,
+  "last_updated": "2026-10-26T08:26:28.640583+00:00",
   "races": [
+    {
+      "race_name": "United States Grand Prix",
+      "year": 2026,
+      "winner": "Charles Leclerc",
+      "voting_results": [
+        {
+          "driver": "Charles Leclerc",
+          "percentage": 25.74
+        },
+        {
+          "driver": "Max Verstappen",
+          "percentage": 24
+        },
+        {
+          "driver": "Kimi Antonelli",
+          "percentage": 18.7
+        },
+        {
+          "driver": "Lando Norris",
+          "percentage": 7.51
+        },
+        {
+          "driver": "Lewis Hamilton",
+          "percentage": 5.39
+        }
+      ]
+    },
     {
       "race_name": "Singapore Grand Prix",
       "year": 2026,

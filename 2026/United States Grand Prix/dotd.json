@@ -1,0 +1,27 @@
+{
+  "race_name": "United States Grand Prix",
+  "year": 2026,
+  "winner": "Charles Leclerc",
+  "voting_results": [
+    {
+      "driver": "Charles Leclerc",
+      "percentage": 25.74
+    },
+    {
+      "driver": "Max Verstappen",
+      "percentage": 24
+    },
+    {
+      "driver": "Kimi Antonelli",
+      "percentage": 18.7
+    },
+    {
+      "driver": "Lando Norris",
+      "percentage": 7.51
+    },
+    {
+      "driver": "Lewis Hamilton",
+      "percentage": 5.39
+    }
+  ]
+}
