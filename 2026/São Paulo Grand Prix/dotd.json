@@ -1,0 +1,27 @@
+{
+  "race_name": "São Paulo Grand Prix",
+  "year": 2026,
+  "winner": "Max Verstappen",
+  "voting_results": [
+    {
+      "driver": "Max Verstappen",
+      "percentage": 31.32
+    },
+    {
+      "driver": "Lando Norris",
+      "percentage": 11.46
+    },
+    {
+      "driver": "Liam Lawson",
+      "percentage": 8.24
+    },
+    {
+      "driver": "Fernando Alonso",
+      "percentage": 6.45
+    },
+    {
+      "driver": "Isack Hadjar",
+      "percentage": 6.39
+    }
+  ]
+}

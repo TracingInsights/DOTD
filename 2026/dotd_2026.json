@@ -1,8 +1,35 @@
 {
   "year": 2026,
-  "total_races": 19,
-  "last_updated": "2026-11-02T21:06:05.123634+00:00",
+  "total_races": 20,
+  "last_updated": "2026-11-09T04:43:19.862002+00:00",
   "races": [
+    {
+      "race_name": "São Paulo Grand Prix",
+      "year": 2026,
+      "winner": "Max Verstappen",
+      "voting_results": [
+        {
+          "driver": "Max Verstappen",
+          "percentage": 31.32
+        },
+        {
+          "driver": "Lando Norris",
+          "percentage": 11.46
+        },
+        {
+          "driver": "Liam Lawson",
+          "percentage": 8.24
+        },
+        {
+          "driver": "Fernando Alonso",
+          "percentage": 6.45
+        },
+        {
+          "driver": "Isack Hadjar",
+          "percentage": 6.39
+        }
+      ]
+    },
     {
       "race_name": "Mexico City Grand Prix",
       "year": 2026,
