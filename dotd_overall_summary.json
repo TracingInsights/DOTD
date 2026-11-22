@@ -13,8 +13,8 @@
     2026
   ],
   "total_years": 11,
-  "total_races": 233,
-  "last_updated": "2026-11-16T21:26:06.766961+00:00",
+  "total_races": 234,
+  "last_updated": "2026-11-22T06:14:26.927176+00:00",
   "data_by_year": {
     "2016": {
       "total_races": 21,
@@ -919,8 +919,12 @@
       ]
     },
     "2026": {
-      "total_races": 20,
+      "total_races": 21,
       "races": [
+        {
+          "race_name": "Las Vegas Grand Prix",
+          "winner": "Max Verstappen"
+        },
         {
           "race_name": "São Paulo Grand Prix",
           "winner": "Max Verstappen"
